@@ -62,27 +62,7 @@ def getProductId(name):
 
 
 fake = Faker()
-df = pd.DataFrame(columns = [
-    'Order_Id',
-    'Product_Id',
-    'Product_Name',
-    'User_Id',
-    'Order_Date',
-    'Return',
-    'City',
-    'Country',
-    'Client_Id',
-    'Client_Email',
-    'Order_Latitude',
-    'Order_Length',
-    'Client_Name',
-    'Birth_Day',
-    'Name_Deliver_Man',
-    'Product_Cost',
-    'Product_Value',
-    'Market_Name'
-    ])
-
+data = []
 for i in range(1000):
     market = random.randint(1, 5)
     product = getRandomProductByMarket(market)
@@ -147,8 +127,7 @@ for i in range(1000):
         marketName = 'Tiendita 4';
     if market == 5:
         marketName = 'Tiendita 5';
-
-    df.append(
+    data.append([
         random.randint(1,100000000),
         getProductId(product),
         product,
@@ -166,5 +145,27 @@ for i in range(1000):
         fake.name(),
         random.randint(1,1000),
         random.randint(1,1000),
-        marketName
+        marketName]
     )
+
+df = pd.DataFrame(data, columns = [
+    'Order_Id',
+    'Product_Id',
+    'Product_Name',
+    'User_Id',
+    'Order_Date',
+    'Return',
+    'City',
+    'Country',
+    'Client_Id',
+    'Client_Email',
+    'Order_Latitude',
+    'Order_Length',
+    'Client_Name',
+    'Birth_Day',
+    'Name_Deliver_Man',
+    'Product_Cost',
+    'Product_Value',
+    'Market_Name'
+    ])
+df.to_csv('file_name.csv')
