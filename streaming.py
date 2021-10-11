@@ -64,7 +64,7 @@ def getProductId(name):
 fake = Faker()
 data = []
 for i in range(1000):
-    market = random.randint(2, 5)
+    market = 1;
     product = getRandomProductByMarket(market)
     birthDate, date, devol, city, country, idClient, marketName, latitude, length = None, None, None, None, None, None, None, None, None
     if market == 1:
@@ -184,4 +184,4 @@ df = pd.DataFrame(data, columns = [
     'Product_Value',
     'Market_Name'
     ])
-df.to_csv('markets.csv')
+df.to_csv('streaming.csv')
