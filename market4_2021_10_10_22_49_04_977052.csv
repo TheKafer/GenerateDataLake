@@ -1,0 +1,1001 @@
+Order_Id,Product_Id,Product_Name,User_Id,Order_Date,Return,City,Country,Client_Id,Client_Email,Order_Latitude,Order_Length,Client_Name,Birth_Day,Deliver_Man_Id,Name_Deliver_Man,Product_Cost,Product_Value,Market_Name
+23939151,5,selfie stick,23830450,"2019,08,15",0,tierra de changua,POLOMBIA,82438887,kiara00@example.com,4.648625,-74.1,Miss Sandra Davis,"2019,08,15",958,Thomas Hatfield,946,637,Tienda4
+35183241,4,cases,20206312,"2017,09,01",0,tierra de changua,POLOMBIA,56989228,ryanlewis@example.org,4.648625,-74.1,Shawn Miller,"2017,09,01",24,April Smith,831,548,Tienda4
+81548486,5,selfie stick,89188779,"2012,03,20",0,tierra de changua,POLOMBIA,31584643,theresavaldez@example.net,4.648625,-74.1,Jeffrey Hall,"2012,03,20",151,Blake Henry,306,781,Tienda4
+19861149,4,cases,89037611,"2000,05,08",0,erda,POLOMBIA,4107012,kevinmaynard@example.com,10.4002813,-75.5,Miss Kelli Huynh,"2000,05,08",491,Anita Aguilar,138,258,Tienda4
+57504516,3,headphones,96120743,"1980,10,22",0,tierra de changua,POLOMBIA,48524286,stonebrianna@example.org,4.648625,-74.1,Sabrina Alvarez,"1980,10,22",565,Susan Taylor,695,218,Tienda4
+97218280,1,PC,46531091,"2016,01,02",0,paloma city,Jaime,12920029,nnorris@example.org,-12.037964,-77.0503238,Rebecca Harris,"2016,01,02",254,Kelsey Harper,925,366,Tienda4
+5683193,3,headphones,43798832,"1995,05,15",0,MEDALLO,POLOMBIA,73968199,francocameron@example.net,6.2441988,-75.6,Michael Kirk,"1995,05,15",635,Michael Tate,461,231,Tienda4
+13829583,1,PC,90463949,"1980,07,18",0,tierra de changua,POLOMBIA,39915433,elizabeth37@example.org,4.648625,-74.1,Maurice Ho,"1980,07,18",532,Belinda Giles,272,261,Tienda4
+15692933,2,charger smartphone,31912785,"2008,03,29",1,tierra de changua,POLOMBIA,6585721,vdelacruz@example.com,4.648625,-74.1,Shannon Ramirez,"2008,03,29",348,David Jackson,617,607,Tienda4
+25735497,5,selfie stick,30538309,"1972,10,10",0,paloma city,Jaime,90358807,fmccarthy@example.com,-12.037964,-77.0503238,Micheal Romero,"1972,10,10",164,Susan Perry,859,640,Tienda4
+62935807,5,selfie stick,69730016,"2004,11,12",0,paloma city,Jaime,20472969,hunter74@example.net,-12.037964,-77.0503238,Joanna Miller,"2004,11,12",380,Jason Clark,262,914,Tienda4
+77849929,2,charger smartphone,53605790,"2001,06,20",0,MEDALLO,POLOMBIA,2603483,kristina65@example.com,6.2441988,-75.6,Jacqueline Webster,"2001,06,20",510,Darrell Hall,198,290,Tienda4
+86006617,5,selfie stick,22591608,"1991,09,22",0,paloma city,Jaime,82631210,sydney49@example.com,-12.037964,-77.0503238,Christopher Peterson,"1991,09,22",651,Laura Fowler,160,106,Tienda4
+64438221,3,headphones,19921434,"2018,08,27",0,MEDALLO,POLOMBIA,67031590,john27@example.com,6.2441988,-75.6,Gregory Luna MD,"2018,08,27",209,Jessica Campbell,321,896,Tienda4
+24016520,4,cases,93540500,"1990,08,04",0,MEDALLO,POLOMBIA,75793086,cassandralee@example.net,6.2441988,-75.6,Juan Allen,"1990,08,04",905,Autumn Allen,219,225,Tienda4
+27245225,1,PC,21312840,"1970,12,23",0,paloma city,Jaime,94221843,ijones@example.org,-12.037964,-77.0503238,Kathryn Garcia,"1970,12,23",277,Jacqueline Tran,752,889,Tienda4
+19463586,5,selfie stick,53183357,"2018,06,04",0,erda,POLOMBIA,25972355,vgomez@example.com,10.4002813,-75.5,John Cooper,"2018,06,04",579,Dr. Stephen Gonzalez DDS,145,896,Tienda4
+33448665,4,cases,64756437,"2017,08,07",0,erda,POLOMBIA,21354828,phillip64@example.com,10.4002813,-75.5,Michelle Rodriguez,"2017,08,07",247,Daniel Ramirez,800,429,Tienda4
+46797137,3,headphones,7061606,"1973,05,10",0,erda,POLOMBIA,92191454,jason19@example.net,10.4002813,-75.5,Vickie Fleming,"1973,05,10",916,Denise Roberts,216,978,Tienda4
+24296900,4,cases,70410713,"2016,12,07",0,erda,POLOMBIA,60288661,amyrussell@example.net,10.4002813,-75.5,William Erickson,"2016,12,07",265,Andrew Ramirez,206,891,Tienda4
+98779640,5,selfie stick,7586337,"2006,10,30",0,paloma city,Jaime,99159132,uhernandez@example.org,-12.037964,-77.0503238,Lauren Ryan,"2006,10,30",334,Jeremy Pitts,84,784,Tienda4
+6045006,1,PC,61166530,"2013,11,10",0,erda,POLOMBIA,96735235,morgansarah@example.org,10.4002813,-75.5,Charles Smith,"2013,11,10",786,Jonathan Doyle,607,950,Tienda4
+11133894,1,PC,86310868,"2021,05,12",4,erda,POLOMBIA,68599816,williamsonkayla@example.org,10.4002813,-75.5,Norma Wilson,"2021,05,12",175,Mary Escobar,557,951,Tienda4
+66777598,2,charger smartphone,1379652,"1991,06,18",1,tierra de changua,POLOMBIA,56650164,ssmith@example.org,4.648625,-74.1,Ricardo Sandoval,"1991,06,18",83,Billy Jones,102,112,Tienda4
+65496431,4,cases,76610822,"1981,04,06",0,erda,POLOMBIA,90587282,tbrown@example.com,10.4002813,-75.5,Sarah Ferguson,"1981,04,06",4,Charles Bell MD,575,557,Tienda4
+11786194,3,headphones,70489406,"1976,08,13",0,erda,POLOMBIA,84059202,bennettrussell@example.net,10.4002813,-75.5,Jose Gutierrez,"1976,08,13",611,Damon Campbell,133,851,Tienda4
+96423793,5,selfie stick,73409259,"1987,11,16",0,MEDALLO,POLOMBIA,87082022,summersdiana@example.net,6.2441988,-75.6,Rebecca Carter,"1987,11,16",61,Jason Beck,297,173,Tienda4
+51198401,1,PC,14613783,"2013,10,03",0,tierra de changua,POLOMBIA,80780529,sean46@example.org,4.648625,-74.1,Miss Debra Miller,"2013,10,03",157,Benjamin Davenport,957,416,Tienda4
+13749767,3,headphones,48604931,"2002,12,13",0,MEDALLO,POLOMBIA,35397790,timothywilliams@example.com,6.2441988,-75.6,Jessica Jones,"2002,12,13",514,Nicole Hall,643,90,Tienda4
+13214387,1,PC,1915683,"2007,12,19",0,erda,POLOMBIA,28094655,amandarich@example.org,10.4002813,-75.5,Lauren Rodriguez,"2007,12,19",38,Christian Hodge,465,643,Tienda4
+35106271,1,PC,91944835,"1970,04,15",0,erda,POLOMBIA,19914251,cindymorris@example.net,10.4002813,-75.5,Eric Smith,"1970,04,15",396,Cody Liu,266,488,Tienda4
+19832305,1,PC,87980090,"1992,03,29",0,MEDALLO,POLOMBIA,71529802,andrew23@example.org,6.2441988,-75.6,Ruben Burke,"1992,03,29",378,Catherine Gonzalez,71,587,Tienda4
+91236765,4,cases,95222067,"1999,02,14",0,MEDALLO,POLOMBIA,97581731,rodriguezcharles@example.net,6.2441988,-75.6,Samantha Juarez,"1999,02,14",854,Christopher Allen,812,355,Tienda4
+89089897,3,headphones,91253010,"2011,01,25",0,erda,POLOMBIA,99646845,jessica28@example.org,10.4002813,-75.5,Shawn Villanueva,"2011,01,25",930,Kristin Jackson,377,892,Tienda4
+95571816,3,headphones,72847143,"1996,10,04",0,tierra de changua,POLOMBIA,27472104,bhiggins@example.org,4.648625,-74.1,Christian Roy,"1996,10,04",964,Ruth Robertson,694,926,Tienda4
+46396755,1,PC,44467594,"2019,07,02",0,erda,POLOMBIA,3921316,ocross@example.com,10.4002813,-75.5,Dylan Morris,"2019,07,02",232,Christy Oliver,702,108,Tienda4
+23095963,2,charger smartphone,395312,"1991,08,14",0,tierra de changua,POLOMBIA,95832669,bbradshaw@example.com,4.648625,-74.1,Dustin Hill,"1991,08,14",620,Matthew Fritz,355,758,Tienda4
+31964922,3,headphones,29692115,"2020,12,14",0,paloma city,Jaime,40553656,jennifer70@example.org,-12.037964,-77.0503238,Lisa Ross,"2020,12,14",952,Samantha Hall,492,11,Tienda4
+20061536,2,charger smartphone,65004925,"1981,12,08",0,paloma city,Jaime,64493478,susan25@example.org,-12.037964,-77.0503238,Zachary Murray,"1981,12,08",493,William Taylor,406,627,Tienda4
+69386977,5,selfie stick,22826292,"1977,10,28",0,erda,POLOMBIA,44165323,murphyalex@example.net,10.4002813,-75.5,Mr. Kristopher Keller,"1977,10,28",497,Steven Rogers,187,864,Tienda4
+87582544,4,cases,82409212,"2010,01,24",0,MEDALLO,POLOMBIA,44578196,tammy86@example.org,6.2441988,-75.6,Justin Zimmerman,"2010,01,24",178,Vincent Hernandez,37,656,Tienda4
+77321829,3,headphones,36876490,"2017,09,28",0,MEDALLO,POLOMBIA,36653240,jameswagner@example.org,6.2441988,-75.6,Brian Schneider,"2017,09,28",141,Christina Brown,877,597,Tienda4
+87340406,2,charger smartphone,54397237,"1982,05,11",0,tierra de changua,POLOMBIA,1872731,nicole36@example.org,4.648625,-74.1,Morgan Ellis,"1982,05,11",39,Rachel Parker,46,689,Tienda4
+81908009,3,headphones,95729875,"1986,11,09",0,erda,POLOMBIA,78226491,mandrews@example.net,10.4002813,-75.5,Anthony Black,"1986,11,09",191,Heather Fuller,614,907,Tienda4
+50887265,1,PC,99126965,"1979,02,04",0,MEDALLO,POLOMBIA,10728256,david17@example.com,6.2441988,-75.6,John Smith,"1979,02,04",796,Shannon Maxwell,67,69,Tienda4
+23985289,3,headphones,77168632,"2020,03,15",0,paloma city,Jaime,39637962,scottlewis@example.com,-12.037964,-77.0503238,Tammy Smith,"2020,03,15",618,Marie Johnson,289,512,Tienda4
+3601172,5,selfie stick,6253080,"1996,08,25",0,MEDALLO,POLOMBIA,53849902,kevin93@example.org,6.2441988,-75.6,Melanie Pham,"1996,08,25",50,Timothy Nash,401,880,Tienda4
+98278556,1,PC,74461830,"1971,06,26",0,paloma city,Jaime,54299281,yrivera@example.net,-12.037964,-77.0503238,Teresa Guerrero,"1971,06,26",936,Kelsey Monroe,46,686,Tienda4
+51069965,3,headphones,58467519,"1975,08,08",0,MEDALLO,POLOMBIA,65244222,steven75@example.org,6.2441988,-75.6,Pamela Shepherd,"1975,08,08",810,Tracy Cooper,271,51,Tienda4
+4790491,1,PC,10398845,"1992,02,13",0,erda,POLOMBIA,3376142,reginaldsmith@example.com,10.4002813,-75.5,Kerry Graham,"1992,02,13",320,Lauren Marshall DVM,120,358,Tienda4
+63614740,1,PC,97399918,"1977,04,03",0,MEDALLO,POLOMBIA,5744143,jeanettewilson@example.org,6.2441988,-75.6,Richard Forbes,"1977,04,03",802,Melissa Martin,222,671,Tienda4
+52166673,4,cases,77774445,"1995,04,06",0,tierra de changua,POLOMBIA,48827472,ncaldwell@example.org,4.648625,-74.1,John Todd,"1995,04,06",276,Michael Jones,748,34,Tienda4
+68626964,3,headphones,79371007,"1988,01,31",3,tierra de changua,POLOMBIA,89818706,jeffreyavila@example.org,4.648625,-74.1,Patrick Williams,"1988,01,31",718,Jason Humphrey,295,944,Tienda4
+48408722,4,cases,66827868,"1992,07,19",0,tierra de changua,POLOMBIA,85261899,lisabarnett@example.com,4.648625,-74.1,John Morrow,"1992,07,19",267,Rebecca Pierce,450,430,Tienda4
+83705238,3,headphones,70577434,"2001,10,16",0,erda,POLOMBIA,85580661,amanda27@example.net,10.4002813,-75.5,Debra Lucas,"2001,10,16",312,Sabrina Taylor,456,622,Tienda4
+80216666,1,PC,417185,"1993,09,09",0,erda,POLOMBIA,24978849,jenniferdavis@example.com,10.4002813,-75.5,Jonathan Evans,"1993,09,09",629,Ronald Adams,245,732,Tienda4
+13492237,3,headphones,81008443,"1991,09,22",0,paloma city,Jaime,63157516,trevor43@example.net,-12.037964,-77.0503238,Ernest Brown,"1991,09,22",312,Samantha Wagner,509,486,Tienda4
+1588403,4,cases,56843955,"1987,07,11",0,erda,POLOMBIA,2393902,kdaugherty@example.com,10.4002813,-75.5,Melinda Allen,"1987,07,11",45,Jason Osborn,281,690,Tienda4
+69773086,5,selfie stick,83204405,"2006,06,20",0,tierra de changua,POLOMBIA,46927523,gregory02@example.org,4.648625,-74.1,Kevin Farrell,"2006,06,20",290,Peggy Foster,823,997,Tienda4
+38984903,3,headphones,749204,"1999,03,17",0,erda,POLOMBIA,84972216,cainamy@example.org,10.4002813,-75.5,Timothy Jones,"1999,03,17",173,Nicholas Pierce,808,352,Tienda4
+50595185,2,charger smartphone,38377740,"2007,03,31",0,MEDALLO,POLOMBIA,35027556,ronaldgarcia@example.org,6.2441988,-75.6,Aaron Hill,"2007,03,31",152,Brian Fletcher,279,154,Tienda4
+48096615,2,charger smartphone,76564192,"1975,05,01",0,tierra de changua,POLOMBIA,5932661,fpatrick@example.net,4.648625,-74.1,Mrs. Mary Rocha DDS,"1975,05,01",302,Eric Walton,107,962,Tienda4
+57542732,2,charger smartphone,20930936,"1982,07,28",0,MEDALLO,POLOMBIA,4571143,scooper@example.com,6.2441988,-75.6,Paul Russell,"1982,07,28",610,Meghan Davis,37,953,Tienda4
+48660803,4,cases,35336892,"2010,09,21",0,MEDALLO,POLOMBIA,83036642,bjackson@example.net,6.2441988,-75.6,William Williams,"2010,09,21",99,Patricia Pollard,918,488,Tienda4
+27025563,2,charger smartphone,70236931,"1982,04,21",0,erda,POLOMBIA,18527200,fblack@example.org,10.4002813,-75.5,Brandon Campbell,"1982,04,21",52,Robert Phillips,699,21,Tienda4
+27503301,5,selfie stick,9664369,"1991,09,02",0,MEDALLO,POLOMBIA,62897900,richard34@example.org,6.2441988,-75.6,Elijah Bell,"1991,09,02",773,Robert Ramos,46,26,Tienda4
+5335178,4,cases,97454325,"1979,04,09",0,tierra de changua,POLOMBIA,69554441,mmoran@example.org,4.648625,-74.1,David Grant,"1979,04,09",318,Nicole Snyder,573,382,Tienda4
+12664988,3,headphones,32855520,"2005,10,19",4,tierra de changua,POLOMBIA,97048672,ortegajoseph@example.com,4.648625,-74.1,Valerie Hanson,"2005,10,19",337,Virginia Stone,851,859,Tienda4
+78058801,2,charger smartphone,34839556,"1988,07,09",0,erda,POLOMBIA,6742978,tina07@example.com,10.4002813,-75.5,Ronald Delacruz,"1988,07,09",159,Sylvia Reed,37,320,Tienda4
+67339605,2,charger smartphone,83017779,"2018,12,06",0,tierra de changua,POLOMBIA,29316589,reginahuang@example.com,4.648625,-74.1,Joshua Zamora,"2018,12,06",186,James Lowery,499,374,Tienda4
+25376042,3,headphones,39813820,"1987,01,10",0,tierra de changua,POLOMBIA,15491452,stephenskinner@example.org,4.648625,-74.1,Derrick Taylor,"1987,01,10",996,Mary Jarvis,648,437,Tienda4
+63716811,2,charger smartphone,56833472,"2009,12,23",0,tierra de changua,POLOMBIA,38908287,sanchezcassandra@example.net,4.648625,-74.1,John Hickman,"2009,12,23",730,Ann Davis,53,109,Tienda4
+29561576,5,selfie stick,47320931,"2014,01,07",0,erda,POLOMBIA,41155524,hayleymiller@example.com,10.4002813,-75.5,Brian Burton,"2014,01,07",111,Heather Higgins,265,79,Tienda4
+82709499,5,selfie stick,40652239,"2005,03,16",5,erda,POLOMBIA,82788433,vanessa53@example.org,10.4002813,-75.5,James Castro,"2005,03,16",37,Wendy Fuller,154,608,Tienda4
+83232231,2,charger smartphone,48233080,"2009,12,13",0,tierra de changua,POLOMBIA,80112337,nicolerose@example.org,4.648625,-74.1,Noah Johnson,"2009,12,13",181,Kelly Rodriguez,977,136,Tienda4
+80865701,5,selfie stick,78244749,"1974,04,21",0,tierra de changua,POLOMBIA,85611186,michael46@example.com,4.648625,-74.1,Colleen Sellers,"1974,04,21",796,Carmen Wheeler,550,405,Tienda4
+82671875,4,cases,8066121,"1997,09,24",0,erda,POLOMBIA,22059326,ofisher@example.org,10.4002813,-75.5,Peter Booker,"1997,09,24",428,Jessica Dickerson,292,119,Tienda4
+63909861,2,charger smartphone,2769803,"2003,01,29",0,erda,POLOMBIA,32012098,griffithjennifer@example.org,10.4002813,-75.5,Paul King,"2003,01,29",723,Michael Martin,383,695,Tienda4
+79327509,2,charger smartphone,30309232,"1999,07,08",4,tierra de changua,POLOMBIA,20840504,garciaryan@example.org,4.648625,-74.1,Emma King,"1999,07,08",394,Ricardo Dominguez,227,980,Tienda4
+9154630,3,headphones,32756705,"2001,10,15",0,MEDALLO,POLOMBIA,75882989,iarnold@example.org,6.2441988,-75.6,Jared Warren,"2001,10,15",246,Mrs. Madison Gray,425,260,Tienda4
+79983928,4,cases,8271573,"1994,05,29",0,erda,POLOMBIA,49635888,osalinas@example.net,10.4002813,-75.5,Kelly Robertson,"1994,05,29",206,Donna Grant,518,523,Tienda4
+32329866,4,cases,52732262,"1970,08,06",0,erda,POLOMBIA,78653210,lisa07@example.net,10.4002813,-75.5,Brandon Thomas,"1970,08,06",655,Erin Diaz,538,938,Tienda4
+90487822,4,cases,7909931,"1982,12,08",0,erda,POLOMBIA,44121032,jreynolds@example.net,10.4002813,-75.5,Dorothy Watkins,"1982,12,08",369,Tony Johnston,911,660,Tienda4
+47800382,1,PC,27398483,"1992,04,26",0,MEDALLO,POLOMBIA,9459554,mhoward@example.net,6.2441988,-75.6,Rebecca Marshall,"1992,04,26",845,Julie Jacobson,641,378,Tienda4
+47100323,3,headphones,71271037,"2003,09,08",0,MEDALLO,POLOMBIA,20532551,mariatorres@example.net,6.2441988,-75.6,Kelsey Allen,"2003,09,08",625,Vincent Ruiz,701,198,Tienda4
+37652622,2,charger smartphone,46819636,"1974,01,17",0,erda,POLOMBIA,82209514,daisywhite@example.org,10.4002813,-75.5,Theresa Norman,"1974,01,17",18,Mr. Charles Maynard,683,483,Tienda4
+4986482,2,charger smartphone,15212153,"1976,08,27",0,MEDALLO,POLOMBIA,73017296,bhogan@example.com,6.2441988,-75.6,Mark West,"1976,08,27",846,Heather Ruiz,748,167,Tienda4
+59561575,2,charger smartphone,87101734,"2020,02,08",0,tierra de changua,POLOMBIA,20173061,ibarragrant@example.net,4.648625,-74.1,Heidi Owen,"2020,02,08",655,Valerie Fox,83,128,Tienda4
+90801970,5,selfie stick,32619098,"2011,11,25",0,MEDALLO,POLOMBIA,3990772,lanepatricia@example.com,6.2441988,-75.6,Charles Anderson,"2011,11,25",190,Gregory Dixon,226,26,Tienda4
+80263490,3,headphones,27502165,"1981,08,09",0,tierra de changua,POLOMBIA,25007769,stevensjames@example.net,4.648625,-74.1,Keith Reyes MD,"1981,08,09",483,Patty Wells,978,863,Tienda4
+86913747,4,cases,44370834,"2011,12,22",0,paloma city,Jaime,73821315,parksjacob@example.net,-12.037964,-77.0503238,Sally Doyle,"2011,12,22",541,Carolyn Bailey,778,534,Tienda4
+8909986,1,PC,76793057,"2011,12,28",0,erda,POLOMBIA,48584832,daniel51@example.com,10.4002813,-75.5,Bradley Hopkins,"2011,12,28",313,Jennifer Hodges,949,215,Tienda4
+97500251,3,headphones,46669179,"2002,01,24",0,MEDALLO,POLOMBIA,58352634,garzabrian@example.net,6.2441988,-75.6,Joshua Morrison,"2002,01,24",369,Kathy Rubio,916,421,Tienda4
+38016112,3,headphones,16868195,"2003,09,22",0,MEDALLO,POLOMBIA,4376712,zimmermanchris@example.net,6.2441988,-75.6,Andrew Garcia,"2003,09,22",830,Angel Fox,414,288,Tienda4
+64308718,5,selfie stick,17934013,"2021,07,23",0,erda,POLOMBIA,35072258,christopher68@example.org,10.4002813,-75.5,Paul Jacobs,"2021,07,23",924,Donald Green,101,855,Tienda4
+19913992,2,charger smartphone,82089035,"1981,08,20",0,MEDALLO,POLOMBIA,73560035,garnerangela@example.com,6.2441988,-75.6,Ariana Petersen,"1981,08,20",901,Ryan Davenport,654,456,Tienda4
+13412479,4,cases,96796079,"2020,11,23",2,paloma city,Jaime,86269621,scott87@example.net,-12.037964,-77.0503238,Wesley Whitney,"2020,11,23",285,Leah Washington,579,946,Tienda4
+19334349,2,charger smartphone,75135766,"1999,05,27",0,tierra de changua,POLOMBIA,99225753,duransarah@example.com,4.648625,-74.1,Allison Henderson,"1999,05,27",162,Evelyn Yu,713,621,Tienda4
+97926713,1,PC,59372133,"2008,10,02",0,tierra de changua,POLOMBIA,45541734,thomasgray@example.net,4.648625,-74.1,Sarah Brown,"2008,10,02",982,John Little,413,410,Tienda4
+18113661,2,charger smartphone,78675306,"2005,07,06",0,paloma city,Jaime,95455801,jeffrey48@example.org,-12.037964,-77.0503238,Alexander Perkins,"2005,07,06",790,Chris Evans,768,337,Tienda4
+65224626,2,charger smartphone,34469981,"1990,11,26",0,erda,POLOMBIA,13464144,khughes@example.org,10.4002813,-75.5,James Shaw,"1990,11,26",283,Kimberly White,598,289,Tienda4
+41432643,3,headphones,68623976,"2000,04,02",0,paloma city,Jaime,99558518,ewolf@example.org,-12.037964,-77.0503238,Rebecca Mack,"2000,04,02",271,Elizabeth Jones DVM,800,701,Tienda4
+60028942,3,headphones,17720596,"1991,06,05",0,erda,POLOMBIA,30120743,gary18@example.net,10.4002813,-75.5,Charles Collins,"1991,06,05",536,Christopher Burke,29,325,Tienda4
+98805672,2,charger smartphone,83836517,"2000,10,07",0,tierra de changua,POLOMBIA,80192349,donaldsmith@example.org,4.648625,-74.1,Anthony Davidson,"2000,10,07",350,Jeffrey Frederick,534,685,Tienda4
+98971969,3,headphones,14532959,"2009,01,22",0,paloma city,Jaime,33398355,mary08@example.net,-12.037964,-77.0503238,Benjamin Mata,"2009,01,22",512,Danielle Blankenship,644,17,Tienda4
+57707979,1,PC,34848319,"1979,10,03",0,tierra de changua,POLOMBIA,10278799,hamiltonscott@example.org,4.648625,-74.1,Rebecca Chambers,"1979,10,03",329,Brian Jimenez,704,550,Tienda4
+44505094,1,PC,89384480,"2017,12,06",0,tierra de changua,POLOMBIA,19845916,christy72@example.com,4.648625,-74.1,Cynthia York,"2017,12,06",502,Kimberly Bennett,100,724,Tienda4
+70231057,3,headphones,86353186,"1976,05,13",1,MEDALLO,POLOMBIA,60113371,rubiopatrick@example.com,6.2441988,-75.6,Ms. Hannah Nelson,"1976,05,13",234,Stephanie Eaton,881,604,Tienda4
+22163228,1,PC,1297820,"1990,04,17",0,tierra de changua,POLOMBIA,75800863,rowebrooke@example.net,4.648625,-74.1,Linda Hardin,"1990,04,17",224,Lori Thompson,463,509,Tienda4
+5846564,2,charger smartphone,4049795,"1972,09,29",0,MEDALLO,POLOMBIA,77572618,austingordon@example.net,6.2441988,-75.6,John Kirby,"1972,09,29",251,Austin Bond,900,870,Tienda4
+23775562,5,selfie stick,18663932,"2015,02,05",0,tierra de changua,POLOMBIA,83879270,gregoryblackburn@example.com,4.648625,-74.1,Christian Dixon,"2015,02,05",556,Christian Delgado,994,689,Tienda4
+54777113,3,headphones,27013923,"2016,03,29",0,erda,POLOMBIA,32603377,karenjenkins@example.net,10.4002813,-75.5,Michael Mcintyre,"2016,03,29",347,Sally Bradley,716,750,Tienda4
+76943917,2,charger smartphone,27891048,"1987,03,28",0,tierra de changua,POLOMBIA,43418657,christophersharp@example.com,4.648625,-74.1,Brittney Bowers,"1987,03,28",333,Miguel Hill,906,645,Tienda4
+19617725,2,charger smartphone,80245426,"2009,08,18",0,erda,POLOMBIA,83913837,mario99@example.org,10.4002813,-75.5,Rhonda Wilson,"2009,08,18",65,Felicia Moore,315,396,Tienda4
+5347550,5,selfie stick,16724874,"1982,08,30",0,paloma city,Jaime,57001321,pfrazier@example.org,-12.037964,-77.0503238,Eddie Gilbert,"1982,08,30",275,Nathan Robinson,559,428,Tienda4
+61925686,4,cases,56091527,"2011,06,30",0,tierra de changua,POLOMBIA,52976076,natasha88@example.com,4.648625,-74.1,Kimberly Johnson,"2011,06,30",551,Mary Russell,138,744,Tienda4
+40286094,4,cases,47762515,"2012,09,06",0,MEDALLO,POLOMBIA,71343745,fjones@example.org,6.2441988,-75.6,Brenda Cook,"2012,09,06",44,Melissa Ross,723,989,Tienda4
+67617682,1,PC,57193154,"1997,01,17",0,MEDALLO,POLOMBIA,37869859,wardmichelle@example.org,6.2441988,-75.6,Jennifer Rocha,"1997,01,17",397,Jennifer Wilson,102,308,Tienda4
+6411312,2,charger smartphone,95248271,"2017,10,20",3,tierra de changua,POLOMBIA,49658197,erinhess@example.net,4.648625,-74.1,Amy Weeks,"2017,10,20",947,Nicole Anderson,766,888,Tienda4
+20193399,5,selfie stick,47076528,"1997,01,18",0,MEDALLO,POLOMBIA,75202653,allenbrittney@example.org,6.2441988,-75.6,Christina Griffin,"1997,01,18",565,Taylor Walters,752,27,Tienda4
+20807355,2,charger smartphone,25492709,"2003,07,24",0,paloma city,Jaime,5585544,thomas05@example.net,-12.037964,-77.0503238,Brandon Bailey,"2003,07,24",645,Jon Smith,549,235,Tienda4
+84002821,3,headphones,64470629,"1985,09,14",0,erda,POLOMBIA,76810742,nicholas57@example.org,10.4002813,-75.5,Michael Gardner,"1985,09,14",14,Heather Gibson,1000,540,Tienda4
+28027822,2,charger smartphone,84876355,"1972,02,06",0,tierra de changua,POLOMBIA,71675642,omorton@example.org,4.648625,-74.1,Cynthia Jackson,"1972,02,06",597,Jennifer Hicks,480,71,Tienda4
+92714294,1,PC,98699120,"2002,06,02",0,paloma city,Jaime,8695839,qevans@example.org,-12.037964,-77.0503238,Lauren Perkins,"2002,06,02",761,Steve Garcia,136,43,Tienda4
+25906405,4,cases,4025779,"1970,12,06",0,paloma city,Jaime,40717502,sharon19@example.com,-12.037964,-77.0503238,Raymond Michael,"1970,12,06",906,Tyler Perkins,463,756,Tienda4
+34839172,3,headphones,93455968,"2006,01,23",0,paloma city,Jaime,82210030,adamgilmore@example.com,-12.037964,-77.0503238,Jeremy Bauer,"2006,01,23",848,Donald Vazquez,531,473,Tienda4
+59696533,3,headphones,44621481,"1973,11,24",0,paloma city,Jaime,38032281,matthewmullen@example.com,-12.037964,-77.0503238,Terry Clements,"1973,11,24",315,Alyssa Cox,937,1000,Tienda4
+90061817,1,PC,92878776,"1997,07,28",4,erda,POLOMBIA,13915474,ambercarr@example.com,10.4002813,-75.5,Bruce Valentine,"1997,07,28",405,Dustin Jackson,181,34,Tienda4
+10703435,2,charger smartphone,49901695,"1970,01,01",0,paloma city,Jaime,48791441,crystal86@example.net,-12.037964,-77.0503238,Michael Clark,"1970,01,01",705,Melanie Martinez,403,820,Tienda4
+58838837,2,charger smartphone,99826421,"2008,11,26",0,MEDALLO,POLOMBIA,36302627,thomas18@example.net,6.2441988,-75.6,Johnny Leach,"2008,11,26",522,Amber Hernandez,498,391,Tienda4
+14405760,2,charger smartphone,74718824,"1988,07,25",0,erda,POLOMBIA,78995843,gwood@example.net,10.4002813,-75.5,Ryan Johnson,"1988,07,25",293,Mr. Chad Shaw,18,867,Tienda4
+32920503,4,cases,93963755,"1989,09,22",0,MEDALLO,POLOMBIA,24510258,martha24@example.com,6.2441988,-75.6,Jacob Johnson,"1989,09,22",824,Jenna Smith,772,464,Tienda4
+23592817,3,headphones,4830709,"1984,03,22",0,erda,POLOMBIA,2025977,williamsanthony@example.org,10.4002813,-75.5,Gregory Swanson,"1984,03,22",991,Sandra Taylor,252,172,Tienda4
+92819047,2,charger smartphone,13328627,"2008,06,02",0,tierra de changua,POLOMBIA,32723727,carolphillips@example.com,4.648625,-74.1,Richard Scott,"2008,06,02",365,Shannon Martin,793,412,Tienda4
+3774793,4,cases,26929825,"1988,06,06",0,erda,POLOMBIA,89665049,blynch@example.net,10.4002813,-75.5,Anthony Riddle,"1988,06,06",124,Eric Silva,251,764,Tienda4
+22302473,4,cases,40428740,"1986,07,16",0,MEDALLO,POLOMBIA,60771772,jduffy@example.org,6.2441988,-75.6,Tammy Ward,"1986,07,16",444,Elizabeth Byrd,530,963,Tienda4
+79041647,2,charger smartphone,50113314,"1996,10,14",2,paloma city,Jaime,23613076,christopher14@example.net,-12.037964,-77.0503238,Corey Lewis,"1996,10,14",551,Suzanne Cook,903,755,Tienda4
+99774873,5,selfie stick,71615220,"2014,12,27",0,MEDALLO,POLOMBIA,99718709,wilsonsara@example.net,6.2441988,-75.6,Jonathan Hill,"2014,12,27",407,Chad Lawson,242,338,Tienda4
+24540988,4,cases,36347366,"1982,10,05",0,paloma city,Jaime,64689205,kfowler@example.net,-12.037964,-77.0503238,Randy Campbell,"1982,10,05",836,Jordan Walker MD,13,237,Tienda4
+89760009,2,charger smartphone,68935564,"2000,03,27",0,tierra de changua,POLOMBIA,27613105,ykelly@example.org,4.648625,-74.1,Michael Olson,"2000,03,27",784,Jacob Vazquez,932,857,Tienda4
+93608286,2,charger smartphone,25070596,"2020,07,26",0,paloma city,Jaime,25563493,pettynancy@example.net,-12.037964,-77.0503238,Dorothy Cooper MD,"2020,07,26",837,Richard Williams,346,677,Tienda4
+74771694,2,charger smartphone,39321430,"2016,05,19",0,paloma city,Jaime,98353029,kimberlywright@example.com,-12.037964,-77.0503238,Stephanie Wilson,"2016,05,19",726,Briana Jimenez,830,168,Tienda4
+61450155,4,cases,40043593,"2000,07,27",4,tierra de changua,POLOMBIA,68177761,wflynn@example.org,4.648625,-74.1,Vickie Wade,"2000,07,27",641,John Smith,632,349,Tienda4
+65650667,2,charger smartphone,29278284,"1982,08,25",0,erda,POLOMBIA,4404525,emilyhess@example.com,10.4002813,-75.5,Jason Wright,"1982,08,25",279,John Hogan,638,99,Tienda4
+48629135,5,selfie stick,58821189,"1994,10,22",0,MEDALLO,POLOMBIA,72353119,griffinannette@example.org,6.2441988,-75.6,Sharon Schneider,"1994,10,22",996,Judith Davis,615,732,Tienda4
+13789608,2,charger smartphone,37390889,"1987,10,24",0,MEDALLO,POLOMBIA,50232096,williamsnathaniel@example.com,6.2441988,-75.6,Matthew Hernandez,"1987,10,24",832,Claudia Jones,811,557,Tienda4
+17067800,2,charger smartphone,97981532,"1980,08,15",1,paloma city,Jaime,9010255,duartemichelle@example.org,-12.037964,-77.0503238,Andrea Barber,"1980,08,15",79,Susan West MD,631,382,Tienda4
+69127636,1,PC,23583096,"1995,02,08",0,MEDALLO,POLOMBIA,28081975,thompsonalexis@example.com,6.2441988,-75.6,Kathleen Ramos,"1995,02,08",34,Zachary Davis,358,499,Tienda4
+44590360,4,cases,95646690,"1989,03,12",0,MEDALLO,POLOMBIA,72676973,hayesjoseph@example.net,6.2441988,-75.6,Nathaniel Gilmore,"1989,03,12",146,Jennifer Gonzalez,21,624,Tienda4
+47857616,1,PC,71232116,"2003,06,17",0,MEDALLO,POLOMBIA,78204103,kimberlyyates@example.com,6.2441988,-75.6,Sheila Higgins,"2003,06,17",549,Adam Phillips,123,170,Tienda4
+93813409,3,headphones,17332847,"2018,03,06",0,paloma city,Jaime,26590676,matthewmitchell@example.com,-12.037964,-77.0503238,Sarah Singleton,"2018,03,06",859,Sharon Blake,427,906,Tienda4
+71572148,4,cases,92416236,"2001,04,26",0,tierra de changua,POLOMBIA,74594317,cdavis@example.org,4.648625,-74.1,Sheila Potter,"2001,04,26",900,Laura Robertson,202,523,Tienda4
+29854952,3,headphones,63446824,"1984,10,09",0,tierra de changua,POLOMBIA,76752131,brendamunoz@example.com,4.648625,-74.1,Brenda Perry,"1984,10,09",210,Andrew Richmond,533,977,Tienda4
+76652,1,PC,87605958,"2020,07,25",0,tierra de changua,POLOMBIA,53856843,julie70@example.com,4.648625,-74.1,Alexander Hernandez,"2020,07,25",90,David Mccullough,719,28,Tienda4
+92884707,4,cases,81184630,"1993,01,28",0,MEDALLO,POLOMBIA,12912312,tylersamantha@example.com,6.2441988,-75.6,Rodney Todd,"1993,01,28",141,Laura Tran,51,928,Tienda4
+97671971,3,headphones,63270909,"1982,12,02",0,paloma city,Jaime,56780637,fwiggins@example.net,-12.037964,-77.0503238,Tracy Smith,"1982,12,02",763,Hector Whitehead,63,35,Tienda4
+29998285,5,selfie stick,88719965,"2016,12,03",0,tierra de changua,POLOMBIA,12532537,terrellvanessa@example.org,4.648625,-74.1,Travis Hernandez,"2016,12,03",226,Joshua French,773,251,Tienda4
+67526783,3,headphones,72561952,"1996,05,22",0,erda,POLOMBIA,58964961,pnichols@example.org,10.4002813,-75.5,Kyle Glover,"1996,05,22",172,Sara Curtis,746,386,Tienda4
+81111027,3,headphones,1976450,"2007,08,18",0,erda,POLOMBIA,5119679,ohanson@example.org,10.4002813,-75.5,Kristen Willis,"2007,08,18",84,Matthew Hernandez,260,121,Tienda4
+13509471,2,charger smartphone,2826242,"1973,04,17",4,erda,POLOMBIA,1872967,kellilewis@example.org,10.4002813,-75.5,Jonathan Scott,"1973,04,17",458,Joseph White,881,762,Tienda4
+60663998,2,charger smartphone,92601998,"1990,10,20",2,MEDALLO,POLOMBIA,64960883,kevin21@example.org,6.2441988,-75.6,Patrick Morrison,"1990,10,20",371,Sierra Lowe,709,798,Tienda4
+38661870,4,cases,64799126,"1982,07,16",0,MEDALLO,POLOMBIA,63493181,duketony@example.org,6.2441988,-75.6,Alice Hicks,"1982,07,16",373,Dawn Thompson,436,715,Tienda4
+5987228,4,cases,26124073,"2008,07,04",0,erda,POLOMBIA,86395521,philipwebb@example.com,10.4002813,-75.5,Brandon Kemp,"2008,07,04",615,Karen Reilly,629,269,Tienda4
+15658092,1,PC,25936700,"2007,02,15",0,paloma city,Jaime,50241982,jennifer98@example.org,-12.037964,-77.0503238,Laura Chambers,"2007,02,15",167,Benjamin Gilbert,793,977,Tienda4
+91003727,2,charger smartphone,79011402,"1998,09,10",0,paloma city,Jaime,52591973,cgraham@example.org,-12.037964,-77.0503238,Brian Fox,"1998,09,10",147,John Diaz,870,994,Tienda4
+17457572,2,charger smartphone,22501908,"1995,03,09",0,paloma city,Jaime,79055541,chase03@example.net,-12.037964,-77.0503238,Derrick Stuart,"1995,03,09",71,Patricia Bishop,382,332,Tienda4
+13260479,2,charger smartphone,64347359,"1979,06,17",0,erda,POLOMBIA,42028367,sarahmartinez@example.net,10.4002813,-75.5,Bruce Brown,"1979,06,17",585,Tara Jackson,26,186,Tienda4
+70649025,1,PC,93522437,"1989,01,03",4,tierra de changua,POLOMBIA,35749070,lanejonathan@example.com,4.648625,-74.1,Catherine Porter,"1989,01,03",234,Tanya Choi,817,76,Tienda4
+11330701,3,headphones,64286,"1979,07,27",3,erda,POLOMBIA,6612022,cynthia44@example.com,10.4002813,-75.5,Thomas Edwards,"1979,07,27",238,Ann Nelson,200,643,Tienda4
+6866167,1,PC,93081704,"1988,04,06",0,MEDALLO,POLOMBIA,9107192,wrightheather@example.org,6.2441988,-75.6,Aaron Chavez,"1988,04,06",92,Joshua Miller,798,673,Tienda4
+38725670,4,cases,60138078,"1978,05,15",0,MEDALLO,POLOMBIA,29347728,jennifer98@example.net,6.2441988,-75.6,Susan Khan,"1978,05,15",489,Nicholas Terry,252,752,Tienda4
+71449629,4,cases,7467184,"2021,05,10",0,MEDALLO,POLOMBIA,13308202,stephensandrew@example.net,6.2441988,-75.6,Kimberly Mendez,"2021,05,10",181,Ronald Love,676,76,Tienda4
+24773860,4,cases,80198892,"2015,03,17",0,paloma city,Jaime,89163020,regina39@example.org,-12.037964,-77.0503238,Carolyn Hanson,"2015,03,17",629,Warren Oconnor,46,869,Tienda4
+21041125,1,PC,7289366,"2002,01,09",0,tierra de changua,POLOMBIA,33824386,fespinoza@example.org,4.648625,-74.1,Jessica White,"2002,01,09",375,Samantha Hamilton,172,117,Tienda4
+84455470,3,headphones,2068663,"1978,12,06",0,paloma city,Jaime,73086329,stephanieduke@example.com,-12.037964,-77.0503238,Richard Thompson,"1978,12,06",267,Christopher Shaw,778,983,Tienda4
+30519775,5,selfie stick,37425791,"2020,05,11",0,tierra de changua,POLOMBIA,89364045,urose@example.org,4.648625,-74.1,Brian Douglas,"2020,05,11",22,Brandon Wilson,645,247,Tienda4
+63104612,1,PC,75275000,"1990,05,04",0,tierra de changua,POLOMBIA,55704851,ambersmith@example.org,4.648625,-74.1,James Gomez,"1990,05,04",596,Derek Byrd,690,20,Tienda4
+78481094,4,cases,73950167,"2001,11,18",0,paloma city,Jaime,93031980,nicole69@example.com,-12.037964,-77.0503238,Cynthia Williams,"2001,11,18",876,Miguel Hernandez,296,412,Tienda4
+8931563,2,charger smartphone,24725644,"2017,12,21",0,MEDALLO,POLOMBIA,95926749,holly80@example.org,6.2441988,-75.6,Steven Smith,"2017,12,21",876,Jill Hess,98,799,Tienda4
+96562262,4,cases,74280147,"2004,08,26",0,MEDALLO,POLOMBIA,80283513,rebeccadavis@example.net,6.2441988,-75.6,Jonathan Jones,"2004,08,26",378,Kenneth Gordon,509,880,Tienda4
+1855546,3,headphones,84986671,"1982,04,06",0,paloma city,Jaime,66606304,villarrealchristopher@example.com,-12.037964,-77.0503238,Susan Barrett,"1982,04,06",876,Michael Mercado,329,774,Tienda4
+25535776,4,cases,609379,"1970,04,25",0,paloma city,Jaime,47272895,alicia05@example.net,-12.037964,-77.0503238,Ryan Smith,"1970,04,25",3,Cynthia Wilkinson,355,933,Tienda4
+69649161,5,selfie stick,19404019,"1985,08,22",1,tierra de changua,POLOMBIA,54406880,linda36@example.com,4.648625,-74.1,Elizabeth Waters,"1985,08,22",873,Susan Rivera,688,88,Tienda4
+69456955,1,PC,19229368,"2017,09,19",0,tierra de changua,POLOMBIA,61758761,nmiranda@example.com,4.648625,-74.1,Robert Thomas,"2017,09,19",36,Kaylee Harris,812,628,Tienda4
+93149311,2,charger smartphone,92791225,"1973,03,15",1,paloma city,Jaime,34891141,jennifer35@example.net,-12.037964,-77.0503238,Jennifer Burgess,"1973,03,15",741,Becky Andrade,442,347,Tienda4
+11611321,2,charger smartphone,13717565,"2001,05,09",0,tierra de changua,POLOMBIA,8300911,ureynolds@example.net,4.648625,-74.1,Jason Chandler,"2001,05,09",861,Erik Barker,19,404,Tienda4
+26636676,3,headphones,55634131,"2007,12,01",0,erda,POLOMBIA,12443836,scarroll@example.com,10.4002813,-75.5,Richard Young,"2007,12,01",678,Erica Gonzalez,660,633,Tienda4
+42350313,2,charger smartphone,35122229,"1997,07,13",0,paloma city,Jaime,5103426,martin90@example.com,-12.037964,-77.0503238,Michael Kirby,"1997,07,13",255,Christopher Pearson,351,260,Tienda4
+41173874,2,charger smartphone,47530106,"1987,05,19",0,erda,POLOMBIA,15462179,adamschristopher@example.com,10.4002813,-75.5,Patty Aguilar,"1987,05,19",12,Rachel Perkins,530,897,Tienda4
+43360795,2,charger smartphone,96981191,"2012,09,19",5,MEDALLO,POLOMBIA,22884313,paul44@example.com,6.2441988,-75.6,Aaron Garcia,"2012,09,19",657,Steven Jones,255,143,Tienda4
+69787918,5,selfie stick,87114011,"1980,04,14",0,tierra de changua,POLOMBIA,4302840,charlesosborne@example.com,4.648625,-74.1,Adriana Lowery,"1980,04,14",188,Edward Johnson,502,724,Tienda4
+61393258,5,selfie stick,25034240,"2007,09,02",0,MEDALLO,POLOMBIA,68976368,grantmonica@example.com,6.2441988,-75.6,Gary Davis,"2007,09,02",23,Brittany Kramer,655,407,Tienda4
+13893377,1,PC,20478411,"1993,02,18",0,MEDALLO,POLOMBIA,40538703,adamskristina@example.org,6.2441988,-75.6,Tyler Spencer,"1993,02,18",200,David Fritz,89,730,Tienda4
+49090374,2,charger smartphone,99281392,"1989,04,07",0,paloma city,Jaime,40254981,wilsonpatricia@example.net,-12.037964,-77.0503238,Donna Edwards,"1989,04,07",568,Carla Gaines,892,977,Tienda4
+51527666,3,headphones,32320487,"1984,02,17",0,erda,POLOMBIA,74946902,stephencuevas@example.org,10.4002813,-75.5,Kenneth King,"1984,02,17",991,Eric Murray,720,572,Tienda4
+66278614,3,headphones,49569708,"1971,09,18",0,erda,POLOMBIA,12813624,jose28@example.com,10.4002813,-75.5,Matthew Rogers,"1971,09,18",73,Tonya Howard,793,983,Tienda4
+28668283,5,selfie stick,75338662,"1972,02,25",0,paloma city,Jaime,51356598,chadmiller@example.com,-12.037964,-77.0503238,Susan Thomas,"1972,02,25",855,Ronald Gonzales,334,491,Tienda4
+92242950,3,headphones,96933785,"2015,11,12",0,paloma city,Jaime,63972097,cwright@example.org,-12.037964,-77.0503238,Dominique Lee,"2015,11,12",452,Regina Bell,483,956,Tienda4
+78243737,2,charger smartphone,14888855,"2019,02,13",0,erda,POLOMBIA,880278,birdmelissa@example.com,10.4002813,-75.5,Jeffrey Bradford,"2019,02,13",527,Ashley Pierce,976,682,Tienda4
+85635070,1,PC,19152596,"2000,06,30",0,MEDALLO,POLOMBIA,58333640,knichols@example.org,6.2441988,-75.6,Clayton Arnold,"2000,06,30",884,Kimberly Morgan,231,248,Tienda4
+51198330,4,cases,75339857,"1970,01,16",0,tierra de changua,POLOMBIA,31613362,charles70@example.com,4.648625,-74.1,Jody Saunders,"1970,01,16",783,Susan Jackson,883,219,Tienda4
+13024886,3,headphones,4294580,"2011,05,22",0,MEDALLO,POLOMBIA,25103987,alan32@example.net,6.2441988,-75.6,Mark Pineda,"2011,05,22",746,Erin Rodriguez,951,358,Tienda4
+46515514,4,cases,3522278,"1980,04,14",0,MEDALLO,POLOMBIA,19351755,egarza@example.net,6.2441988,-75.6,Jerry Taylor,"1980,04,14",209,Cheyenne Gamble,127,434,Tienda4
+45108133,2,charger smartphone,90810105,"1973,06,08",4,paloma city,Jaime,74640198,william71@example.com,-12.037964,-77.0503238,Rebekah Camacho,"1973,06,08",746,Rachel Haley,801,425,Tienda4
+54018142,5,selfie stick,72445915,"2001,03,26",0,MEDALLO,POLOMBIA,37277786,jeremysmith@example.com,6.2441988,-75.6,George Smith,"2001,03,26",121,Michael Murphy,473,171,Tienda4
+48486254,4,cases,81686272,"2010,04,14",0,tierra de changua,POLOMBIA,34782142,debbiesalazar@example.net,4.648625,-74.1,Sherry Anderson,"2010,04,14",413,Michael Barber,45,553,Tienda4
+75780796,4,cases,40520151,"1988,03,14",0,paloma city,Jaime,67579320,sarah00@example.net,-12.037964,-77.0503238,John Harris,"1988,03,14",688,Travis Bates,787,942,Tienda4
+10668224,5,selfie stick,35184563,"1986,10,02",0,MEDALLO,POLOMBIA,97991541,robertsjames@example.org,6.2441988,-75.6,Ian Preston,"1986,10,02",245,Amber Waters,341,353,Tienda4
+47310093,4,cases,91204727,"2008,08,28",0,tierra de changua,POLOMBIA,39231959,michael06@example.net,4.648625,-74.1,Joshua Hendricks,"2008,08,28",344,Jacob Campbell MD,338,234,Tienda4
+40165450,5,selfie stick,58837984,"1973,04,03",0,erda,POLOMBIA,62776414,brittany28@example.net,10.4002813,-75.5,Samantha Alexander,"1973,04,03",406,Cassidy Doyle,447,146,Tienda4
+27336607,5,selfie stick,58699305,"1975,04,26",2,erda,POLOMBIA,27616157,janet81@example.net,10.4002813,-75.5,Thomas Flores,"1975,04,26",186,Elizabeth Sanders,511,434,Tienda4
+59555376,3,headphones,97768871,"1975,09,29",0,paloma city,Jaime,14573226,plamb@example.org,-12.037964,-77.0503238,Madison Hooper,"1975,09,29",881,Michael Hernandez,159,363,Tienda4
+53336978,5,selfie stick,85090491,"2008,03,25",2,tierra de changua,POLOMBIA,59863715,eowen@example.org,4.648625,-74.1,Mary Morrow,"2008,03,25",180,Mary Bennett,284,160,Tienda4
+47774672,1,PC,65651314,"1981,04,20",0,MEDALLO,POLOMBIA,80607845,melaniebarry@example.com,6.2441988,-75.6,Joshua Smith,"1981,04,20",661,Shane Ramos,138,845,Tienda4
+45871036,2,charger smartphone,82462553,"1986,03,06",0,tierra de changua,POLOMBIA,94290470,susanfranco@example.com,4.648625,-74.1,Donald Richards,"1986,03,06",916,Robert Perry,571,603,Tienda4
+78518755,5,selfie stick,17839784,"2019,04,12",0,erda,POLOMBIA,23430785,petersonevan@example.org,10.4002813,-75.5,Shawn Nelson,"2019,04,12",224,Stacey Long,183,541,Tienda4
+85814249,1,PC,9433329,"2000,06,22",0,tierra de changua,POLOMBIA,2753093,khall@example.com,4.648625,-74.1,Anthony Mason,"2000,06,22",242,Edward Hale,12,237,Tienda4
+15191031,2,charger smartphone,51807712,"1989,10,15",0,erda,POLOMBIA,74810173,jamesritter@example.org,10.4002813,-75.5,Ana Contreras,"1989,10,15",902,Crystal Beasley,433,126,Tienda4
+10753171,5,selfie stick,31989043,"1984,01,07",2,paloma city,Jaime,47037748,mharrison@example.com,-12.037964,-77.0503238,Ryan Thomas,"1984,01,07",905,Catherine Cox MD,484,368,Tienda4
+16056425,2,charger smartphone,50777982,"1999,12,08",0,tierra de changua,POLOMBIA,52811585,ymorris@example.net,4.648625,-74.1,Janice Robertson,"1999,12,08",667,Ashley Wright,363,558,Tienda4
+7133697,3,headphones,70900708,"1976,07,30",0,paloma city,Jaime,13515599,jennifer97@example.net,-12.037964,-77.0503238,Paul Walker,"1976,07,30",482,Monique Miller,329,718,Tienda4
+24066331,4,cases,53974709,"1995,09,08",0,tierra de changua,POLOMBIA,25179504,nicole93@example.net,4.648625,-74.1,David Brown,"1995,09,08",215,Daniel Kelly,275,227,Tienda4
+83039191,4,cases,60545386,"1970,01,25",0,MEDALLO,POLOMBIA,92134919,sandrahenry@example.net,6.2441988,-75.6,Maurice Rivera,"1970,01,25",924,Mary Myers,215,34,Tienda4
+78860468,3,headphones,76373748,"1985,03,26",0,tierra de changua,POLOMBIA,99514837,catherinehart@example.com,4.648625,-74.1,James Norris,"1985,03,26",555,Jennifer Wilson,229,185,Tienda4
+99159466,5,selfie stick,93344162,"2004,09,04",0,tierra de changua,POLOMBIA,21596858,kmckinney@example.com,4.648625,-74.1,John Bennett,"2004,09,04",48,Kimberly Mata,440,809,Tienda4
+60095476,5,selfie stick,45240190,"1974,04,19",0,erda,POLOMBIA,16653593,bwilson@example.net,10.4002813,-75.5,Stephanie Nguyen,"1974,04,19",514,Joseph Rivera,997,497,Tienda4
+96909445,3,headphones,2640289,"2007,12,23",0,MEDALLO,POLOMBIA,12810073,danalewis@example.net,6.2441988,-75.6,Patricia Peterson,"2007,12,23",369,Dawn Le,134,453,Tienda4
+85339196,4,cases,4862711,"1978,08,31",0,tierra de changua,POLOMBIA,20768619,melissa21@example.net,4.648625,-74.1,Wanda Mercado,"1978,08,31",722,Vincent Rivera,446,578,Tienda4
+78454075,3,headphones,97381248,"2003,12,30",0,MEDALLO,POLOMBIA,98097161,tina61@example.org,6.2441988,-75.6,Diana Parsons,"2003,12,30",894,Nicole Barajas,819,378,Tienda4
+61806625,1,PC,63699356,"2004,01,09",4,MEDALLO,POLOMBIA,58557543,nmartinez@example.net,6.2441988,-75.6,Marc Lyons,"2004,01,09",441,Catherine Jones,685,133,Tienda4
+82497118,5,selfie stick,10648368,"2005,11,20",0,MEDALLO,POLOMBIA,56780430,muellertaylor@example.net,6.2441988,-75.6,Nicole Davenport,"2005,11,20",978,Jacob Hernandez,509,363,Tienda4
+88188896,2,charger smartphone,70036496,"1991,01,16",0,MEDALLO,POLOMBIA,41842446,woodsvirginia@example.com,6.2441988,-75.6,Taylor Mcgrath,"1991,01,16",286,Kelly Estrada,529,458,Tienda4
+62936902,3,headphones,46920596,"2002,12,19",0,MEDALLO,POLOMBIA,57229907,salasjacob@example.com,6.2441988,-75.6,Kaitlyn Mack,"2002,12,19",84,Lisa Fry,756,296,Tienda4
+70032126,3,headphones,43446345,"1993,03,01",0,tierra de changua,POLOMBIA,28629342,bmills@example.net,4.648625,-74.1,Michelle Mills,"1993,03,01",436,Anne Evans,120,810,Tienda4
+80236732,2,charger smartphone,29948578,"2002,12,04",0,tierra de changua,POLOMBIA,56938575,susantorres@example.net,4.648625,-74.1,Donna Stewart,"2002,12,04",973,Justin Wallace,853,919,Tienda4
+59655145,1,PC,79490780,"1992,03,19",0,MEDALLO,POLOMBIA,76516096,frederickarmstrong@example.com,6.2441988,-75.6,Heather Davis,"1992,03,19",210,Zachary Dennis,99,14,Tienda4
+418503,4,cases,73164836,"1986,12,26",0,tierra de changua,POLOMBIA,8589759,gadams@example.com,4.648625,-74.1,Ashley Krueger,"1986,12,26",71,Alicia Richard,858,829,Tienda4
+80801262,1,PC,85362019,"2003,07,29",0,erda,POLOMBIA,36050143,bernardanthony@example.net,10.4002813,-75.5,Amanda Wallace,"2003,07,29",74,Lynn Thompson,640,932,Tienda4
+65855408,5,selfie stick,1643135,"1973,01,19",0,paloma city,Jaime,93940534,conleybryan@example.net,-12.037964,-77.0503238,Erica Schultz,"1973,01,19",902,Michael Howard,446,223,Tienda4
+86130149,1,PC,92080762,"2019,03,15",0,erda,POLOMBIA,79955732,omar76@example.org,10.4002813,-75.5,Linda Bailey,"2019,03,15",510,Karen Bonilla,541,83,Tienda4
+17334496,4,cases,20067243,"1984,01,10",0,tierra de changua,POLOMBIA,66253648,robertgillespie@example.net,4.648625,-74.1,April Vasquez,"1984,01,10",437,Sean Weaver,920,117,Tienda4
+51137850,5,selfie stick,71451415,"2012,10,04",0,paloma city,Jaime,99485828,alfred19@example.net,-12.037964,-77.0503238,James Gonzalez,"2012,10,04",258,Christine Barrett,251,800,Tienda4
+49319972,3,headphones,60136984,"2016,02,19",0,erda,POLOMBIA,17471950,wilkinschristopher@example.org,10.4002813,-75.5,Jeremiah Campos,"2016,02,19",116,Sean Price,716,770,Tienda4
+46648179,1,PC,11336635,"2011,08,14",0,paloma city,Jaime,62837639,rebeccalee@example.net,-12.037964,-77.0503238,Christopher Hobbs Jr.,"2011,08,14",801,Albert Allison,279,487,Tienda4
+11644321,2,charger smartphone,25513652,"1984,02,21",0,erda,POLOMBIA,98803117,martinezashley@example.net,10.4002813,-75.5,Leslie Stephenson,"1984,02,21",800,Charles Long,921,547,Tienda4
+51009987,5,selfie stick,93191434,"1972,09,12",0,MEDALLO,POLOMBIA,63829014,robert96@example.net,6.2441988,-75.6,David Rogers,"1972,09,12",217,Henry Young IV,575,414,Tienda4
+27763054,2,charger smartphone,15369755,"1999,02,12",0,MEDALLO,POLOMBIA,11681236,stanleykara@example.net,6.2441988,-75.6,Zachary Griffith,"1999,02,12",68,Kelly Fletcher,992,92,Tienda4
+54639311,4,cases,20631262,"2011,03,24",0,erda,POLOMBIA,68051695,jerryhunter@example.net,10.4002813,-75.5,Victoria Garza,"2011,03,24",721,Jessica Hernandez MD,216,344,Tienda4
+54827001,2,charger smartphone,70347893,"1978,06,08",0,MEDALLO,POLOMBIA,98857771,william02@example.org,6.2441988,-75.6,Nicole Martin,"1978,06,08",423,Shane Kennedy,478,894,Tienda4
+49340759,5,selfie stick,45108152,"2009,05,16",0,erda,POLOMBIA,12616253,daniel66@example.net,10.4002813,-75.5,Krista Casey,"2009,05,16",360,Lisa Marshall,516,809,Tienda4
+97988187,3,headphones,90738978,"1994,07,22",0,paloma city,Jaime,33633930,jeffery20@example.org,-12.037964,-77.0503238,Tyler King,"1994,07,22",786,Andrew Green,942,329,Tienda4
+707421,5,selfie stick,82085840,"2004,10,24",0,paloma city,Jaime,57141800,brian79@example.org,-12.037964,-77.0503238,Amy Hudson,"2004,10,24",918,Melanie Griffin,473,364,Tienda4
+50605865,5,selfie stick,11643704,"1978,10,25",0,erda,POLOMBIA,97000305,dustin72@example.org,10.4002813,-75.5,Kenneth Barber,"1978,10,25",536,Danielle Williams,852,745,Tienda4
+86879524,5,selfie stick,8692198,"1989,09,22",0,MEDALLO,POLOMBIA,44724389,ndaniels@example.com,6.2441988,-75.6,Shawn Nicholson,"1989,09,22",603,Emily Griffith,241,801,Tienda4
+58310158,3,headphones,65641592,"1987,05,23",0,erda,POLOMBIA,74695997,bwright@example.com,10.4002813,-75.5,Maria Bonilla,"1987,05,23",880,Linda Horne,180,400,Tienda4
+56396716,1,PC,98738696,"1994,05,30",2,erda,POLOMBIA,81357383,gonzalezkenneth@example.net,10.4002813,-75.5,Jared Peterson,"1994,05,30",920,Katherine Adams,114,446,Tienda4
+23829874,4,cases,18761225,"2004,05,27",0,MEDALLO,POLOMBIA,40976795,paynewilliam@example.org,6.2441988,-75.6,Jimmy Leonard,"2004,05,27",892,Michael Carpenter DDS,422,109,Tienda4
+62608040,2,charger smartphone,11554959,"1982,09,09",0,MEDALLO,POLOMBIA,2059171,timothylam@example.org,6.2441988,-75.6,David Cruz,"1982,09,09",196,Andrea Cooper,728,763,Tienda4
+95290582,5,selfie stick,78703990,"2012,01,29",4,MEDALLO,POLOMBIA,46193831,prichardson@example.org,6.2441988,-75.6,Kimberly Edwards,"2012,01,29",187,Terry Perez,766,921,Tienda4
+34149937,5,selfie stick,18818410,"1996,10,07",0,paloma city,Jaime,71262757,edwardbenson@example.com,-12.037964,-77.0503238,Matthew Estes,"1996,10,07",820,John Ramsey,677,781,Tienda4
+66630178,4,cases,42735020,"2001,05,30",0,paloma city,Jaime,47550835,nancy95@example.com,-12.037964,-77.0503238,Kelly Johnson,"2001,05,30",917,Kaitlyn Lowe,674,556,Tienda4
+50607463,2,charger smartphone,92362922,"1987,03,20",0,MEDALLO,POLOMBIA,74368283,dana46@example.com,6.2441988,-75.6,Gregory Thompson,"1987,03,20",176,James Parsons,392,808,Tienda4
+74462488,4,cases,19777271,"1992,05,15",0,erda,POLOMBIA,92263034,hallrobert@example.org,10.4002813,-75.5,Cody Robertson,"1992,05,15",997,Joseph Johnson,248,935,Tienda4
+55637418,2,charger smartphone,64810246,"2017,11,19",0,tierra de changua,POLOMBIA,9690377,harrisalex@example.com,4.648625,-74.1,Brooke Mitchell,"2017,11,19",136,Patrick Daniels,733,191,Tienda4
+85799218,2,charger smartphone,5622299,"1978,06,28",0,MEDALLO,POLOMBIA,68476508,kelleynicole@example.net,6.2441988,-75.6,Lori Miller,"1978,06,28",406,Jonathan Mendoza,585,859,Tienda4
+7512453,4,cases,68220740,"1981,08,28",0,MEDALLO,POLOMBIA,43277359,michaeljohnson@example.com,6.2441988,-75.6,John Kerr,"1981,08,28",484,Adam Landry,695,648,Tienda4
+77249562,5,selfie stick,37957587,"1997,10,09",0,MEDALLO,POLOMBIA,62619149,ashley46@example.org,6.2441988,-75.6,George Adams,"1997,10,09",1000,Daniel Mosley,385,139,Tienda4
+56799380,5,selfie stick,82206954,"1995,02,19",0,tierra de changua,POLOMBIA,64556612,hernandezamanda@example.net,4.648625,-74.1,Benjamin Williams,"1995,02,19",474,Tim Garner,316,737,Tienda4
+6465116,5,selfie stick,11386107,"1998,08,17",0,erda,POLOMBIA,49801056,morenomark@example.com,10.4002813,-75.5,Joshua Howard,"1998,08,17",304,Christopher Jensen,454,875,Tienda4
+70721747,5,selfie stick,59742670,"1987,01,14",0,tierra de changua,POLOMBIA,99430554,calderonkristin@example.com,4.648625,-74.1,Paula Roberts,"1987,01,14",750,Jennifer Gonzalez,211,11,Tienda4
+93198203,2,charger smartphone,37452396,"2011,09,29",0,erda,POLOMBIA,66771409,kevintaylor@example.org,10.4002813,-75.5,Bruce Lee,"2011,09,29",818,Michael Parker,105,982,Tienda4
+88799879,2,charger smartphone,1484333,"2002,08,27",0,paloma city,Jaime,6017696,wvargas@example.net,-12.037964,-77.0503238,Kevin Sullivan,"2002,08,27",578,Andrew Meyer,668,524,Tienda4
+22550090,5,selfie stick,14915774,"1971,07,06",0,erda,POLOMBIA,41518072,brandon52@example.org,10.4002813,-75.5,Kim Hicks,"1971,07,06",362,Donna Baker,784,843,Tienda4
+48326132,3,headphones,85972374,"1992,02,15",0,erda,POLOMBIA,43014238,micheal95@example.com,10.4002813,-75.5,Casey Marshall,"1992,02,15",870,Emily Trujillo,632,549,Tienda4
+35154185,5,selfie stick,12455922,"2016,07,29",0,tierra de changua,POLOMBIA,7696625,larsonerik@example.org,4.648625,-74.1,Jesse Deleon,"2016,07,29",70,Anthony Flores,643,949,Tienda4
+93596250,5,selfie stick,3906366,"1979,11,14",0,tierra de changua,POLOMBIA,82645615,nicoleoneal@example.net,4.648625,-74.1,Brittany Fuller,"1979,11,14",106,Wesley Peterson,598,51,Tienda4
+14461224,1,PC,71477392,"1973,11,29",0,tierra de changua,POLOMBIA,27786761,johnny91@example.net,4.648625,-74.1,Jessica Griffin,"1973,11,29",97,Spencer Park,597,695,Tienda4
+43595718,2,charger smartphone,96097101,"1978,10,31",0,erda,POLOMBIA,68141915,michelepadilla@example.com,10.4002813,-75.5,Anna Russo,"1978,10,31",111,Stacey Simpson DDS,186,790,Tienda4
+70269873,4,cases,81495830,"2000,02,21",0,paloma city,Jaime,33444868,jesparza@example.org,-12.037964,-77.0503238,Jimmy Ramirez,"2000,02,21",695,Amy White,597,882,Tienda4
+30871893,1,PC,74814377,"1978,12,07",0,tierra de changua,POLOMBIA,25844191,uwilliams@example.org,4.648625,-74.1,Stephanie Case,"1978,12,07",667,Amanda Smith,138,603,Tienda4
+96108723,2,charger smartphone,30996920,"2012,04,21",0,MEDALLO,POLOMBIA,41117105,perezjuan@example.net,6.2441988,-75.6,Daniel Moyer,"2012,04,21",155,Mark Weaver,610,540,Tienda4
+34864354,5,selfie stick,97680833,"2010,12,05",0,tierra de changua,POLOMBIA,96219759,paynemichelle@example.com,4.648625,-74.1,Daniel Rogers,"2010,12,05",287,Susan Edwards,76,638,Tienda4
+47354502,4,cases,53380687,"1987,08,12",0,tierra de changua,POLOMBIA,18557969,hfitzgerald@example.com,4.648625,-74.1,Elizabeth Bryant,"1987,08,12",884,Melissa Rollins,408,471,Tienda4
+31553394,1,PC,18042626,"1971,11,27",0,paloma city,Jaime,69980226,hsimpson@example.net,-12.037964,-77.0503238,Johnathan Brown,"1971,11,27",234,Cody Perez,226,786,Tienda4
+24376426,4,cases,44002964,"2000,01,30",2,MEDALLO,POLOMBIA,84459437,hansoncristian@example.org,6.2441988,-75.6,Kenneth Williams,"2000,01,30",238,Brenda Hall,921,797,Tienda4
+74976673,5,selfie stick,87520534,"2004,10,06",0,erda,POLOMBIA,66993229,choward@example.org,10.4002813,-75.5,Brian Humphrey,"2004,10,06",473,Gregory Riddle,931,729,Tienda4
+13889656,2,charger smartphone,24583511,"1973,05,26",0,paloma city,Jaime,321217,snolan@example.org,-12.037964,-77.0503238,Vanessa Davis,"1973,05,26",25,Andrew Avila,813,116,Tienda4
+40190235,3,headphones,94826640,"1974,01,03",0,tierra de changua,POLOMBIA,89550985,vrocha@example.org,4.648625,-74.1,Rachel Smith,"1974,01,03",394,William Mooney,791,870,Tienda4
+449815,1,PC,25447415,"2003,04,03",0,erda,POLOMBIA,53683523,craneashley@example.com,10.4002813,-75.5,Dwayne Ortiz,"2003,04,03",81,Christopher Gray,230,261,Tienda4
+78600369,1,PC,73901771,"1975,09,18",0,erda,POLOMBIA,94493789,theresabailey@example.org,10.4002813,-75.5,Jackson Williams,"1975,09,18",938,Heather Miller,559,149,Tienda4
+53326190,2,charger smartphone,83846989,"1977,08,15",0,tierra de changua,POLOMBIA,68322807,danielleatkinson@example.net,4.648625,-74.1,Kyle Gordon,"1977,08,15",664,Nathan Calhoun,351,718,Tienda4
+87695484,4,cases,64990082,"2001,08,04",0,tierra de changua,POLOMBIA,81721713,robinwyatt@example.org,4.648625,-74.1,Jeffery Valenzuela,"2001,08,04",833,Collin Bond,50,805,Tienda4
+31792891,2,charger smartphone,60778399,"2011,01,26",0,paloma city,Jaime,38059021,gary16@example.com,-12.037964,-77.0503238,Charles Ashley,"2011,01,26",643,Allen Good,523,246,Tienda4
+8253803,4,cases,120128,"1975,08,19",0,MEDALLO,POLOMBIA,64006056,smeyer@example.org,6.2441988,-75.6,Tammy Brown,"1975,08,19",196,Regina Davies,193,812,Tienda4
+16489386,3,headphones,49861107,"2015,12,28",0,MEDALLO,POLOMBIA,88399262,emily08@example.net,6.2441988,-75.6,James Harvey,"2015,12,28",139,Roy Watson,269,243,Tienda4
+94243556,1,PC,42162565,"2018,01,18",5,erda,POLOMBIA,7913650,qking@example.com,10.4002813,-75.5,Robin Zavala,"2018,01,18",658,Gregory Jones,554,108,Tienda4
+27291354,2,charger smartphone,78682275,"1994,06,27",0,MEDALLO,POLOMBIA,22896936,mark15@example.org,6.2441988,-75.6,Jamie Flynn,"1994,06,27",597,Jillian Gomez,327,548,Tienda4
+94990881,1,PC,16372207,"2005,11,25",0,erda,POLOMBIA,30187587,alicia10@example.com,10.4002813,-75.5,Christine Ward,"2005,11,25",812,Craig Williams,980,317,Tienda4
+97053156,5,selfie stick,99379281,"1977,06,16",0,MEDALLO,POLOMBIA,1028706,cainlaura@example.com,6.2441988,-75.6,David Cruz,"1977,06,16",760,Deborah Jones,743,630,Tienda4
+31066177,1,PC,51696341,"1971,08,21",0,erda,POLOMBIA,83644166,wramos@example.org,10.4002813,-75.5,Deborah Patterson,"1971,08,21",11,Mason Adams,188,709,Tienda4
+35435166,1,PC,1633149,"1997,09,30",0,MEDALLO,POLOMBIA,60378523,broberts@example.com,6.2441988,-75.6,Brittney Graham,"1997,09,30",373,Christopher Howe,760,839,Tienda4
+41853648,1,PC,25896011,"1988,06,05",0,paloma city,Jaime,95821898,hodgesjoshua@example.com,-12.037964,-77.0503238,Lori Stewart,"1988,06,05",7,Michael Williams,889,217,Tienda4
+32953383,3,headphones,13589915,"1990,05,18",0,paloma city,Jaime,29514165,cmartin@example.org,-12.037964,-77.0503238,Rachel Gonzalez,"1990,05,18",848,David Duke MD,126,484,Tienda4
+85104775,1,PC,47357063,"1993,09,27",0,MEDALLO,POLOMBIA,4133030,michaellowery@example.com,6.2441988,-75.6,Hailey Frey,"1993,09,27",56,Amy Higgins,188,268,Tienda4
+13742112,4,cases,87925063,"1982,12,13",0,paloma city,Jaime,52298928,gevans@example.net,-12.037964,-77.0503238,Benjamin Spencer,"1982,12,13",158,Dale Anderson,343,289,Tienda4
+75033288,4,cases,83674383,"2004,04,08",0,tierra de changua,POLOMBIA,16526606,parkermark@example.com,4.648625,-74.1,Kimberly Kelley,"2004,04,08",753,Steven Taylor,305,647,Tienda4
+5068655,2,charger smartphone,62240953,"1985,10,09",0,paloma city,Jaime,16683534,cmyers@example.com,-12.037964,-77.0503238,Heidi Woods,"1985,10,09",133,Ashley Davis,44,946,Tienda4
+65649286,3,headphones,63161766,"1997,04,27",0,MEDALLO,POLOMBIA,61097616,kimberly17@example.com,6.2441988,-75.6,Mary Savage,"1997,04,27",49,Michael Guerrero,378,397,Tienda4
+475208,3,headphones,35896818,"1991,04,02",0,MEDALLO,POLOMBIA,55458373,nwarren@example.org,6.2441988,-75.6,Jason Hooper,"1991,04,02",106,Scott Woods,235,63,Tienda4
+15941644,4,cases,57551467,"2004,11,23",0,paloma city,Jaime,75819152,schwartzlisa@example.net,-12.037964,-77.0503238,Christopher Sanchez,"2004,11,23",527,Brandi Wolf,884,709,Tienda4
+11237823,2,charger smartphone,61913328,"1975,08,23",0,tierra de changua,POLOMBIA,69923253,andrew07@example.org,4.648625,-74.1,Stacy Wilson,"1975,08,23",612,Michael Adams,854,487,Tienda4
+48219320,2,charger smartphone,86605827,"1972,07,16",0,tierra de changua,POLOMBIA,76419481,sandrazuniga@example.net,4.648625,-74.1,Mark Jordan,"1972,07,16",297,Katherine Hall,573,62,Tienda4
+26967061,1,PC,74406754,"1981,05,29",0,MEDALLO,POLOMBIA,92213009,barnettrichard@example.net,6.2441988,-75.6,Thomas Gardner,"1981,05,29",95,Stephen Robinson,795,424,Tienda4
+29656112,2,charger smartphone,68181273,"1986,07,21",0,erda,POLOMBIA,55957670,louishaynes@example.org,10.4002813,-75.5,Melissa Le MD,"1986,07,21",258,Robert Washington,886,390,Tienda4
+50305516,3,headphones,88337291,"1979,02,23",0,erda,POLOMBIA,33150557,corey91@example.org,10.4002813,-75.5,Sandra Clark,"1979,02,23",919,Breanna Williams,804,487,Tienda4
+79320646,3,headphones,31320163,"2003,02,09",0,MEDALLO,POLOMBIA,28128375,michelle60@example.org,6.2441988,-75.6,Gina Bradley,"2003,02,09",379,Jeffrey Hale,928,371,Tienda4
+63271086,3,headphones,97329041,"2015,11,28",2,tierra de changua,POLOMBIA,83070962,wlewis@example.com,4.648625,-74.1,Donna Perez,"2015,11,28",708,Austin Hoover,115,454,Tienda4
+26369100,5,selfie stick,48905429,"1973,02,14",2,tierra de changua,POLOMBIA,46980558,courtney86@example.net,4.648625,-74.1,Gabriel Nielsen,"1973,02,14",197,David Buck,686,529,Tienda4
+44073972,4,cases,5271039,"1991,01,01",0,paloma city,Jaime,21158001,keithnguyen@example.org,-12.037964,-77.0503238,Robert Hansen,"1991,01,01",353,Gina Patel,707,830,Tienda4
+49699088,5,selfie stick,57310303,"1979,02,23",0,tierra de changua,POLOMBIA,41528140,kdurham@example.org,4.648625,-74.1,Kathleen White,"1979,02,23",662,Katherine Alvarez,46,945,Tienda4
+17177901,4,cases,52653788,"2019,01,24",0,paloma city,Jaime,50155155,oberry@example.net,-12.037964,-77.0503238,Ashley Mitchell,"2019,01,24",580,Allison Lee,800,86,Tienda4
+66664010,2,charger smartphone,4749407,"1978,07,07",0,tierra de changua,POLOMBIA,5176032,williamsjames@example.org,4.648625,-74.1,Mr. Gary Richardson DDS,"1978,07,07",428,Misty Mendez,254,203,Tienda4
+98504821,5,selfie stick,6822714,"1989,02,23",0,tierra de changua,POLOMBIA,27780836,davidbranch@example.org,4.648625,-74.1,Yvette Adams,"1989,02,23",728,John Huynh,502,686,Tienda4
+58979162,3,headphones,52916135,"1970,12,10",0,erda,POLOMBIA,30849250,imcdonald@example.com,10.4002813,-75.5,Kathy Adams,"1970,12,10",249,Dominique Reeves,212,345,Tienda4
+84458768,1,PC,56138448,"1971,10,03",0,tierra de changua,POLOMBIA,43618921,dgarrett@example.com,4.648625,-74.1,Philip Callahan,"1971,10,03",477,Craig Conner,362,854,Tienda4
+20622063,2,charger smartphone,16445739,"1975,11,07",0,tierra de changua,POLOMBIA,35397854,jacqueline37@example.com,4.648625,-74.1,Shannon Carter,"1975,11,07",261,Mark Collins,48,243,Tienda4
+52239407,4,cases,84599248,"1991,02,27",0,erda,POLOMBIA,82487367,austinbrown@example.org,10.4002813,-75.5,Alexander Williams,"1991,02,27",822,Brian Hahn,660,672,Tienda4
+93058348,4,cases,39832872,"1990,10,24",0,paloma city,Jaime,56990065,samueldrake@example.org,-12.037964,-77.0503238,Dominique Smith,"1990,10,24",535,Jared Shaw,239,105,Tienda4
+96074597,1,PC,82083005,"2003,05,07",0,MEDALLO,POLOMBIA,88095503,tgamble@example.com,6.2441988,-75.6,Tristan Perez,"2003,05,07",130,April Brooks,635,920,Tienda4
+47726273,2,charger smartphone,35487288,"2004,07,28",0,tierra de changua,POLOMBIA,6286098,nicolas04@example.net,4.648625,-74.1,Wendy Williams,"2004,07,28",797,Angela Clark,735,203,Tienda4
+73188738,5,selfie stick,58056087,"1997,11,11",1,MEDALLO,POLOMBIA,80547188,christinaleonard@example.net,6.2441988,-75.6,Douglas Miller,"1997,11,11",887,Sara Cantu,541,818,Tienda4
+87353947,2,charger smartphone,6910456,"1984,03,24",0,MEDALLO,POLOMBIA,84305952,marysanchez@example.com,6.2441988,-75.6,James Thornton,"1984,03,24",913,Jordan Cox,490,633,Tienda4
+86109217,5,selfie stick,55350856,"1981,11,03",0,erda,POLOMBIA,86611320,jamesryan@example.org,10.4002813,-75.5,Chad Barnes,"1981,11,03",378,Amanda Leon,506,403,Tienda4
+98645678,5,selfie stick,98039284,"2020,03,26",0,tierra de changua,POLOMBIA,82009753,aroberts@example.net,4.648625,-74.1,Donald Long,"2020,03,26",938,Gary Bates,209,390,Tienda4
+80148303,2,charger smartphone,34598420,"1970,12,21",0,erda,POLOMBIA,58572165,parkershannon@example.com,10.4002813,-75.5,Beth Jones,"1970,12,21",821,Ronald Howard,863,791,Tienda4
+85519442,4,cases,67294969,"1986,02,08",0,tierra de changua,POLOMBIA,90602072,azimmerman@example.net,4.648625,-74.1,Cheyenne Swanson,"1986,02,08",88,Thomas Williams,532,244,Tienda4
+93168382,5,selfie stick,11058113,"2015,09,19",0,erda,POLOMBIA,16344571,terrydavid@example.com,10.4002813,-75.5,Debra Tran,"2015,09,19",141,Martha Lopez,236,596,Tienda4
+29720069,3,headphones,45295425,"2016,03,19",0,paloma city,Jaime,64817312,whiterobert@example.org,-12.037964,-77.0503238,Patricia Cruz,"2016,03,19",200,Kimberly Sutton,282,564,Tienda4
+86425596,1,PC,67631843,"1982,05,13",0,MEDALLO,POLOMBIA,29229078,mariacline@example.com,6.2441988,-75.6,Derek Diaz,"1982,05,13",37,Christopher Cole,697,623,Tienda4
+52183945,5,selfie stick,66441491,"2001,01,11",2,erda,POLOMBIA,46872696,deleonelijah@example.net,10.4002813,-75.5,Mitchell Zimmerman,"2001,01,11",841,Amy Davis,920,137,Tienda4
+75217897,4,cases,2153940,"1970,05,26",0,paloma city,Jaime,75680156,cervantesjulie@example.com,-12.037964,-77.0503238,Stephanie White,"1970,05,26",851,Benjamin Davis,865,419,Tienda4
+44427143,3,headphones,10824827,"1985,07,27",0,tierra de changua,POLOMBIA,85478522,kramernancy@example.org,4.648625,-74.1,Matthew Vincent,"1985,07,27",379,Valerie Hughes,746,307,Tienda4
+7422271,1,PC,38453779,"2013,05,18",0,tierra de changua,POLOMBIA,24249213,ibrown@example.org,4.648625,-74.1,Jillian Burgess,"2013,05,18",673,Jessica Rios,502,730,Tienda4
+44021457,2,charger smartphone,39243913,"1971,04,14",2,tierra de changua,POLOMBIA,93256119,robindouglas@example.org,4.648625,-74.1,Colin Johnson,"1971,04,14",831,Angela Thompson,677,679,Tienda4
+26807720,2,charger smartphone,40033611,"1976,05,28",0,tierra de changua,POLOMBIA,6821195,jennifer94@example.com,4.648625,-74.1,Jeffery Valencia,"1976,05,28",668,Ana Phillips,770,191,Tienda4
+76327379,5,selfie stick,10237345,"2017,02,09",0,paloma city,Jaime,77895529,samantha93@example.org,-12.037964,-77.0503238,Emily Olson,"2017,02,09",466,Robert Clark,576,349,Tienda4
+86348067,1,PC,62031809,"1976,11,07",0,MEDALLO,POLOMBIA,31249298,lesliemorales@example.com,6.2441988,-75.6,Amy Brown,"1976,11,07",850,Cheryl Wood,678,311,Tienda4
+86175021,1,PC,61566533,"1987,12,18",0,MEDALLO,POLOMBIA,64698874,estewart@example.net,6.2441988,-75.6,David Glass,"1987,12,18",948,Kayla Baird,106,693,Tienda4
+82894769,2,charger smartphone,45820832,"1979,03,31",0,tierra de changua,POLOMBIA,11292749,emily37@example.net,4.648625,-74.1,Gwendolyn Williams,"1979,03,31",745,Ruth Graves,403,157,Tienda4
+66988366,5,selfie stick,42925202,"1985,05,06",1,erda,POLOMBIA,64821339,cedwards@example.org,10.4002813,-75.5,Rebecca Richardson,"1985,05,06",814,Barbara Porter,264,323,Tienda4
+2479047,3,headphones,45280917,"1974,10,28",4,MEDALLO,POLOMBIA,76392790,leanthony@example.com,6.2441988,-75.6,Shane Taylor,"1974,10,28",802,Evan Roberts,540,218,Tienda4
+64138166,2,charger smartphone,67972643,"1977,10,04",2,paloma city,Jaime,21916605,laurajohnson@example.org,-12.037964,-77.0503238,Barbara Bowman,"1977,10,04",471,Sean Cox,213,367,Tienda4
+49800087,5,selfie stick,32876042,"2017,09,09",2,paloma city,Jaime,14414817,melissamayo@example.net,-12.037964,-77.0503238,Nicholas Nguyen,"2017,09,09",590,Douglas Sellers,559,923,Tienda4
+96806035,4,cases,98224124,"1980,02,21",0,MEDALLO,POLOMBIA,23122623,pennyweaver@example.com,6.2441988,-75.6,Amanda Howard,"1980,02,21",700,Sean Sampson,615,496,Tienda4
+59046667,3,headphones,51276263,"2005,01,11",0,MEDALLO,POLOMBIA,20448570,woodtammy@example.org,6.2441988,-75.6,Kerry Brown,"2005,01,11",471,Anthony Mcknight,207,762,Tienda4
+53538045,1,PC,68955076,"1985,05,01",0,erda,POLOMBIA,20833515,anitadavis@example.net,10.4002813,-75.5,Susan Shannon,"1985,05,01",562,April Smith,276,58,Tienda4
+60121742,3,headphones,88073667,"2002,12,24",0,MEDALLO,POLOMBIA,15176439,teresafreeman@example.org,6.2441988,-75.6,Richard Robinson,"2002,12,24",375,Kelli Elliott,506,444,Tienda4
+34905286,5,selfie stick,68250386,"1970,07,16",0,MEDALLO,POLOMBIA,95201337,jasonparker@example.net,6.2441988,-75.6,Timothy Love,"1970,07,16",260,Levi Conway,244,524,Tienda4
+39764139,5,selfie stick,88022628,"1974,08,06",0,MEDALLO,POLOMBIA,98224886,garciakayla@example.net,6.2441988,-75.6,Patrick Mendoza,"1974,08,06",51,Martin Cabrera,175,302,Tienda4
+49440077,4,cases,75417021,"2018,05,05",0,paloma city,Jaime,94667114,castrorachel@example.net,-12.037964,-77.0503238,Dana Gardner,"2018,05,05",349,Michael Rogers,141,742,Tienda4
+63160269,5,selfie stick,39477252,"1988,01,07",0,MEDALLO,POLOMBIA,49236662,phernandez@example.org,6.2441988,-75.6,Terri Holmes,"1988,01,07",795,Larry Navarro,288,724,Tienda4
+79036943,3,headphones,47680566,"1978,10,03",0,tierra de changua,POLOMBIA,18062442,samantha59@example.net,4.648625,-74.1,April Carpenter,"1978,10,03",710,Jennifer Li,581,768,Tienda4
+91685339,4,cases,24405652,"1973,06,25",0,paloma city,Jaime,20621607,evan80@example.net,-12.037964,-77.0503238,Bailey Gordon,"1973,06,25",554,Martha Young,246,558,Tienda4
+23245861,4,cases,99335810,"1999,10,05",0,erda,POLOMBIA,86489281,owagner@example.org,10.4002813,-75.5,Zachary Pace,"1999,10,05",404,Ashley Chan,621,473,Tienda4
+40325792,3,headphones,64331341,"1987,08,22",0,MEDALLO,POLOMBIA,97959917,claudiawhite@example.org,6.2441988,-75.6,David Avila,"1987,08,22",137,Emily Jackson,567,394,Tienda4
+22916806,4,cases,89166305,"1992,11,18",0,paloma city,Jaime,94394695,brussell@example.org,-12.037964,-77.0503238,Joseph Harper,"1992,11,18",298,Jason Simon,165,715,Tienda4
+55992173,4,cases,37729977,"1980,06,24",0,erda,POLOMBIA,41031189,johnchase@example.net,10.4002813,-75.5,Sabrina Smith,"1980,06,24",758,Eric Hogan,250,936,Tienda4
+51493971,4,cases,14345887,"1985,11,19",0,paloma city,Jaime,73461574,hortonmelissa@example.com,-12.037964,-77.0503238,John Meyer,"1985,11,19",531,Andrea Fisher,805,134,Tienda4
+98906581,4,cases,25883588,"1972,08,10",0,erda,POLOMBIA,10535593,rossrachel@example.com,10.4002813,-75.5,Jordan Jimenez,"1972,08,10",794,Benjamin Williams,596,758,Tienda4
+4735313,2,charger smartphone,94170603,"1976,03,27",0,paloma city,Jaime,95303694,sflores@example.net,-12.037964,-77.0503238,Gary Reyes,"1976,03,27",520,Matthew Gray,427,183,Tienda4
+31319856,2,charger smartphone,76235654,"1982,08,11",0,MEDALLO,POLOMBIA,80382991,ginacole@example.com,6.2441988,-75.6,Paige Hull,"1982,08,11",515,David Smith,155,35,Tienda4
+79460232,4,cases,9229421,"1980,06,24",0,MEDALLO,POLOMBIA,61300190,gracewhite@example.net,6.2441988,-75.6,Kevin Acosta,"1980,06,24",677,Christopher Walker,115,694,Tienda4
+45167328,1,PC,64764796,"1973,09,17",0,tierra de changua,POLOMBIA,56635482,rfloyd@example.net,4.648625,-74.1,Justin Kelley,"1973,09,17",343,Brent Hunter,633,439,Tienda4
+57713259,2,charger smartphone,20025457,"2004,08,28",0,tierra de changua,POLOMBIA,74190763,averyamber@example.net,4.648625,-74.1,Thomas Martinez,"2004,08,28",536,Clifford Welch,666,504,Tienda4
+81796122,4,cases,40598930,"1992,10,16",0,MEDALLO,POLOMBIA,53474985,washingtondaniel@example.org,6.2441988,-75.6,Juan Green,"1992,10,16",738,Crystal Mccann,538,603,Tienda4
+56271433,3,headphones,22733428,"2009,07,17",0,tierra de changua,POLOMBIA,64973230,strongbrandon@example.com,4.648625,-74.1,Cody Krueger,"2009,07,17",12,Gilbert Evans,318,598,Tienda4
+16425358,3,headphones,33566805,"1972,10,31",0,tierra de changua,POLOMBIA,7470259,oanderson@example.com,4.648625,-74.1,Jacob Williams,"1972,10,31",838,Daniel Bailey,598,524,Tienda4
+34869173,5,selfie stick,46248317,"2016,05,07",0,MEDALLO,POLOMBIA,97760887,kobrien@example.org,6.2441988,-75.6,Joe Herman,"2016,05,07",229,Scott Gregory,191,569,Tienda4
+65848310,1,PC,22796630,"1971,07,01",0,MEDALLO,POLOMBIA,51453574,ethansanchez@example.net,6.2441988,-75.6,Scott King,"1971,07,01",782,Kerry Alvarez,438,317,Tienda4
+33443943,3,headphones,10059199,"2019,06,11",0,MEDALLO,POLOMBIA,93834664,zgreen@example.net,6.2441988,-75.6,Christine Hunter,"2019,06,11",523,Jacqueline Chavez,930,734,Tienda4
+46071417,3,headphones,58973558,"1998,03,31",0,MEDALLO,POLOMBIA,83866202,kevin51@example.net,6.2441988,-75.6,Jodi Edwards,"1998,03,31",136,Robin Montgomery,947,755,Tienda4
+74766972,1,PC,50290621,"2011,03,30",5,paloma city,Jaime,33815879,ianmoreno@example.org,-12.037964,-77.0503238,Keith Campbell,"2011,03,30",782,Mark Patel,778,389,Tienda4
+97150775,4,cases,68129491,"1971,07,05",0,tierra de changua,POLOMBIA,13790193,jonesjeremy@example.net,4.648625,-74.1,Dr. Jill Beck DDS,"1971,07,05",338,Mark Hodges,581,616,Tienda4
+90351124,5,selfie stick,91028818,"1971,05,17",0,tierra de changua,POLOMBIA,84830656,jasonanderson@example.com,4.648625,-74.1,Laura Mendoza,"1971,05,17",249,Christopher Anderson,345,518,Tienda4
+75154797,1,PC,92831535,"1979,05,16",0,MEDALLO,POLOMBIA,95518561,sarahnichols@example.net,6.2441988,-75.6,Brenda Beasley,"1979,05,16",183,Lisa Horton DDS,66,579,Tienda4
+68387149,1,PC,54215967,"1983,07,24",0,paloma city,Jaime,32154338,hbrown@example.com,-12.037964,-77.0503238,Dale Spears,"1983,07,24",860,Theresa Gonzales,877,369,Tienda4
+42015822,1,PC,55993786,"1976,04,01",0,tierra de changua,POLOMBIA,49091077,fharris@example.com,4.648625,-74.1,Karina Weiss,"1976,04,01",948,Kristin Weiss,299,852,Tienda4
+24476285,2,charger smartphone,1720829,"2006,02,05",0,paloma city,Jaime,5134280,jessicapatterson@example.net,-12.037964,-77.0503238,Joshua Lewis,"2006,02,05",876,Jamie Harris,748,178,Tienda4
+32534186,1,PC,78111785,"1994,07,23",0,paloma city,Jaime,44492329,riosjessica@example.org,-12.037964,-77.0503238,Emily Davis,"1994,07,23",907,Jeffrey Robinson,6,25,Tienda4
+61952929,1,PC,43824737,"1973,03,10",0,paloma city,Jaime,32521143,tmcdonald@example.com,-12.037964,-77.0503238,Barbara Jones,"1973,03,10",467,Amy Duran,174,223,Tienda4
+90779190,2,charger smartphone,22823832,"2013,03,12",2,tierra de changua,POLOMBIA,65503681,malloryross@example.com,4.648625,-74.1,Cynthia Williams,"2013,03,12",806,Devin Calhoun,618,900,Tienda4
+88608997,3,headphones,69175929,"1988,11,24",0,paloma city,Jaime,4415428,brian92@example.org,-12.037964,-77.0503238,Tyler Sullivan,"1988,11,24",505,Lori Johnson,953,465,Tienda4
+7489590,5,selfie stick,5645062,"1985,04,04",0,tierra de changua,POLOMBIA,51523619,ericawilliams@example.org,4.648625,-74.1,Billy Vance,"1985,04,04",297,Jennifer Kane,706,690,Tienda4
+31198065,5,selfie stick,57231300,"1984,02,23",0,tierra de changua,POLOMBIA,13873324,antonio14@example.net,4.648625,-74.1,Michael Smith,"1984,02,23",306,Cameron Lopez,520,645,Tienda4
+69028927,5,selfie stick,34078761,"1980,01,04",0,paloma city,Jaime,11327161,vhoward@example.com,-12.037964,-77.0503238,Julie Perez,"1980,01,04",702,Dana Ramirez,954,814,Tienda4
+93181946,1,PC,30709253,"2008,08,10",4,erda,POLOMBIA,45177828,james05@example.com,10.4002813,-75.5,Alexa Lopez,"2008,08,10",206,Logan Gibbs,672,306,Tienda4
+38175698,2,charger smartphone,87024168,"2013,05,28",0,erda,POLOMBIA,83226774,qbailey@example.com,10.4002813,-75.5,Colin Mccarthy,"2013,05,28",530,Matthew Hinton,578,985,Tienda4
+64282612,4,cases,52910538,"2008,09,17",0,paloma city,Jaime,52341759,tmathis@example.com,-12.037964,-77.0503238,Jerome Quinn,"2008,09,17",643,John Pena,482,415,Tienda4
+33393824,5,selfie stick,53948326,"1980,02,06",0,erda,POLOMBIA,30439962,salazarvictor@example.net,10.4002813,-75.5,Jennifer Ray,"1980,02,06",780,Scott Bean,403,394,Tienda4
+14602885,1,PC,11748072,"2006,01,01",0,paloma city,Jaime,12866017,michaelmorrow@example.org,-12.037964,-77.0503238,John Durham,"2006,01,01",509,Dr. Jamie Richard,982,662,Tienda4
+51289597,3,headphones,98283281,"1981,02,01",0,tierra de changua,POLOMBIA,19051074,williamschmidt@example.org,4.648625,-74.1,Patricia Clark,"1981,02,01",562,Scott Reyes,397,415,Tienda4
+49673483,3,headphones,7793827,"1979,01,04",0,tierra de changua,POLOMBIA,39337017,stephensonkevin@example.org,4.648625,-74.1,Sharon Johnson,"1979,01,04",126,Brandon Orr,395,63,Tienda4
+71753156,3,headphones,82803006,"1992,01,04",0,MEDALLO,POLOMBIA,5879216,tiffanyvargas@example.org,6.2441988,-75.6,Jennifer Patterson,"1992,01,04",913,Tammy Hale,471,362,Tienda4
+84150650,4,cases,76875769,"1995,05,11",0,MEDALLO,POLOMBIA,50615371,potterdebbie@example.org,6.2441988,-75.6,Richard Duran,"1995,05,11",144,George Massey,309,174,Tienda4
+8863530,1,PC,888311,"1987,04,09",1,tierra de changua,POLOMBIA,97260450,tylerburke@example.net,4.648625,-74.1,Larry Johns,"1987,04,09",784,Juan Schmitt,719,696,Tienda4
+52407226,5,selfie stick,3622028,"2003,09,02",0,paloma city,Jaime,47027837,spearsjames@example.net,-12.037964,-77.0503238,Nathaniel Moore,"2003,09,02",961,Jennifer Brown,98,901,Tienda4
+61190229,1,PC,5635230,"1975,07,15",0,MEDALLO,POLOMBIA,85276728,ggardner@example.net,6.2441988,-75.6,Madison Hernandez,"1975,07,15",235,Stephanie Barajas,277,146,Tienda4
+56897879,2,charger smartphone,7414751,"2010,02,14",0,erda,POLOMBIA,38138235,penny93@example.net,10.4002813,-75.5,Edward Gray,"2010,02,14",924,Jacob Gray,772,867,Tienda4
+48760642,2,charger smartphone,98963136,"2004,03,25",0,tierra de changua,POLOMBIA,28723652,amandacordova@example.net,4.648625,-74.1,Joseph Powell,"2004,03,25",134,Frederick Johnson,179,761,Tienda4
+82922167,3,headphones,89787424,"1990,03,31",0,paloma city,Jaime,77671244,lkelly@example.net,-12.037964,-77.0503238,Alec Hayes,"1990,03,31",910,Derek Faulkner,612,118,Tienda4
+68549428,1,PC,86951136,"2019,03,03",0,erda,POLOMBIA,35897910,debbie16@example.org,10.4002813,-75.5,Kevin Cooper,"2019,03,03",637,Lindsey Callahan,454,686,Tienda4
+90735019,3,headphones,46110924,"2016,11,15",0,tierra de changua,POLOMBIA,79199175,harrispamela@example.net,4.648625,-74.1,Kevin Hawkins,"2016,11,15",32,Jessica Grimes,812,273,Tienda4
+32306451,3,headphones,80097221,"1980,12,17",5,erda,POLOMBIA,88990455,peterwilliams@example.org,10.4002813,-75.5,Melanie Cook,"1980,12,17",260,Christopher Gonzalez,385,564,Tienda4
+54987983,5,selfie stick,15806978,"1997,03,08",0,MEDALLO,POLOMBIA,61104798,teresahopkins@example.com,6.2441988,-75.6,Anthony Cole,"1997,03,08",963,Paul Martin,903,558,Tienda4
+911793,3,headphones,77055129,"1978,05,19",0,erda,POLOMBIA,93810173,joycerivera@example.net,10.4002813,-75.5,Patricia Todd,"1978,05,19",3,Jason Graham,821,696,Tienda4
+66718367,3,headphones,22679862,"1991,09,30",0,erda,POLOMBIA,9248484,pagewilliam@example.org,10.4002813,-75.5,Morgan House,"1991,09,30",513,Willie Hernandez,20,404,Tienda4
+4769653,2,charger smartphone,65336849,"1981,05,31",0,tierra de changua,POLOMBIA,67055353,david57@example.org,4.648625,-74.1,Sharon Gibson,"1981,05,31",233,Walter Johnson,15,65,Tienda4
+33320418,1,PC,66843041,"1985,10,24",3,paloma city,Jaime,99791656,djohnson@example.net,-12.037964,-77.0503238,Bradley Gomez,"1985,10,24",868,Lisa Castro,438,551,Tienda4
+60902621,3,headphones,7924312,"2003,04,27",0,paloma city,Jaime,43457078,george79@example.org,-12.037964,-77.0503238,Joseph Klein,"2003,04,27",392,Dr. Garrett Barron,374,887,Tienda4
+72999153,1,PC,99865325,"1973,12,10",0,paloma city,Jaime,66853413,shelbyperez@example.com,-12.037964,-77.0503238,Jeffrey Williams,"1973,12,10",82,Ms. Casey Johnson MD,750,314,Tienda4
+9805121,4,cases,32089715,"2006,09,16",0,tierra de changua,POLOMBIA,58127629,gbishop@example.net,4.648625,-74.1,Robert Lindsey,"2006,09,16",288,Lisa Weeks,407,292,Tienda4
+59436741,1,PC,35448314,"1997,04,21",4,MEDALLO,POLOMBIA,2572388,donovankevin@example.net,6.2441988,-75.6,Paul Sanders,"1997,04,21",427,Tiffany Edwards,760,234,Tienda4
+17252789,1,PC,94114160,"2000,01,13",0,tierra de changua,POLOMBIA,39191974,roneal@example.com,4.648625,-74.1,William Thompson,"2000,01,13",375,Gerald Rogers,885,92,Tienda4
+92825478,5,selfie stick,69947987,"1974,09,08",0,paloma city,Jaime,81136098,braunmary@example.com,-12.037964,-77.0503238,Holly Bass,"1974,09,08",569,Carol Garcia,195,216,Tienda4
+14749155,2,charger smartphone,64688774,"2005,11,07",0,MEDALLO,POLOMBIA,90687574,stephenbishop@example.org,6.2441988,-75.6,Shane Anderson,"2005,11,07",265,Danielle White,324,208,Tienda4
+15112959,4,cases,32536109,"2005,05,23",0,MEDALLO,POLOMBIA,40944190,ramoselizabeth@example.org,6.2441988,-75.6,Daniel Blankenship,"2005,05,23",69,Gregory Miller,111,183,Tienda4
+85653196,1,PC,72338310,"1972,09,20",3,MEDALLO,POLOMBIA,58466026,charlesnash@example.net,6.2441988,-75.6,Deanna Adams,"1972,09,20",514,Steven Hernandez,540,91,Tienda4
+82577165,2,charger smartphone,42974446,"1995,08,05",0,MEDALLO,POLOMBIA,1747475,jeffreyharmon@example.net,6.2441988,-75.6,Marilyn Terry,"1995,08,05",661,Sheila Hernandez,669,128,Tienda4
+86324879,4,cases,7981665,"1998,04,25",0,tierra de changua,POLOMBIA,27323710,yclements@example.com,4.648625,-74.1,Glenn Williams,"1998,04,25",571,John Travis,788,659,Tienda4
+30019670,2,charger smartphone,40552325,"1987,05,11",0,tierra de changua,POLOMBIA,2383376,tyler66@example.net,4.648625,-74.1,Matthew Washington,"1987,05,11",269,Bruce Taylor,413,57,Tienda4
+14125548,3,headphones,63827564,"2016,12,17",0,erda,POLOMBIA,892499,timothybrady@example.net,10.4002813,-75.5,Julie Wood,"2016,12,17",208,Jeffrey Sanders,417,54,Tienda4
+98579595,2,charger smartphone,95089088,"2006,06,13",0,MEDALLO,POLOMBIA,86858187,nbarrett@example.org,6.2441988,-75.6,Brian Lester,"2006,06,13",931,Andrew Frazier,559,85,Tienda4
+83475112,4,cases,88109057,"2018,02,10",0,erda,POLOMBIA,7559564,lwood@example.com,10.4002813,-75.5,Heather Bradford,"2018,02,10",689,Tiffany Copeland,224,59,Tienda4
+65571755,4,cases,691948,"2018,12,14",1,MEDALLO,POLOMBIA,28042286,ebowen@example.com,6.2441988,-75.6,Ashley Williams,"2018,12,14",417,Melanie Cunningham,99,277,Tienda4
+82685464,2,charger smartphone,28342896,"1997,05,25",0,erda,POLOMBIA,24421399,erobertson@example.com,10.4002813,-75.5,Scott Sweeney,"1997,05,25",202,Daniel Harris,588,228,Tienda4
+96493299,3,headphones,84017583,"1972,07,31",0,MEDALLO,POLOMBIA,73257732,rebeccasmith@example.org,6.2441988,-75.6,Michael Peterson,"1972,07,31",533,Chad Armstrong,172,576,Tienda4
+85857119,4,cases,9144301,"1982,04,15",0,erda,POLOMBIA,54715886,hickmanheather@example.net,10.4002813,-75.5,Jose Adams,"1982,04,15",808,Jason Miller,759,835,Tienda4
+89209848,5,selfie stick,39306882,"2008,03,07",0,tierra de changua,POLOMBIA,28575112,hperez@example.com,4.648625,-74.1,Andrew Williams,"2008,03,07",963,Catherine Campbell,672,807,Tienda4
+59907751,1,PC,64598227,"2012,02,15",0,tierra de changua,POLOMBIA,58317453,barnesmary@example.com,4.648625,-74.1,John Williams,"2012,02,15",2,Darren Johnson,605,288,Tienda4
+17873139,5,selfie stick,10965978,"1972,12,04",0,MEDALLO,POLOMBIA,79295596,qblanchard@example.net,6.2441988,-75.6,Jessica Lee,"1972,12,04",276,Daniel Patel,564,621,Tienda4
+84481281,3,headphones,51219648,"1971,01,03",0,tierra de changua,POLOMBIA,22223083,hyoung@example.org,4.648625,-74.1,Jesse Gardner,"1971,01,03",924,Sara Levy,426,524,Tienda4
+25891330,4,cases,34810148,"1986,01,18",0,erda,POLOMBIA,22732061,julianprice@example.net,10.4002813,-75.5,Rachel Sims,"1986,01,18",802,Shannon Smith,830,457,Tienda4
+4240414,1,PC,98079600,"2016,11,13",0,erda,POLOMBIA,10946514,jenniferaguilar@example.net,10.4002813,-75.5,Edwin Davies,"2016,11,13",455,Aaron Williams,384,27,Tienda4
+73075319,1,PC,17811102,"2006,12,16",0,paloma city,Jaime,36881782,bradley60@example.com,-12.037964,-77.0503238,Megan Taylor,"2006,12,16",268,Kathy Clark,385,918,Tienda4
+64412003,4,cases,13095521,"1970,10,31",0,tierra de changua,POLOMBIA,38064588,juliaweber@example.org,4.648625,-74.1,Deborah Blackburn,"1970,10,31",96,Dr. Matthew Mendoza,770,98,Tienda4
+53283360,4,cases,1326570,"1975,03,05",0,MEDALLO,POLOMBIA,31766227,vpage@example.com,6.2441988,-75.6,Steven Simpson,"1975,03,05",277,Aaron Morris,212,329,Tienda4
+74163482,5,selfie stick,7199907,"2021,09,14",5,erda,POLOMBIA,71889533,hhughes@example.org,10.4002813,-75.5,James Peterson,"2021,09,14",220,William Flores,345,934,Tienda4
+61010583,2,charger smartphone,78005190,"2018,03,09",0,MEDALLO,POLOMBIA,90114244,garygreen@example.com,6.2441988,-75.6,Jonathan Mays,"2018,03,09",723,Mr. Justin Hoover,440,359,Tienda4
+15096891,5,selfie stick,88211801,"1998,03,09",0,erda,POLOMBIA,588264,jross@example.net,10.4002813,-75.5,Paul Mcconnell,"1998,03,09",878,Michael Flores,703,193,Tienda4
+22794116,1,PC,18582315,"2004,03,04",0,MEDALLO,POLOMBIA,46454401,john59@example.com,6.2441988,-75.6,John Church,"2004,03,04",787,Kyle Davis,143,705,Tienda4
+84439663,3,headphones,99325089,"1975,12,25",0,paloma city,Jaime,26911837,durhammary@example.org,-12.037964,-77.0503238,Shannon Turner,"1975,12,25",690,John Bell,768,679,Tienda4
+79275576,1,PC,15113045,"2020,05,04",0,erda,POLOMBIA,6666383,ghicks@example.com,10.4002813,-75.5,John Rodriguez,"2020,05,04",69,Charles Kelly,929,466,Tienda4
+40785494,1,PC,89280568,"2011,02,28",0,tierra de changua,POLOMBIA,55133267,audrey84@example.org,4.648625,-74.1,Monique Allen,"2011,02,28",518,Sylvia Chavez,929,760,Tienda4
+57823299,2,charger smartphone,5975881,"2017,01,13",0,MEDALLO,POLOMBIA,83452408,rodriguezcody@example.net,6.2441988,-75.6,Javier Maxwell,"2017,01,13",877,Abigail Lewis,46,299,Tienda4
+92878808,5,selfie stick,55633678,"1982,05,20",0,paloma city,Jaime,79358716,austin43@example.com,-12.037964,-77.0503238,Jeffrey Guerrero,"1982,05,20",939,Daniel Gamble,223,358,Tienda4
+80244881,3,headphones,88174142,"2006,04,02",0,tierra de changua,POLOMBIA,75055871,jameswoodard@example.com,4.648625,-74.1,Jacob Brown,"2006,04,02",132,Ms. Heather Vazquez DVM,196,18,Tienda4
+34046880,5,selfie stick,42337548,"1999,07,18",0,MEDALLO,POLOMBIA,51040881,muellerrichard@example.net,6.2441988,-75.6,Cassie Huber,"1999,07,18",827,Aaron Calderon,785,604,Tienda4
+91005055,1,PC,15802093,"1972,01,05",0,MEDALLO,POLOMBIA,86722026,umyers@example.org,6.2441988,-75.6,Sarah Spears,"1972,01,05",544,Amber Perez,750,975,Tienda4
+80543665,5,selfie stick,1184165,"1987,04,26",0,paloma city,Jaime,8961067,andersonandrew@example.com,-12.037964,-77.0503238,Denise Elliott,"1987,04,26",426,William Holmes,38,349,Tienda4
+97147667,3,headphones,41324167,"2008,06,20",0,MEDALLO,POLOMBIA,4301383,rhobbs@example.net,6.2441988,-75.6,Mr. Michael Smith,"2008,06,20",637,William Elliott,922,123,Tienda4
+97159976,4,cases,87748658,"1980,01,14",0,MEDALLO,POLOMBIA,56228366,hernandezangela@example.net,6.2441988,-75.6,Cody Hamilton,"1980,01,14",414,Dr. Christopher Jackson,524,209,Tienda4
+23742327,3,headphones,68729998,"1997,09,28",0,paloma city,Jaime,83673754,carolynbright@example.org,-12.037964,-77.0503238,Steven Webb,"1997,09,28",645,Heather Williams,507,793,Tienda4
+39293450,4,cases,37290322,"1997,10,12",0,paloma city,Jaime,63603009,riveraanthony@example.net,-12.037964,-77.0503238,Amy Henderson,"1997,10,12",481,Alison Jenkins,298,564,Tienda4
+85922675,1,PC,14985121,"2005,12,19",4,paloma city,Jaime,10682510,johnstonamanda@example.org,-12.037964,-77.0503238,Anne Taylor,"2005,12,19",54,Miss Kristina Navarro,129,875,Tienda4
+35325559,4,cases,59264674,"2011,04,28",0,erda,POLOMBIA,94761289,ldiaz@example.org,10.4002813,-75.5,Alejandro Raymond,"2011,04,28",158,Calvin Miller DDS,854,921,Tienda4
+2919750,5,selfie stick,613963,"2007,06,16",0,tierra de changua,POLOMBIA,15490173,jessemartinez@example.com,4.648625,-74.1,Sean Robinson II,"2007,06,16",199,Mrs. Deborah Wright,738,425,Tienda4
+41832654,1,PC,99093295,"1971,08,25",0,tierra de changua,POLOMBIA,88650046,cadams@example.org,4.648625,-74.1,Wayne Rodriguez,"1971,08,25",314,Kathleen Garza,761,150,Tienda4
+62132614,3,headphones,57369751,"1981,08,17",0,paloma city,Jaime,58854500,vstokes@example.net,-12.037964,-77.0503238,Steven Hawkins,"1981,08,17",792,Daniel Stewart,740,146,Tienda4
+37856048,2,charger smartphone,81994849,"2016,06,14",0,MEDALLO,POLOMBIA,75278895,wgriffin@example.org,6.2441988,-75.6,Ryan Payne,"2016,06,14",576,Robert Aguirre,251,613,Tienda4
+77535203,2,charger smartphone,6815461,"1972,04,12",0,MEDALLO,POLOMBIA,21097629,toddolsen@example.org,6.2441988,-75.6,Mark Fuller,"1972,04,12",302,Amanda Henderson,511,225,Tienda4
+30016158,5,selfie stick,46685508,"1996,01,29",0,paloma city,Jaime,28547030,raychristine@example.org,-12.037964,-77.0503238,Victoria Lopez,"1996,01,29",868,Jennifer Cobb,459,185,Tienda4
+71798325,2,charger smartphone,83863056,"2021,04,13",0,erda,POLOMBIA,66865598,amy49@example.com,10.4002813,-75.5,Jennifer Martin,"2021,04,13",960,James Morrow,719,591,Tienda4
+44662874,4,cases,82814309,"1983,05,23",0,tierra de changua,POLOMBIA,20533850,steven70@example.org,4.648625,-74.1,Catherine Jenkins,"1983,05,23",204,Richard Moran,95,744,Tienda4
+73967330,1,PC,19924473,"1984,08,03",0,paloma city,Jaime,77643519,morenopaul@example.net,-12.037964,-77.0503238,Ashley Fisher,"1984,08,03",306,Christina Bell,673,508,Tienda4
+36978202,3,headphones,77886730,"2008,07,16",0,MEDALLO,POLOMBIA,93993221,shannon12@example.org,6.2441988,-75.6,April Farrell,"2008,07,16",901,William Jensen,639,2,Tienda4
+54285307,1,PC,96414561,"1987,08,06",0,MEDALLO,POLOMBIA,77704177,mark38@example.org,6.2441988,-75.6,Suzanne Underwood,"1987,08,06",256,David Dixon,663,295,Tienda4
+67560661,4,cases,40252899,"1983,08,30",0,erda,POLOMBIA,91713841,rtaylor@example.com,10.4002813,-75.5,Megan King,"1983,08,30",399,Allen Miller,55,399,Tienda4
+4277206,1,PC,690183,"1988,07,30",0,MEDALLO,POLOMBIA,74349829,williambecker@example.com,6.2441988,-75.6,Mark Pham,"1988,07,30",425,Eric Cross,460,156,Tienda4
+95034514,1,PC,53525775,"2012,03,05",0,MEDALLO,POLOMBIA,70359381,brent77@example.org,6.2441988,-75.6,Larry Richardson,"2012,03,05",713,Keith Torres,370,853,Tienda4
+79360642,5,selfie stick,17531033,"2009,04,08",0,erda,POLOMBIA,34607938,christine72@example.com,10.4002813,-75.5,Frederick Kaufman,"2009,04,08",567,Alex Price,971,875,Tienda4
+47479384,2,charger smartphone,36337266,"2010,11,04",0,paloma city,Jaime,73294519,evansjonathon@example.com,-12.037964,-77.0503238,James Anderson,"2010,11,04",277,Natalie Marshall,328,80,Tienda4
+62952922,3,headphones,45197221,"1995,04,01",0,paloma city,Jaime,10175798,wjohnson@example.net,-12.037964,-77.0503238,David Garner,"1995,04,01",285,Christopher Roy,303,254,Tienda4
+65120195,3,headphones,57377924,"2021,07,06",0,MEDALLO,POLOMBIA,79795157,ijohnson@example.org,6.2441988,-75.6,Christian Skinner,"2021,07,06",80,Jerry Jackson,643,479,Tienda4
+37492498,5,selfie stick,93452489,"1986,11,23",0,MEDALLO,POLOMBIA,1366735,stewartvictor@example.com,6.2441988,-75.6,Erin Morgan,"1986,11,23",641,Tammy Grant,795,370,Tienda4
+32394838,4,cases,50606637,"1976,03,29",0,erda,POLOMBIA,76233806,michael71@example.com,10.4002813,-75.5,Barbara Myers,"1976,03,29",683,Phillip Stewart,846,312,Tienda4
+91785514,3,headphones,69503198,"2005,05,21",0,paloma city,Jaime,86144026,jmiranda@example.net,-12.037964,-77.0503238,Stephen Phelps,"2005,05,21",896,Cassandra Franco,575,37,Tienda4
+75377209,1,PC,50683730,"2014,07,12",0,erda,POLOMBIA,21623906,zwoods@example.net,10.4002813,-75.5,Christopher Bauer,"2014,07,12",528,Angel Wright,904,764,Tienda4
+95712214,3,headphones,43234148,"2014,03,06",0,MEDALLO,POLOMBIA,17926417,ithomas@example.net,6.2441988,-75.6,Michelle Friedman,"2014,03,06",643,Sarah Dawson,261,437,Tienda4
+81623127,3,headphones,8158696,"2014,03,16",0,tierra de changua,POLOMBIA,19076248,dustinrodriguez@example.org,4.648625,-74.1,Alan Lewis,"2014,03,16",994,Robert White,579,809,Tienda4
+23652460,1,PC,62201707,"2010,03,20",0,tierra de changua,POLOMBIA,55873112,lwatson@example.com,4.648625,-74.1,Ryan Bradley,"2010,03,20",728,Melinda Spencer,87,556,Tienda4
+22190785,3,headphones,13454927,"1972,07,28",0,MEDALLO,POLOMBIA,95413279,sloankelsey@example.net,6.2441988,-75.6,Laura Keith,"1972,07,28",937,Patricia Smith,263,96,Tienda4
+36690707,4,cases,69535144,"1980,08,22",0,erda,POLOMBIA,22788384,elizabethorozco@example.com,10.4002813,-75.5,Jackie Mendoza,"1980,08,22",785,Kim May,593,604,Tienda4
+18920587,2,charger smartphone,25632465,"1975,08,05",0,MEDALLO,POLOMBIA,88954196,rochabrian@example.org,6.2441988,-75.6,Mark Clements,"1975,08,05",525,Jonathan Clark,326,378,Tienda4
+4681192,3,headphones,23675802,"1976,08,18",2,paloma city,Jaime,23288115,xjohnson@example.org,-12.037964,-77.0503238,Brian Hines,"1976,08,18",714,Dr. Robert Hamilton,54,594,Tienda4
+66453448,5,selfie stick,43422768,"1978,12,03",0,erda,POLOMBIA,8341002,jcarpenter@example.net,10.4002813,-75.5,Colleen Andrade,"1978,12,03",522,Pamela Sparks,174,780,Tienda4
+31958041,1,PC,37342039,"2010,12,14",0,erda,POLOMBIA,69527643,georgescott@example.com,10.4002813,-75.5,Marcus Johnston,"2010,12,14",383,Timothy Hale,813,991,Tienda4
+52804638,1,PC,3701711,"1999,09,19",1,erda,POLOMBIA,15516641,twoods@example.net,10.4002813,-75.5,Hannah Forbes,"1999,09,19",424,Nathan Martin,416,697,Tienda4
+36163342,4,cases,33864219,"1976,10,30",0,paloma city,Jaime,22971112,michelle16@example.com,-12.037964,-77.0503238,Willie Reed,"1976,10,30",229,Denise Sutton,618,270,Tienda4
+90705197,2,charger smartphone,10878728,"2005,07,23",0,erda,POLOMBIA,10146854,brianconner@example.com,10.4002813,-75.5,Gregory Rollins,"2005,07,23",362,Jeremy Gardner,180,285,Tienda4
+81331868,3,headphones,87575287,"1983,03,19",0,erda,POLOMBIA,12964579,vware@example.com,10.4002813,-75.5,Catherine Randolph,"1983,03,19",138,Craig Stevenson,553,139,Tienda4
+72467469,3,headphones,54682501,"1976,05,22",0,MEDALLO,POLOMBIA,50202854,blackburnscott@example.com,6.2441988,-75.6,Christina Soto,"1976,05,22",85,Jeffrey Mcbride,485,907,Tienda4
+30474750,1,PC,53154445,"1996,06,21",0,tierra de changua,POLOMBIA,40258306,diana78@example.com,4.648625,-74.1,Peter Hernandez,"1996,06,21",281,Charles Johnson,430,374,Tienda4
+64171414,5,selfie stick,38328938,"2016,05,16",2,tierra de changua,POLOMBIA,63608111,schwartztiffany@example.org,4.648625,-74.1,Albert Anderson,"2016,05,16",734,Dr. Nicole Shaffer,198,26,Tienda4
+32471643,4,cases,81102907,"1970,06,18",0,MEDALLO,POLOMBIA,30668781,xanderson@example.net,6.2441988,-75.6,Elijah Burns,"1970,06,18",273,Hunter Reynolds,230,634,Tienda4
+23577508,1,PC,26998793,"1983,07,14",0,paloma city,Jaime,2767877,armstrongkimberly@example.com,-12.037964,-77.0503238,Thomas Reyes,"1983,07,14",909,Phyllis Montoya,676,299,Tienda4
+95347587,1,PC,9222045,"1982,05,10",0,paloma city,Jaime,37935612,krista64@example.org,-12.037964,-77.0503238,Christopher Thompson,"1982,05,10",713,Bobby Murphy,649,734,Tienda4
+89494024,1,PC,93263538,"1976,11,15",0,paloma city,Jaime,17948172,kwoods@example.org,-12.037964,-77.0503238,Daniel Mayo,"1976,11,15",119,Bradley Gray,338,492,Tienda4
+95033263,5,selfie stick,5864639,"2010,09,02",0,erda,POLOMBIA,81604711,mccoyashley@example.org,10.4002813,-75.5,Brandi Taylor,"2010,09,02",879,Linda Farmer,840,161,Tienda4
+25760848,4,cases,93408150,"1971,06,20",0,paloma city,Jaime,33641597,nancygreen@example.net,-12.037964,-77.0503238,Allison Dixon,"1971,06,20",598,Jose Gordon,521,511,Tienda4
+67664812,2,charger smartphone,8930109,"1979,05,12",0,MEDALLO,POLOMBIA,76596507,cooklisa@example.com,6.2441988,-75.6,Nicholas Garcia,"1979,05,12",874,Sherri Perez,131,113,Tienda4
+58531595,4,cases,90763999,"2007,06,23",0,paloma city,Jaime,3650017,greenjeremy@example.net,-12.037964,-77.0503238,Brittany Lynch,"2007,06,23",626,Mariah Baker,275,810,Tienda4
+70184653,2,charger smartphone,80051601,"2000,12,13",0,paloma city,Jaime,22607767,zlambert@example.com,-12.037964,-77.0503238,Beth Simon,"2000,12,13",418,Randy Roberts,613,15,Tienda4
+54295343,5,selfie stick,62542096,"2003,06,09",0,erda,POLOMBIA,63910254,kyle52@example.com,10.4002813,-75.5,Carol Murray,"2003,06,09",576,Gary Weiss,384,400,Tienda4
+99112517,2,charger smartphone,53151579,"1974,01,24",5,erda,POLOMBIA,6031183,perezmark@example.net,10.4002813,-75.5,Todd Rivera,"1974,01,24",568,Miguel Wheeler,732,883,Tienda4
+25022921,4,cases,40694073,"2002,05,14",0,erda,POLOMBIA,3985244,egarcia@example.org,10.4002813,-75.5,Daniel Gallegos,"2002,05,14",763,Amber White,468,237,Tienda4
+1351921,5,selfie stick,69435640,"1979,07,22",0,MEDALLO,POLOMBIA,81352358,michael16@example.net,6.2441988,-75.6,Garrett Jones,"1979,07,22",533,April Payne,940,247,Tienda4
+34628898,3,headphones,99275019,"1984,08,11",0,erda,POLOMBIA,98973438,lwalters@example.net,10.4002813,-75.5,Morgan Rodriguez,"1984,08,11",459,Gina Davis,265,215,Tienda4
+80345389,3,headphones,55274485,"2005,02,12",0,tierra de changua,POLOMBIA,68256521,myoung@example.com,4.648625,-74.1,Deborah Conner,"2005,02,12",457,Glen Rose,662,913,Tienda4
+26144251,4,cases,22076095,"1977,07,14",0,tierra de changua,POLOMBIA,39148587,parkermitchell@example.com,4.648625,-74.1,Miranda Shepherd,"1977,07,14",705,William Cooley,943,314,Tienda4
+97798251,3,headphones,5799243,"1979,07,21",0,paloma city,Jaime,59927807,goodwinmary@example.com,-12.037964,-77.0503238,Scott Pollard,"1979,07,21",251,Carolyn Olson,730,821,Tienda4
+62873107,2,charger smartphone,71244230,"1975,06,05",0,erda,POLOMBIA,41186125,jingram@example.net,10.4002813,-75.5,Shawn Lee,"1975,06,05",695,Sandra Jones,808,832,Tienda4
+81503105,2,charger smartphone,94307509,"2018,12,27",0,tierra de changua,POLOMBIA,95148756,gjackson@example.org,4.648625,-74.1,Stuart Morris,"2018,12,27",926,Angela Deleon,142,368,Tienda4
+94345968,2,charger smartphone,34372420,"1990,03,30",0,paloma city,Jaime,424420,levinedavid@example.org,-12.037964,-77.0503238,Andre Baker,"1990,03,30",426,Tristan Brown,779,240,Tienda4
+32522319,5,selfie stick,34515550,"1977,02,10",2,paloma city,Jaime,20294912,jose54@example.com,-12.037964,-77.0503238,Sarah Russell,"1977,02,10",750,Bradley Brady,635,303,Tienda4
+34147282,2,charger smartphone,40640403,"2020,03,21",0,erda,POLOMBIA,15163626,njohnson@example.net,10.4002813,-75.5,Natasha Porter,"2020,03,21",896,Peter Wilson,226,237,Tienda4
+33828962,3,headphones,57909630,"2006,12,14",0,tierra de changua,POLOMBIA,42590879,smartin@example.com,4.648625,-74.1,Jared Ford,"2006,12,14",635,Rebecca Taylor,720,932,Tienda4
+75931628,2,charger smartphone,96182083,"1980,09,03",0,erda,POLOMBIA,44717840,elizabeth20@example.com,10.4002813,-75.5,Christopher Jones,"1980,09,03",344,Katie Moore,765,846,Tienda4
+21752163,1,PC,15307177,"1977,01,21",0,erda,POLOMBIA,46477948,michelle56@example.net,10.4002813,-75.5,Virginia Green,"1977,01,21",682,Michael Walker,266,252,Tienda4
+72434843,2,charger smartphone,66655458,"2019,02,15",0,erda,POLOMBIA,40241749,kelleyjames@example.org,10.4002813,-75.5,Kathleen Caldwell,"2019,02,15",175,Jessica Kennedy,139,630,Tienda4
+86969411,1,PC,50009824,"1976,07,20",0,erda,POLOMBIA,56272970,silvasally@example.com,10.4002813,-75.5,Amanda Gamble,"1976,07,20",763,Elizabeth Cooper,959,581,Tienda4
+95036046,4,cases,82663224,"2008,06,03",4,erda,POLOMBIA,90696710,thomasnicholas@example.com,10.4002813,-75.5,Ricky Williams,"2008,06,03",313,Kimberly Kelly,535,773,Tienda4
+92514641,4,cases,39340275,"1989,07,04",0,MEDALLO,POLOMBIA,79590752,perezmaria@example.com,6.2441988,-75.6,Grace Jones,"1989,07,04",205,Emily Barton,354,934,Tienda4
+20883124,2,charger smartphone,29585445,"2013,10,25",0,tierra de changua,POLOMBIA,53367242,megan50@example.org,4.648625,-74.1,Matthew Edwards,"2013,10,25",863,Thomas Richard,723,221,Tienda4
+11649340,4,cases,755808,"1993,11,05",0,paloma city,Jaime,16257026,daniel95@example.org,-12.037964,-77.0503238,Crystal Bailey,"1993,11,05",882,Robert Bailey,178,271,Tienda4
+72521110,5,selfie stick,75256696,"1986,10,11",0,erda,POLOMBIA,74517506,danielswendy@example.org,10.4002813,-75.5,Micheal Robertson,"1986,10,11",869,Larry Rivera,638,638,Tienda4
+9286094,5,selfie stick,53186268,"2016,06,18",0,MEDALLO,POLOMBIA,3075785,pedrobishop@example.com,6.2441988,-75.6,Lisa Johns,"2016,06,18",221,Melissa Roberson,903,67,Tienda4
+65681508,4,cases,16003358,"2007,07,07",0,erda,POLOMBIA,73167913,rlawrence@example.com,10.4002813,-75.5,Kimberly Campbell,"2007,07,07",705,Yolanda Harris,850,722,Tienda4
+28374814,2,charger smartphone,28602060,"1974,08,07",0,MEDALLO,POLOMBIA,834076,bsantos@example.com,6.2441988,-75.6,Edward Mitchell,"1974,08,07",376,Kelly Blackburn,988,386,Tienda4
+94259457,5,selfie stick,26256550,"2014,04,05",0,MEDALLO,POLOMBIA,97320214,dsmith@example.net,6.2441988,-75.6,Nicholas Smith,"2014,04,05",997,Michael Wilkinson,320,702,Tienda4
+1104606,5,selfie stick,94192103,"2000,02,16",0,MEDALLO,POLOMBIA,7760036,adamtorres@example.net,6.2441988,-75.6,Zachary Potts,"2000,02,16",290,Christopher Simmons,445,210,Tienda4
+38550066,1,PC,88767655,"1997,04,24",0,tierra de changua,POLOMBIA,36965861,butlercharles@example.net,4.648625,-74.1,Joel Martinez,"1997,04,24",305,Kimberly Giles,10,922,Tienda4
+92596425,2,charger smartphone,56974107,"2011,01,01",0,erda,POLOMBIA,42625704,isabella66@example.com,10.4002813,-75.5,Jasmine Mcguire,"2011,01,01",330,Brandon Jones,689,217,Tienda4
+94734552,3,headphones,97395664,"2017,08,03",0,MEDALLO,POLOMBIA,3993291,andrewweber@example.com,6.2441988,-75.6,Joy Irwin,"2017,08,03",385,Robert Owens,629,331,Tienda4
+92237124,3,headphones,62523479,"2009,09,05",0,MEDALLO,POLOMBIA,22278853,bwilson@example.net,6.2441988,-75.6,Michael Tyler,"2009,09,05",226,Joshua Vasquez,991,47,Tienda4
+88612368,4,cases,41813677,"1973,05,23",0,erda,POLOMBIA,64849978,fredericknorris@example.com,10.4002813,-75.5,Jordan Nelson,"1973,05,23",927,Kenneth Horton,340,225,Tienda4
+31876389,2,charger smartphone,72425063,"1987,08,27",0,MEDALLO,POLOMBIA,77449791,jacksonlisa@example.com,6.2441988,-75.6,Matthew Sherman,"1987,08,27",919,Amber Jordan,426,150,Tienda4
+61922776,4,cases,87154199,"1993,11,13",0,erda,POLOMBIA,20251638,brittanystone@example.com,10.4002813,-75.5,Margaret Gilbert,"1993,11,13",819,Paul Brown,212,942,Tienda4
+99063080,1,PC,7306114,"2010,02,05",2,MEDALLO,POLOMBIA,49295335,wacosta@example.net,6.2441988,-75.6,Jamie Crosby,"2010,02,05",461,Shannon Conley,817,919,Tienda4
+79083855,1,PC,89124334,"1972,03,01",0,MEDALLO,POLOMBIA,39721072,sophia96@example.org,6.2441988,-75.6,Patrick Ward,"1972,03,01",831,Christopher Howard,455,433,Tienda4
+40065967,1,PC,62577590,"1990,03,26",0,MEDALLO,POLOMBIA,6452766,gregorymitchell@example.net,6.2441988,-75.6,Melissa Forbes,"1990,03,26",574,David Walton MD,618,866,Tienda4
+37773717,1,PC,38754756,"1985,04,21",0,paloma city,Jaime,72863811,wellsmichael@example.org,-12.037964,-77.0503238,Michael James,"1985,04,21",208,Kurt Cook,810,266,Tienda4
+47439858,2,charger smartphone,15018631,"1979,12,05",0,erda,POLOMBIA,6669639,kennethayala@example.net,10.4002813,-75.5,Monica Morales,"1979,12,05",257,Jeremiah Sharp,717,44,Tienda4
+22044638,4,cases,93974099,"2009,07,01",0,paloma city,Jaime,9070045,jacquelinehood@example.com,-12.037964,-77.0503238,Randy French,"2009,07,01",920,Brenda Hall,880,765,Tienda4
+77444543,4,cases,53040769,"1976,07,17",0,tierra de changua,POLOMBIA,10418467,daniel11@example.org,4.648625,-74.1,Raymond Adams,"1976,07,17",121,Jerry Jackson,112,378,Tienda4
+5682020,2,charger smartphone,13336030,"2004,01,03",0,paloma city,Jaime,75120788,sarah70@example.org,-12.037964,-77.0503238,Mr. Maurice Brown,"2004,01,03",414,Travis Hoover,945,850,Tienda4
+99394142,5,selfie stick,7597541,"1995,03,20",0,erda,POLOMBIA,6175466,tamara83@example.com,10.4002813,-75.5,Brittany Smith,"1995,03,20",137,Michael Mckenzie,429,639,Tienda4
+45097084,1,PC,1249670,"1994,11,21",0,tierra de changua,POLOMBIA,94499997,johnsonjasmine@example.com,4.648625,-74.1,Victoria Williams,"1994,11,21",416,Mr. Eric Contreras,817,295,Tienda4
+84924408,1,PC,2031815,"1971,03,26",0,erda,POLOMBIA,72689862,james79@example.org,10.4002813,-75.5,Jacob Jimenez,"1971,03,26",173,Jeffrey Mathis,454,675,Tienda4
+57835114,2,charger smartphone,84059652,"1970,12,13",0,tierra de changua,POLOMBIA,38516523,jamesnoble@example.net,4.648625,-74.1,Melody Nicholson,"1970,12,13",238,Angela Henderson,580,682,Tienda4
+26497451,5,selfie stick,22288306,"1993,05,16",0,paloma city,Jaime,65410101,wreed@example.com,-12.037964,-77.0503238,Dr. Regina Miller,"1993,05,16",894,Glenda Burke,196,721,Tienda4
+73196896,5,selfie stick,97332225,"2019,01,12",0,tierra de changua,POLOMBIA,59762214,caseyrodgers@example.net,4.648625,-74.1,Lisa Santiago,"2019,01,12",911,Steven Edwards,515,44,Tienda4
+20336627,4,cases,71316875,"2006,12,24",0,MEDALLO,POLOMBIA,69748321,rogersjose@example.com,6.2441988,-75.6,Samantha Mills,"2006,12,24",82,Ryan Kennedy,406,538,Tienda4
+97264565,2,charger smartphone,99579720,"1980,11,19",0,paloma city,Jaime,38933387,zmorales@example.net,-12.037964,-77.0503238,Sean Gallagher,"1980,11,19",947,Tracy Gross,917,638,Tienda4
+32127754,3,headphones,20397516,"1974,06,13",0,paloma city,Jaime,96247931,pramos@example.net,-12.037964,-77.0503238,Tyler Jensen,"1974,06,13",168,Joseph Barton,222,795,Tienda4
+4916512,2,charger smartphone,87402232,"2008,04,07",0,paloma city,Jaime,77792665,williamswilliam@example.com,-12.037964,-77.0503238,Scott Chen,"2008,04,07",163,Crystal Harris,592,561,Tienda4
+32164565,1,PC,65558728,"2002,09,13",0,paloma city,Jaime,54741772,carla67@example.com,-12.037964,-77.0503238,Jeffery Cook,"2002,09,13",825,Keith Munoz,31,366,Tienda4
+74555270,2,charger smartphone,75969363,"1988,07,10",0,tierra de changua,POLOMBIA,75211926,karen09@example.com,4.648625,-74.1,Zachary Stokes,"1988,07,10",951,Austin Hernandez,886,18,Tienda4
+30145140,5,selfie stick,47415748,"2002,08,04",0,erda,POLOMBIA,50746666,veronicaalvarez@example.com,10.4002813,-75.5,Ronald Castillo,"2002,08,04",777,Ashley Pace,57,377,Tienda4
+59177833,5,selfie stick,83811554,"1973,07,06",0,MEDALLO,POLOMBIA,26500854,ghancock@example.com,6.2441988,-75.6,Jesse Ward,"1973,07,06",367,Hunter Roberts,421,493,Tienda4
+20230621,4,cases,67753390,"2017,01,09",0,paloma city,Jaime,1943009,henrywalker@example.net,-12.037964,-77.0503238,Amy Carrillo,"2017,01,09",655,Barry Thompson,302,685,Tienda4
+68246401,2,charger smartphone,82117305,"1987,10,12",0,tierra de changua,POLOMBIA,45276487,ejohnson@example.org,4.648625,-74.1,Thomas Long Jr.,"1987,10,12",87,Hunter Moore,520,751,Tienda4
+54190077,4,cases,23860421,"2004,09,15",0,tierra de changua,POLOMBIA,55723628,garymeyer@example.org,4.648625,-74.1,John Jones,"2004,09,15",74,Melanie Andersen,673,49,Tienda4
+76100319,2,charger smartphone,19910549,"2020,06,23",0,erda,POLOMBIA,35679587,nsnow@example.net,10.4002813,-75.5,Daniel Norris,"2020,06,23",988,Michael Lane,696,528,Tienda4
+76432207,3,headphones,96531570,"2006,11,06",0,tierra de changua,POLOMBIA,98157714,christopher36@example.org,4.648625,-74.1,Matthew Anderson,"2006,11,06",122,Sonia Gill,463,101,Tienda4
+40770565,1,PC,62472479,"1982,01,11",0,MEDALLO,POLOMBIA,94853905,wdeleon@example.com,6.2441988,-75.6,Danielle Howell,"1982,01,11",61,James Ellis,621,935,Tienda4
+81892335,2,charger smartphone,54254603,"1975,03,23",0,tierra de changua,POLOMBIA,15440860,jacob15@example.net,4.648625,-74.1,Jonathan Williams,"1975,03,23",290,Kristen Jackson,864,68,Tienda4
+9032436,3,headphones,27409917,"1988,02,14",0,erda,POLOMBIA,71515890,imccall@example.net,10.4002813,-75.5,Mr. Corey Mitchell,"1988,02,14",584,Collin Gray,286,979,Tienda4
+70918549,1,PC,77777458,"1976,08,06",0,paloma city,Jaime,59999893,laneapril@example.org,-12.037964,-77.0503238,Joseph Parsons,"1976,08,06",678,Jennifer Lewis,526,402,Tienda4
+27715358,2,charger smartphone,76188293,"2014,10,09",3,tierra de changua,POLOMBIA,8277401,fhill@example.com,4.648625,-74.1,Michael Hampton,"2014,10,09",808,George Meadows,510,615,Tienda4
+64125851,1,PC,51669714,"2013,04,29",0,paloma city,Jaime,48462898,tracywolfe@example.net,-12.037964,-77.0503238,Michael King,"2013,04,29",377,Ronald Pitts,822,263,Tienda4
+68586329,3,headphones,72454105,"1970,08,11",0,erda,POLOMBIA,7095266,ruizjoanna@example.com,10.4002813,-75.5,Ricardo Richardson,"1970,08,11",596,Todd Brown,641,494,Tienda4
+47821076,2,charger smartphone,53804970,"1971,11,09",0,tierra de changua,POLOMBIA,42176052,dlarsen@example.org,4.648625,-74.1,Darrell Logan DDS,"1971,11,09",267,Brian Henson,496,950,Tienda4
+64890026,1,PC,30085339,"1971,06,11",0,MEDALLO,POLOMBIA,82508719,halldaniel@example.com,6.2441988,-75.6,Kimberly Jensen,"1971,06,11",739,Monica Mullins,515,579,Tienda4
+81808409,2,charger smartphone,98929669,"1980,09,28",0,erda,POLOMBIA,57095573,laurenbrown@example.org,10.4002813,-75.5,Willie Charles,"1980,09,28",172,Sarah Ortiz,639,218,Tienda4
+40357233,5,selfie stick,23685329,"2016,09,02",0,tierra de changua,POLOMBIA,77985162,gdelgado@example.net,4.648625,-74.1,Amy Buchanan,"2016,09,02",872,Kathleen Wise,33,438,Tienda4
+59011928,3,headphones,81317627,"1989,10,22",0,MEDALLO,POLOMBIA,78849899,vanderson@example.com,6.2441988,-75.6,Robert Liu,"1989,10,22",278,Mark Dorsey,822,783,Tienda4
+20627779,3,headphones,30329970,"2002,09,04",0,MEDALLO,POLOMBIA,93010550,kelleystacy@example.net,6.2441988,-75.6,Jamie Clark,"2002,09,04",787,Ms. Ashley Walker PhD,896,268,Tienda4
+47000596,1,PC,11614618,"2010,07,19",0,tierra de changua,POLOMBIA,44098985,cooperlori@example.net,4.648625,-74.1,Scott Smith,"2010,07,19",930,Jennifer Luna,160,313,Tienda4
+28756424,1,PC,97095844,"2006,07,27",0,paloma city,Jaime,8355553,dmartinez@example.com,-12.037964,-77.0503238,Roy Rogers,"2006,07,27",114,Tammy Benson,246,738,Tienda4
+76860843,4,cases,55781285,"1998,01,02",0,erda,POLOMBIA,70633924,ustark@example.net,10.4002813,-75.5,Dr. Francisco Lee,"1998,01,02",455,Christopher Johnson,668,207,Tienda4
+11728435,5,selfie stick,48512637,"1983,09,29",0,MEDALLO,POLOMBIA,35469121,arice@example.com,6.2441988,-75.6,Michael Smith,"1983,09,29",105,Jesus Lopez,359,907,Tienda4
+45895268,5,selfie stick,39544461,"1982,10,30",0,MEDALLO,POLOMBIA,79183711,edward36@example.net,6.2441988,-75.6,Lisa James,"1982,10,30",578,Kevin Lowe,916,321,Tienda4
+12201187,4,cases,77441615,"2017,09,30",0,erda,POLOMBIA,72411706,urivera@example.org,10.4002813,-75.5,Joshua Mccormick,"2017,09,30",336,Jerry Anderson,688,248,Tienda4
+20187558,2,charger smartphone,20165133,"1978,01,31",0,erda,POLOMBIA,78280837,rortega@example.net,10.4002813,-75.5,Misty Miller,"1978,01,31",660,Dorothy Johnson,798,736,Tienda4
+3164883,3,headphones,74720474,"2021,09,02",0,paloma city,Jaime,25939829,callahankelly@example.net,-12.037964,-77.0503238,Lydia Reynolds,"2021,09,02",660,Phillip Navarro,868,387,Tienda4
+5464995,2,charger smartphone,16464233,"2007,09,20",0,erda,POLOMBIA,47729454,stephanietaylor@example.org,10.4002813,-75.5,Douglas Farmer,"2007,09,20",705,Christopher Mills,238,379,Tienda4
+94972634,3,headphones,99191279,"2016,05,19",0,MEDALLO,POLOMBIA,44386203,fernandezcharlotte@example.org,6.2441988,-75.6,Theresa Gonzales,"2016,05,19",163,Robert Francis,259,405,Tienda4
+83077317,1,PC,78453452,"2001,11,25",0,MEDALLO,POLOMBIA,52595257,odougherty@example.com,6.2441988,-75.6,Thomas Williams,"2001,11,25",439,Jennifer Clark,218,136,Tienda4
+86976200,5,selfie stick,4476968,"2014,06,11",0,MEDALLO,POLOMBIA,49440787,brooksalexander@example.org,6.2441988,-75.6,Kimberly Charles,"2014,06,11",141,Patrick Mejia,82,388,Tienda4
+35826983,5,selfie stick,27694911,"1993,03,19",0,erda,POLOMBIA,42822489,qrichards@example.org,10.4002813,-75.5,Lisa Smith,"1993,03,19",248,Emily Tucker,251,439,Tienda4
+92967133,5,selfie stick,66022482,"1975,03,31",2,paloma city,Jaime,73483695,jenniferpatrick@example.com,-12.037964,-77.0503238,Ann Stone,"1975,03,31",364,Sandra King,152,765,Tienda4
+54001449,3,headphones,71873751,"2006,12,01",0,paloma city,Jaime,5398037,ashleyharper@example.org,-12.037964,-77.0503238,Joshua Weaver,"2006,12,01",506,Pamela Noble,994,977,Tienda4
+32407790,3,headphones,57837543,"2007,07,21",0,paloma city,Jaime,63642506,wmassey@example.net,-12.037964,-77.0503238,Dennis Hoffman,"2007,07,21",369,Joshua Perez,396,941,Tienda4
+86735156,4,cases,60256622,"1975,10,22",0,erda,POLOMBIA,79081860,stephanie54@example.org,10.4002813,-75.5,Jacqueline Delgado,"1975,10,22",73,Thomas Brown,395,331,Tienda4
+64594239,1,PC,24060484,"2020,04,11",0,erda,POLOMBIA,89431461,floreskimberly@example.com,10.4002813,-75.5,Christina Fisher,"2020,04,11",551,Monica Anderson,989,852,Tienda4
+84671079,3,headphones,86150328,"2003,11,26",0,tierra de changua,POLOMBIA,25932545,isalinas@example.net,4.648625,-74.1,Amy Hahn,"2003,11,26",580,Mary Glover,746,669,Tienda4
+97650596,4,cases,6822897,"1976,01,17",0,paloma city,Jaime,90678592,ronaldnguyen@example.org,-12.037964,-77.0503238,Patricia Lynch,"1976,01,17",311,Michael Morris,791,194,Tienda4
+57525753,3,headphones,66963909,"1982,02,08",0,paloma city,Jaime,72400267,amckinney@example.org,-12.037964,-77.0503238,Shannon Skinner,"1982,02,08",840,Anna West,884,928,Tienda4
+59424557,3,headphones,9101078,"1991,03,12",0,MEDALLO,POLOMBIA,84170774,millercatherine@example.com,6.2441988,-75.6,Timothy Sanchez,"1991,03,12",572,Alexis Parker,714,617,Tienda4
+71876193,4,cases,48499165,"1989,07,18",0,MEDALLO,POLOMBIA,76845953,brownamber@example.net,6.2441988,-75.6,Julie Bryant,"1989,07,18",858,Tonya Lewis,472,54,Tienda4
+50983632,3,headphones,88663112,"2020,10,06",0,erda,POLOMBIA,92294993,gillandrea@example.net,10.4002813,-75.5,Carl Harris,"2020,10,06",403,Bryan Murray,190,30,Tienda4
+52081529,2,charger smartphone,73196984,"1970,09,03",0,paloma city,Jaime,2903709,russelljames@example.net,-12.037964,-77.0503238,Nicholas Jones,"1970,09,03",526,Rebecca Villa,398,348,Tienda4
+78502026,1,PC,58871038,"2004,06,21",0,tierra de changua,POLOMBIA,35694095,richardsonchristina@example.org,4.648625,-74.1,Christine Gonzalez,"2004,06,21",826,Crystal Rivera,57,959,Tienda4
+30668544,3,headphones,64585707,"2017,02,12",4,paloma city,Jaime,87642111,cabrerajames@example.net,-12.037964,-77.0503238,William Anderson,"2017,02,12",25,Jeffrey Shields,418,490,Tienda4
+82313651,2,charger smartphone,75130226,"2002,07,07",0,tierra de changua,POLOMBIA,88363942,russellphyllis@example.org,4.648625,-74.1,Jessica Gonzales,"2002,07,07",113,Cristina Garner,635,98,Tienda4
+58505777,1,PC,5821075,"1987,02,10",0,erda,POLOMBIA,11581656,jpruitt@example.com,10.4002813,-75.5,James Pennington,"1987,02,10",22,Jill Keller,677,58,Tienda4
+95875000,5,selfie stick,55869084,"1992,09,25",0,MEDALLO,POLOMBIA,37479165,hendersonglenn@example.com,6.2441988,-75.6,Jason Anderson,"1992,09,25",573,Sara Ross,345,197,Tienda4
+82603476,1,PC,25000318,"1996,12,09",5,paloma city,Jaime,93647492,hughesrebekah@example.com,-12.037964,-77.0503238,Keith Hall,"1996,12,09",613,Brittany Reynolds,922,142,Tienda4
+24395762,1,PC,78658917,"1994,05,22",0,paloma city,Jaime,37270150,lisariddle@example.org,-12.037964,-77.0503238,Dalton Horn,"1994,05,22",360,Garrett Robbins MD,49,825,Tienda4
+49603293,4,cases,32944157,"2000,04,14",0,MEDALLO,POLOMBIA,50518954,ycurtis@example.org,6.2441988,-75.6,Chad Reed,"2000,04,14",230,Gabriela Torres,368,16,Tienda4
+73272411,5,selfie stick,94262374,"1986,08,03",0,erda,POLOMBIA,23460581,sandra28@example.org,10.4002813,-75.5,Maurice Wong,"1986,08,03",448,Robert Sanchez,155,191,Tienda4
+4296936,5,selfie stick,32594672,"1976,10,29",0,paloma city,Jaime,32460674,hollybrown@example.org,-12.037964,-77.0503238,Thomas Chavez,"1976,10,29",561,Terry Gould,815,934,Tienda4
+56448803,1,PC,75498572,"2003,07,16",5,paloma city,Jaime,43677363,parkertheresa@example.org,-12.037964,-77.0503238,Erin Pierce,"2003,07,16",70,Natasha Hill,289,53,Tienda4
+74714261,1,PC,28754704,"1984,06,19",0,tierra de changua,POLOMBIA,60619558,currykenneth@example.org,4.648625,-74.1,Megan Davis DDS,"1984,06,19",195,Beverly Livingston,841,141,Tienda4
+42721043,5,selfie stick,60129565,"1975,09,08",0,erda,POLOMBIA,48084176,fhancock@example.net,10.4002813,-75.5,Tasha Martin,"1975,09,08",963,Carolyn Fields,225,421,Tienda4
+20635799,3,headphones,53830496,"2000,09,28",0,MEDALLO,POLOMBIA,96422803,oochoa@example.com,6.2441988,-75.6,Sabrina Moore,"2000,09,28",441,Amber Meza,316,863,Tienda4
+91356854,1,PC,90407888,"2010,09,06",0,MEDALLO,POLOMBIA,29137481,matthew76@example.com,6.2441988,-75.6,Matthew Allen,"2010,09,06",46,Cindy Flowers,518,108,Tienda4
+29742711,3,headphones,17868789,"1976,06,16",0,MEDALLO,POLOMBIA,14647995,gcolon@example.com,6.2441988,-75.6,Rachel Reyes,"1976,06,16",780,Alisha Forbes,845,490,Tienda4
+97344538,5,selfie stick,5175238,"2009,02,02",0,tierra de changua,POLOMBIA,61402272,devin24@example.org,4.648625,-74.1,Valerie Rice,"2009,02,02",292,Jeremy Jones,271,828,Tienda4
+6164173,3,headphones,38376823,"2002,08,23",0,tierra de changua,POLOMBIA,5448569,ingramryan@example.com,4.648625,-74.1,Michael Watkins,"2002,08,23",574,Paula Burns,524,443,Tienda4
+94639503,3,headphones,380314,"1993,05,10",0,tierra de changua,POLOMBIA,47933364,johnmosley@example.com,4.648625,-74.1,Kara Powell,"1993,05,10",205,Benjamin Carter,558,64,Tienda4
+36233526,3,headphones,91384602,"2016,11,21",0,erda,POLOMBIA,1272249,chandleramanda@example.com,10.4002813,-75.5,Barbara Kemp,"2016,11,21",293,Christopher Wright,655,381,Tienda4
+30761492,2,charger smartphone,49651360,"1991,08,23",0,tierra de changua,POLOMBIA,95910878,toddsanchez@example.com,4.648625,-74.1,Marcus Bowman,"1991,08,23",965,Amy Berry,479,416,Tienda4
+92257824,3,headphones,50204120,"1980,04,18",0,tierra de changua,POLOMBIA,1896080,williamsmichael@example.org,4.648625,-74.1,Shelby Robinson,"1980,04,18",789,Lindsay May,341,264,Tienda4
+75286811,3,headphones,50029791,"1989,01,29",0,paloma city,Jaime,49863105,lejennifer@example.net,-12.037964,-77.0503238,Justin Rivas,"1989,01,29",464,Natasha Brown,912,654,Tienda4
+92580975,5,selfie stick,76272438,"2017,11,19",0,paloma city,Jaime,65289257,rebeccatorres@example.com,-12.037964,-77.0503238,Timothy Zuniga,"2017,11,19",57,Jesus Hawkins,672,855,Tienda4
+41020448,4,cases,22982153,"1986,01,07",0,erda,POLOMBIA,5602623,robertburgess@example.org,10.4002813,-75.5,Holly Waller,"1986,01,07",552,Matthew Gamble,717,37,Tienda4
+29675182,1,PC,62554242,"1997,02,23",0,paloma city,Jaime,98969314,jimmylopez@example.net,-12.037964,-77.0503238,Scott Rodriguez,"1997,02,23",558,Heather Carr,906,429,Tienda4
+10769177,2,charger smartphone,94505159,"1980,03,23",1,paloma city,Jaime,26478892,mariahcarlson@example.com,-12.037964,-77.0503238,Joseph Lambert,"1980,03,23",576,Brenda Rowe,189,934,Tienda4
+39023919,2,charger smartphone,83148842,"2007,11,18",4,erda,POLOMBIA,50138711,olsonmisty@example.com,10.4002813,-75.5,Maria Bradley,"2007,11,18",482,Jeremy Ellison,87,204,Tienda4
+41928455,3,headphones,21812501,"1986,12,24",0,MEDALLO,POLOMBIA,64206359,shelley29@example.com,6.2441988,-75.6,Jaclyn Cunningham,"1986,12,24",243,Patricia Dudley,21,95,Tienda4
+7480677,4,cases,17694199,"1994,11,27",0,paloma city,Jaime,46550605,xoneal@example.org,-12.037964,-77.0503238,Miss Kaylee Miller DDS,"1994,11,27",374,Pamela Conley,16,658,Tienda4
+42355001,5,selfie stick,70073431,"2000,07,15",0,MEDALLO,POLOMBIA,753812,cdavid@example.com,6.2441988,-75.6,Mary George,"2000,07,15",703,Steven Hardy,123,744,Tienda4
+15331121,3,headphones,51646815,"2011,09,12",0,MEDALLO,POLOMBIA,36753971,michael33@example.org,6.2441988,-75.6,Kristy Richmond,"2011,09,12",682,Sheila Parker,566,433,Tienda4
+44333795,1,PC,62234358,"1982,08,16",0,erda,POLOMBIA,39000525,wdaniel@example.org,10.4002813,-75.5,Rebecca Ortiz,"1982,08,16",229,Jasmine Steele,194,639,Tienda4
+48007990,1,PC,88366151,"2004,01,14",0,MEDALLO,POLOMBIA,50461452,bethanyrowe@example.net,6.2441988,-75.6,Shannon Johnson,"2004,01,14",364,Lisa Morgan,783,539,Tienda4
+4782355,1,PC,4948360,"2011,03,05",0,erda,POLOMBIA,80585088,charlesrobinson@example.com,10.4002813,-75.5,Ricky Miller MD,"2011,03,05",380,Jim Frederick,982,535,Tienda4
+96214874,4,cases,99224441,"2007,10,28",0,tierra de changua,POLOMBIA,49108292,ipark@example.org,4.648625,-74.1,Jesse Wilcox,"2007,10,28",604,William Anderson,649,213,Tienda4
+31897111,5,selfie stick,57760117,"1981,05,16",0,tierra de changua,POLOMBIA,47646005,ebyrd@example.net,4.648625,-74.1,Ebony Mcdonald,"1981,05,16",481,Michelle Williams,267,552,Tienda4
+86327987,2,charger smartphone,24352087,"1981,04,29",0,erda,POLOMBIA,82351478,greeneanthony@example.com,10.4002813,-75.5,Leah Nash,"1981,04,29",660,Nathan Johnson,101,258,Tienda4
+70503964,4,cases,18332548,"1971,04,30",0,MEDALLO,POLOMBIA,14788873,jennifer80@example.com,6.2441988,-75.6,Wendy Castro,"1971,04,30",635,Timothy Smith,251,884,Tienda4
+88568384,5,selfie stick,42338510,"1990,03,15",0,paloma city,Jaime,48887818,nhanson@example.org,-12.037964,-77.0503238,Ms. Molly Moreno,"1990,03,15",810,Rebecca Williams,830,952,Tienda4
+4739514,2,charger smartphone,71437292,"2009,04,21",0,tierra de changua,POLOMBIA,75581395,johncordova@example.com,4.648625,-74.1,Rachel Wilson,"2009,04,21",448,Amy James,834,425,Tienda4
+22559855,4,cases,90744461,"1978,09,15",0,erda,POLOMBIA,91654485,ruizkyle@example.net,10.4002813,-75.5,Crystal Schneider,"1978,09,15",58,Brittney Miller,362,507,Tienda4
+87647685,2,charger smartphone,82591509,"1980,04,21",0,MEDALLO,POLOMBIA,39283317,wrightbrenda@example.com,6.2441988,-75.6,Dawn Jenkins,"1980,04,21",542,Adam Smith,902,172,Tienda4
+32490650,3,headphones,27083890,"1996,03,30",0,tierra de changua,POLOMBIA,76618644,efloyd@example.org,4.648625,-74.1,Beth Lee,"1996,03,30",666,Jennifer Saunders,580,850,Tienda4
+69196706,2,charger smartphone,39875318,"1999,10,04",0,paloma city,Jaime,40766989,christinabarrett@example.org,-12.037964,-77.0503238,Peter Miller,"1999,10,04",296,Chelsea Martinez,149,791,Tienda4
+20286951,3,headphones,19459682,"1996,07,29",0,paloma city,Jaime,32560105,deanna45@example.net,-12.037964,-77.0503238,Anthony Wilson,"1996,07,29",117,Brian Lyons,297,763,Tienda4
+18008304,2,charger smartphone,94040992,"1970,10,26",0,paloma city,Jaime,12266264,justinbenton@example.com,-12.037964,-77.0503238,Alicia Soto,"1970,10,26",628,Carla Miranda,372,504,Tienda4
+3829710,2,charger smartphone,43644768,"1986,02,10",3,erda,POLOMBIA,79653141,josephperez@example.com,10.4002813,-75.5,Sally Castaneda,"1986,02,10",555,Julie Carr,380,850,Tienda4
+48782743,3,headphones,74860935,"2008,11,05",0,paloma city,Jaime,78946206,emily49@example.net,-12.037964,-77.0503238,Andrea Leonard,"2008,11,05",524,Jorge Le,953,45,Tienda4
+81565793,2,charger smartphone,30148196,"2015,07,02",0,MEDALLO,POLOMBIA,18227064,parkwilliam@example.org,6.2441988,-75.6,Stephanie Tapia,"2015,07,02",714,Darryl Cruz,570,790,Tienda4
+91136429,2,charger smartphone,95592854,"2017,01,04",0,MEDALLO,POLOMBIA,29184619,joy54@example.com,6.2441988,-75.6,Jose Stokes,"2017,01,04",484,Christian Watson,14,454,Tienda4
+44006039,3,headphones,60790427,"1988,03,12",0,erda,POLOMBIA,87822669,stacie16@example.net,10.4002813,-75.5,Sharon Garcia,"1988,03,12",570,Michelle Chaney,719,390,Tienda4
+28996545,2,charger smartphone,28451012,"2009,09,13",0,MEDALLO,POLOMBIA,58832632,danielhernandez@example.net,6.2441988,-75.6,Jennifer Mccarthy,"2009,09,13",691,Robert Hatfield,664,941,Tienda4
+384206,4,cases,20661493,"2010,08,19",1,MEDALLO,POLOMBIA,78855600,joelpowell@example.net,6.2441988,-75.6,Kimberly Harrell,"2010,08,19",736,Randall Guerrero,334,114,Tienda4
+80999968,5,selfie stick,106942,"1978,07,21",0,paloma city,Jaime,49541487,steven74@example.org,-12.037964,-77.0503238,Thomas Ibarra,"1978,07,21",475,Melissa Marquez,660,878,Tienda4
+69630391,2,charger smartphone,48385209,"1980,02,01",0,paloma city,Jaime,28433009,michael06@example.org,-12.037964,-77.0503238,John Smith,"1980,02,01",967,Gordon Jones,616,947,Tienda4
+65600671,5,selfie stick,84273247,"1996,06,14",0,MEDALLO,POLOMBIA,4412765,shawn99@example.net,6.2441988,-75.6,Ashley Page,"1996,06,14",153,Kim Hanson,38,927,Tienda4
+32014337,3,headphones,64774061,"1993,06,13",0,paloma city,Jaime,55493985,lauraharris@example.org,-12.037964,-77.0503238,Amber Garcia,"1993,06,13",176,Heather Anderson,176,373,Tienda4
+39920287,3,headphones,36651986,"1971,10,02",0,MEDALLO,POLOMBIA,92538913,phull@example.net,6.2441988,-75.6,Nicholas Reed,"1971,10,02",828,Jason Small,521,905,Tienda4
+11191821,1,PC,32413927,"2014,02,23",0,erda,POLOMBIA,22996637,parroyo@example.net,10.4002813,-75.5,Gary Holmes,"2014,02,23",783,Jennifer Gutierrez,220,927,Tienda4
+87992426,4,cases,25699021,"1974,05,07",0,tierra de changua,POLOMBIA,30895219,vramirez@example.com,4.648625,-74.1,Andrea Jordan,"1974,05,07",984,Kevin Soto,992,603,Tienda4
+99860285,3,headphones,57342668,"2010,04,19",0,tierra de changua,POLOMBIA,43301627,cordovamelissa@example.com,4.648625,-74.1,James Zavala,"2010,04,19",514,Steven Gallagher,447,329,Tienda4
+88068817,2,charger smartphone,97913365,"2004,12,05",0,MEDALLO,POLOMBIA,38443146,esteele@example.net,6.2441988,-75.6,Fernando Wilson,"2004,12,05",825,Jared Fisher,675,452,Tienda4
+77561106,1,PC,94196633,"1974,03,21",0,tierra de changua,POLOMBIA,53741306,scottjennifer@example.org,4.648625,-74.1,David Jackson,"1974,03,21",305,Jennifer Barrera,988,444,Tienda4
+91109447,2,charger smartphone,22940122,"1988,07,22",0,erda,POLOMBIA,71678951,kmitchell@example.com,10.4002813,-75.5,Ricky Lawson,"1988,07,22",548,Stephanie Jimenez,146,483,Tienda4
+74430207,4,cases,59212501,"1975,02,09",0,tierra de changua,POLOMBIA,81728149,jwhite@example.org,4.648625,-74.1,Jonathan Avery,"1975,02,09",106,Diana Stewart,854,292,Tienda4
+92480567,4,cases,29084765,"1971,01,30",0,erda,POLOMBIA,30925988,yaustin@example.com,10.4002813,-75.5,Tina Hall,"1971,01,30",423,Bryan Snyder,664,71,Tienda4
+40615125,3,headphones,30946617,"1983,04,08",0,MEDALLO,POLOMBIA,40591160,tannerpeterson@example.net,6.2441988,-75.6,Anthony Whitehead,"1983,04,08",746,Travis Thompson,992,822,Tienda4
+81565939,2,charger smartphone,44799303,"1998,02,16",0,MEDALLO,POLOMBIA,97489706,melissahodges@example.com,6.2441988,-75.6,Bruce Smith,"1998,02,16",566,Linda Wilkerson,403,465,Tienda4
+17769900,1,PC,83960009,"2000,10,10",0,erda,POLOMBIA,45070440,heather48@example.com,10.4002813,-75.5,Shirley Trujillo,"2000,10,10",998,Christopher Martin,40,260,Tienda4
+25778675,2,charger smartphone,63345929,"1989,08,03",0,paloma city,Jaime,87407173,floresmaria@example.org,-12.037964,-77.0503238,Justin Chung,"1989,08,03",824,Robert Rodriguez,712,297,Tienda4
+37663225,4,cases,47432407,"1973,03,22",0,erda,POLOMBIA,79505509,rogerskaren@example.net,10.4002813,-75.5,Jonathan Gonzales,"1973,03,22",907,Benjamin Jones,31,667,Tienda4
+67661881,1,PC,87013798,"2002,07,08",0,erda,POLOMBIA,37487979,henry34@example.org,10.4002813,-75.5,Garrett Lopez,"2002,07,08",779,Michael Park,413,806,Tienda4
+92783157,1,PC,19485843,"2018,08,25",0,MEDALLO,POLOMBIA,58750516,christopher90@example.org,6.2441988,-75.6,Rachel Torres,"2018,08,25",585,Grace Terry,820,369,Tienda4
+89215669,2,charger smartphone,7015613,"2012,06,12",0,tierra de changua,POLOMBIA,3536146,jenniferhaas@example.net,4.648625,-74.1,Benjamin Moore,"2012,06,12",422,Tammy Blankenship,950,924,Tienda4
+44558738,2,charger smartphone,47715747,"1984,07,09",0,erda,POLOMBIA,61280585,veronicabennett@example.net,10.4002813,-75.5,Gabrielle Hudson,"1984,07,09",577,Trevor Holt,696,182,Tienda4
+91686679,3,headphones,32158687,"1978,06,14",0,tierra de changua,POLOMBIA,27884766,steven96@example.com,4.648625,-74.1,Matthew Castaneda,"1978,06,14",619,David Martinez,714,43,Tienda4
+93966568,5,selfie stick,28203603,"1978,01,11",0,MEDALLO,POLOMBIA,10877215,stevenferguson@example.net,6.2441988,-75.6,Karen Williams,"1978,01,11",655,Michael Peters,800,316,Tienda4
+49265668,3,headphones,22596470,"2018,10,07",2,erda,POLOMBIA,30886546,ryanharris@example.org,10.4002813,-75.5,Kimberly Harper,"2018,10,07",876,Misty Lang,391,817,Tienda4
+96519789,3,headphones,19088468,"2008,01,28",0,erda,POLOMBIA,25525281,traci65@example.net,10.4002813,-75.5,Dana Campos,"2008,01,28",491,Jennifer Green,363,15,Tienda4
+18872911,4,cases,23567490,"2013,01,14",0,MEDALLO,POLOMBIA,11443737,wagnerkevin@example.net,6.2441988,-75.6,Kristi Watkins,"2013,01,14",580,Sara Smith,856,746,Tienda4
+30377281,5,selfie stick,17601910,"1977,01,14",0,tierra de changua,POLOMBIA,17854736,dcook@example.com,4.648625,-74.1,Lauren Smith,"1977,01,14",438,Lisa Lucas,290,611,Tienda4
+53914444,4,cases,11296569,"1983,05,05",0,tierra de changua,POLOMBIA,8957737,swelch@example.org,4.648625,-74.1,Erica Barrett,"1983,05,05",71,Peggy Hanson,276,538,Tienda4
+68694187,5,selfie stick,59549751,"1979,06,08",0,tierra de changua,POLOMBIA,97401900,sgreen@example.com,4.648625,-74.1,Omar Marquez,"1979,06,08",750,Nicole Garcia,552,370,Tienda4
+7662527,4,cases,94921916,"1988,01,30",0,MEDALLO,POLOMBIA,87068098,deborahfloyd@example.org,6.2441988,-75.6,Todd Moody,"1988,01,30",824,Tammy Gordon,310,148,Tienda4
+15182316,3,headphones,70227652,"1985,11,14",0,tierra de changua,POLOMBIA,29230205,opatrick@example.org,4.648625,-74.1,Michelle Burgess,"1985,11,14",51,James Ayala,956,134,Tienda4
+7649392,4,cases,333301,"1999,08,19",4,tierra de changua,POLOMBIA,81404209,lunagerald@example.com,4.648625,-74.1,Eric Nash,"1999,08,19",590,Brett Smith,812,1000,Tienda4
+81853873,2,charger smartphone,85695471,"1970,12,10",0,erda,POLOMBIA,8257354,blanchardjose@example.net,10.4002813,-75.5,Kaitlyn Fox,"1970,12,10",569,Ashley Burgess,146,874,Tienda4
+90335540,2,charger smartphone,47019375,"1989,12,26",0,MEDALLO,POLOMBIA,83793999,peter02@example.net,6.2441988,-75.6,Amy Bowers,"1989,12,26",795,Brittney Jones,83,720,Tienda4
+48307687,1,PC,8401792,"1998,04,24",0,tierra de changua,POLOMBIA,18644189,vasquezkatelyn@example.net,4.648625,-74.1,Donald Taylor,"1998,04,24",209,Theodore Freeman,275,290,Tienda4
+3038028,4,cases,43215965,"1998,01,24",0,MEDALLO,POLOMBIA,40926037,bryantmichelle@example.org,6.2441988,-75.6,Tyler Smith,"1998,01,24",736,Joseph Henderson,511,684,Tienda4
+63679520,4,cases,51589188,"1991,11,23",0,erda,POLOMBIA,92176433,robin08@example.com,10.4002813,-75.5,Lisa Bailey,"1991,11,23",18,Brian Gonzalez,557,959,Tienda4
+3860719,3,headphones,24457227,"2015,12,22",0,paloma city,Jaime,77304794,carol11@example.com,-12.037964,-77.0503238,Lori Graham,"2015,12,22",141,Bob Bray,982,675,Tienda4
+49500686,3,headphones,4033587,"2016,02,25",0,MEDALLO,POLOMBIA,42914936,angela65@example.org,6.2441988,-75.6,Robert James,"2016,02,25",161,Erika Browning,408,558,Tienda4
+24689204,4,cases,38489713,"2013,08,14",0,paloma city,Jaime,37025027,edwin77@example.com,-12.037964,-77.0503238,Robin Hurst,"2013,08,14",818,Cindy Stephens,852,985,Tienda4
+20271416,2,charger smartphone,22758106,"2008,06,12",0,tierra de changua,POLOMBIA,43044276,wallacemark@example.org,4.648625,-74.1,Jennifer Smith,"2008,06,12",580,Eric Rice,854,27,Tienda4
+57821404,1,PC,95926105,"1996,11,21",0,MEDALLO,POLOMBIA,26877418,mary83@example.com,6.2441988,-75.6,Cheryl Becker,"1996,11,21",180,Timothy Townsend,377,970,Tienda4
+53422092,3,headphones,59517606,"2011,07,19",0,paloma city,Jaime,97829702,ksmith@example.org,-12.037964,-77.0503238,David Powell,"2011,07,19",433,Eric Meyer,608,857,Tienda4
+65977352,5,selfie stick,88444378,"2017,03,26",0,paloma city,Jaime,99384115,garyjuarez@example.com,-12.037964,-77.0503238,Bradley Richards,"2017,03,26",430,Jasmine Joseph,417,138,Tienda4
+28189655,2,charger smartphone,3963873,"2007,02,06",0,MEDALLO,POLOMBIA,46840848,jason43@example.com,6.2441988,-75.6,Michael Wright,"2007,02,06",538,Jessica Kirby,235,813,Tienda4
+45692470,2,charger smartphone,19992426,"2000,12,16",0,paloma city,Jaime,3923522,hansenfrederick@example.org,-12.037964,-77.0503238,Allison Lowery,"2000,12,16",270,Laura Allen,992,347,Tienda4
+42922815,3,headphones,41564484,"2012,08,15",0,MEDALLO,POLOMBIA,98703245,curtisdavid@example.org,6.2441988,-75.6,Kendra Johnson,"2012,08,15",99,Diana May,471,643,Tienda4
+56324788,5,selfie stick,89043424,"1983,04,08",0,MEDALLO,POLOMBIA,44609377,william25@example.net,6.2441988,-75.6,Amanda Jones,"1983,04,08",893,Kelly Miller,330,938,Tienda4
+20142665,3,headphones,64354281,"2004,11,16",0,paloma city,Jaime,1591035,johncampbell@example.com,-12.037964,-77.0503238,Michael Harris,"2004,11,16",289,Charles Mcdonald,45,652,Tienda4
+1436391,3,headphones,20537319,"1972,01,17",1,MEDALLO,POLOMBIA,99976602,lisa43@example.net,6.2441988,-75.6,Brian Campbell,"1972,01,17",40,Julia Thompson,450,361,Tienda4
+94967372,1,PC,30109227,"1975,06,15",0,tierra de changua,POLOMBIA,32530527,thomasjane@example.org,4.648625,-74.1,Larry Jimenez,"1975,06,15",683,Keith Moore,103,667,Tienda4
+44759380,5,selfie stick,54479295,"2002,08,07",0,tierra de changua,POLOMBIA,88758926,james21@example.com,4.648625,-74.1,Adam Reed,"2002,08,07",132,Amy Wiley,860,747,Tienda4
+50233228,4,cases,53922197,"1984,10,23",0,tierra de changua,POLOMBIA,37013793,zwatkins@example.com,4.648625,-74.1,Jessica Ross,"1984,10,23",420,Michael Summers,7,382,Tienda4
+14582294,3,headphones,68021123,"2003,02,02",0,paloma city,Jaime,67526781,gordonmiranda@example.com,-12.037964,-77.0503238,James Shelton,"2003,02,02",688,Gloria Gilbert,476,564,Tienda4
+27826354,4,cases,94660079,"2005,12,05",0,tierra de changua,POLOMBIA,98282944,richaaron@example.com,4.648625,-74.1,Mr. Joseph Perez,"2005,12,05",651,Jenna Gordon,258,559,Tienda4
+32676700,2,charger smartphone,89298412,"1972,02,08",0,paloma city,Jaime,58835572,aaroncollins@example.com,-12.037964,-77.0503238,Krystal Walker,"1972,02,08",349,Corey Macdonald,29,765,Tienda4
+50225764,3,headphones,70294046,"2009,02,11",4,tierra de changua,POLOMBIA,22768991,kelleyaaron@example.net,4.648625,-74.1,Barbara Smith,"2009,02,11",461,Monique Stone,597,738,Tienda4
+19798733,5,selfie stick,25909411,"1992,02,06",0,paloma city,Jaime,73247013,brittany11@example.org,-12.037964,-77.0503238,Jennifer Schneider,"1992,02,06",391,Tyler Casey,799,422,Tienda4
+5381501,3,headphones,19279822,"1973,11,24",0,erda,POLOMBIA,45681884,sherryrivera@example.com,10.4002813,-75.5,Raymond Banks,"1973,11,24",221,Kim Harris,886,831,Tienda4
+60513517,2,charger smartphone,28146631,"1976,12,08",0,erda,POLOMBIA,27368685,josesmith@example.net,10.4002813,-75.5,Chase Tran,"1976,12,08",283,Amber Rodriguez,188,924,Tienda4
+54763580,3,headphones,64658789,"2009,02,02",0,MEDALLO,POLOMBIA,68859680,palmerjaclyn@example.com,6.2441988,-75.6,Lauren Roberts,"2009,02,02",377,Michelle Roth,41,877,Tienda4
+20212760,1,PC,32513612,"1989,10,06",0,MEDALLO,POLOMBIA,9039827,zvasquez@example.net,6.2441988,-75.6,Cody Browning,"1989,10,06",517,Michael Mueller,720,773,Tienda4
+89583943,5,selfie stick,58076386,"1994,04,11",0,MEDALLO,POLOMBIA,69726095,wmckinney@example.com,6.2441988,-75.6,Sara White,"1994,04,11",838,Mary Payne,273,969,Tienda4
+65691445,4,cases,95833159,"1982,06,01",0,tierra de changua,POLOMBIA,68732330,jill40@example.org,4.648625,-74.1,Marvin Hernandez,"1982,06,01",533,Jennifer Cole,368,421,Tienda4
+39782837,1,PC,67300028,"2008,11,03",0,erda,POLOMBIA,86987766,williamsonchad@example.org,10.4002813,-75.5,Margaret Hardin,"2008,11,03",810,Pamela Hill,124,505,Tienda4
+80581190,2,charger smartphone,91896509,"2012,01,21",0,MEDALLO,POLOMBIA,91056127,christophershepard@example.net,6.2441988,-75.6,Justin Ortiz,"2012,01,21",293,Jennifer Miller,87,891,Tienda4
+9093545,5,selfie stick,17458996,"1977,11,12",0,MEDALLO,POLOMBIA,6715774,nicolewade@example.org,6.2441988,-75.6,Elizabeth Carter,"1977,11,12",231,Melinda Jenkins,671,191,Tienda4
+69351514,2,charger smartphone,14436153,"2021,04,25",0,MEDALLO,POLOMBIA,61971891,ismith@example.net,6.2441988,-75.6,Kyle Gray,"2021,04,25",12,Heather Bush,760,933,Tienda4
+60131885,4,cases,11095726,"1972,01,05",0,paloma city,Jaime,69415732,vriley@example.org,-12.037964,-77.0503238,Samuel Wyatt,"1972,01,05",691,Nicholas Boyd,78,360,Tienda4
+85706708,1,PC,42205049,"1996,02,07",0,MEDALLO,POLOMBIA,15749990,scottquinn@example.com,6.2441988,-75.6,Mitchell West,"1996,02,07",888,Bryan Johnson,945,926,Tienda4
+54780144,5,selfie stick,74113908,"2001,08,24",0,erda,POLOMBIA,91294211,uwilliams@example.com,10.4002813,-75.5,Brooke Davis,"2001,08,24",150,Jeff Hernandez,896,814,Tienda4
+67879421,4,cases,61487734,"1970,08,30",0,erda,POLOMBIA,49079147,jimmyjames@example.net,10.4002813,-75.5,Barbara Johnston,"1970,08,30",562,Lauren Ruiz,409,169,Tienda4
+4205138,3,headphones,17741760,"2007,06,15",0,erda,POLOMBIA,24873361,matthew34@example.org,10.4002813,-75.5,Michael Robinson,"2007,06,15",905,Donald Price,474,27,Tienda4
+20948982,2,charger smartphone,85967626,"1984,05,21",0,MEDALLO,POLOMBIA,17973971,dwatson@example.net,6.2441988,-75.6,Alexander Wilson,"1984,05,21",472,Robert Carpenter,601,971,Tienda4
+90476960,3,headphones,35991857,"1991,04,22",0,MEDALLO,POLOMBIA,78665770,amy74@example.org,6.2441988,-75.6,Jill Taylor,"1991,04,22",354,Terry Cruz,587,534,Tienda4
+34935199,2,charger smartphone,14514801,"1975,05,28",0,paloma city,Jaime,62944157,troymaxwell@example.net,-12.037964,-77.0503238,Francisco White,"1975,05,28",531,Cody Dunn,65,342,Tienda4
+30933686,2,charger smartphone,12018942,"2020,03,25",5,MEDALLO,POLOMBIA,80042230,timothybender@example.com,6.2441988,-75.6,Sarah Ruiz,"2020,03,25",709,Jeanette Patton,206,466,Tienda4
+33869647,4,cases,75554597,"1982,03,07",0,erda,POLOMBIA,21741011,tjohnson@example.net,10.4002813,-75.5,Chad Martinez,"1982,03,07",489,Jennifer Morris,349,993,Tienda4
+85869141,1,PC,3185441,"2006,04,29",0,erda,POLOMBIA,30682576,andrea39@example.com,10.4002813,-75.5,Candice Garcia,"2006,04,29",328,Felicia Martinez,725,409,Tienda4
+33924939,2,charger smartphone,51183479,"2014,04,21",0,erda,POLOMBIA,54709972,krista85@example.net,10.4002813,-75.5,Elizabeth Rios,"2014,04,21",570,Kimberly Cox,611,321,Tienda4
+53931119,4,cases,78840318,"1999,08,13",0,erda,POLOMBIA,83486394,donnacoleman@example.com,10.4002813,-75.5,Robert Turner,"1999,08,13",654,Gwendolyn Williams,288,273,Tienda4
+99572079,4,cases,38697439,"1982,06,24",0,tierra de changua,POLOMBIA,84882925,whitegary@example.net,4.648625,-74.1,Patrick Lee,"1982,06,24",481,Brandon Harris,198,117,Tienda4
+31191450,5,selfie stick,44718177,"2019,07,15",0,paloma city,Jaime,63511016,evansrebecca@example.net,-12.037964,-77.0503238,Charles Flynn,"2019,07,15",782,Dr. Mark Ramirez,947,745,Tienda4
+47149372,1,PC,87345776,"1997,09,24",0,MEDALLO,POLOMBIA,23787678,livingstonnancy@example.org,6.2441988,-75.6,Sharon Smith,"1997,09,24",828,Jacqueline Williams,534,806,Tienda4
+35118836,4,cases,44285346,"1992,01,26",0,paloma city,Jaime,30652453,samanthasanchez@example.org,-12.037964,-77.0503238,Karen Smith,"1992,01,26",125,Timothy Savage,34,258,Tienda4
+18924988,5,selfie stick,16309029,"1976,04,12",0,paloma city,Jaime,40743583,thompsonchristopher@example.com,-12.037964,-77.0503238,Lori Thomas,"1976,04,12",716,Diana Jones,643,465,Tienda4
+54119736,3,headphones,97070727,"1971,11,18",0,MEDALLO,POLOMBIA,71345900,jrussell@example.net,6.2441988,-75.6,Anne Brandt,"1971,11,18",19,Christopher Martin,289,975,Tienda4
+46307126,2,charger smartphone,84689697,"1975,04,13",0,MEDALLO,POLOMBIA,86460031,davidromero@example.org,6.2441988,-75.6,Ashlee Simmons,"1975,04,13",996,Shawn Frank,193,333,Tienda4
+64702114,4,cases,35804947,"2009,06,11",0,erda,POLOMBIA,85988491,raymondkatelyn@example.com,10.4002813,-75.5,Denise Perez,"2009,06,11",741,Eric Fitzgerald,894,500,Tienda4
+48970047,2,charger smartphone,10488160,"1970,08,01",0,paloma city,Jaime,82404226,amy87@example.com,-12.037964,-77.0503238,Betty Wyatt,"1970,08,01",636,Alex Castaneda,345,819,Tienda4
+64835009,2,charger smartphone,63423618,"1971,08,20",0,tierra de changua,POLOMBIA,38248761,gonzalezmichael@example.net,4.648625,-74.1,Vicki Brown,"1971,08,20",592,Jonathan Daugherty,850,256,Tienda4
+81457292,2,charger smartphone,7138911,"1982,03,29",0,MEDALLO,POLOMBIA,96018932,amberwood@example.net,6.2441988,-75.6,Brandon Jenkins,"1982,03,29",926,Michael Montoya,28,62,Tienda4
+36198791,5,selfie stick,53174069,"1992,03,25",0,erda,POLOMBIA,54913501,robert85@example.org,10.4002813,-75.5,Matthew Mcneil,"1992,03,25",353,Cheryl Lozano,413,915,Tienda4
+66176899,5,selfie stick,91648603,"2014,10,26",0,erda,POLOMBIA,59454573,joseph13@example.org,10.4002813,-75.5,Daniel Johnston,"2014,10,26",240,Kevin Palmer,383,178,Tienda4
+37786004,4,cases,24195130,"2005,06,22",0,paloma city,Jaime,42862997,erin39@example.org,-12.037964,-77.0503238,Joel Harrison,"2005,06,22",420,Stacy Higgins,823,735,Tienda4
+36218021,4,cases,72335999,"2000,03,23",0,tierra de changua,POLOMBIA,14876649,pearsongregory@example.com,4.648625,-74.1,Emily Lowe,"2000,03,23",864,Dr. Michelle Travis DDS,202,807,Tienda4
+2850619,1,PC,17326617,"1978,11,27",0,erda,POLOMBIA,77483421,valerie23@example.com,10.4002813,-75.5,Krista Copeland,"1978,11,27",287,Kimberly Jennings,555,50,Tienda4
+65526023,1,PC,93940237,"2007,02,24",0,paloma city,Jaime,68140333,vwebb@example.net,-12.037964,-77.0503238,Joseph Thompson,"2007,02,24",239,Samuel Henderson,634,811,Tienda4
+6882234,2,charger smartphone,95001471,"1992,10,11",0,erda,POLOMBIA,85887786,charles83@example.org,10.4002813,-75.5,Richard Curtis MD,"1992,10,11",523,Angela Mendez,113,359,Tienda4
+15945702,3,headphones,40943047,"2011,09,04",0,tierra de changua,POLOMBIA,35542300,hollyrodriguez@example.org,4.648625,-74.1,Susan Carroll,"2011,09,04",38,William Smith,9,221,Tienda4
+2054576,2,charger smartphone,41242897,"1980,10,23",0,erda,POLOMBIA,43761193,vasquezcalvin@example.org,10.4002813,-75.5,Erin Dillon,"1980,10,23",524,Eric Jarvis,364,979,Tienda4
+26564862,5,selfie stick,77390361,"1987,01,17",0,paloma city,Jaime,57039872,loretta07@example.net,-12.037964,-77.0503238,Nicole Fowler,"1987,01,17",90,Melissa Cardenas,735,280,Tienda4
+15599188,3,headphones,87431554,"2017,10,16",0,erda,POLOMBIA,82465962,uweaver@example.net,10.4002813,-75.5,Anita Wright,"2017,10,16",712,Stephanie Nixon,163,719,Tienda4
+35717264,5,selfie stick,17431525,"2018,11,27",0,erda,POLOMBIA,12120924,jordanscott@example.com,10.4002813,-75.5,Stephen Hampton,"2018,11,27",673,Jonathan Hines,580,958,Tienda4
+34480841,2,charger smartphone,43555684,"1989,01,07",0,MEDALLO,POLOMBIA,61461016,kim27@example.org,6.2441988,-75.6,Jerry Wiley,"1989,01,07",439,Brittany Pham,562,322,Tienda4
+79687423,2,charger smartphone,53201525,"1975,04,17",0,paloma city,Jaime,87693261,joshuahunter@example.com,-12.037964,-77.0503238,Mary Duran,"1975,04,17",737,Darlene Thompson,647,33,Tienda4
+62691799,2,charger smartphone,20127654,"2012,01,16",0,tierra de changua,POLOMBIA,74950444,bbaker@example.org,4.648625,-74.1,Veronica Price,"2012,01,16",500,Kimberly Smith,907,266,Tienda4
+95289409,5,selfie stick,90357798,"2017,08,24",0,tierra de changua,POLOMBIA,49755863,floresscott@example.org,4.648625,-74.1,Debra Edwards,"2017,08,24",383,Nicolas Dalton,216,966,Tienda4
+17507973,1,PC,53952071,"1985,06,20",0,erda,POLOMBIA,33457084,richardwhite@example.com,10.4002813,-75.5,Erika Delacruz,"1985,06,20",81,Bradley Norman,576,69,Tienda4
+90238216,1,PC,6334558,"1972,12,03",0,MEDALLO,POLOMBIA,57123767,brownjoshua@example.net,6.2441988,-75.6,Mr. John Fuentes DDS,"1972,12,03",527,Melissa King,280,544,Tienda4
+27484534,5,selfie stick,55243548,"2017,12,12",0,erda,POLOMBIA,34685830,dominguezedward@example.net,10.4002813,-75.5,Deborah Wagner,"2017,12,12",8,Melissa Farrell,539,521,Tienda4
+89510787,2,charger smartphone,86367037,"2000,02,04",0,paloma city,Jaime,84553346,gkaiser@example.net,-12.037964,-77.0503238,Michele Patel,"2000,02,04",653,Sarah Bryant,291,15,Tienda4
+56594222,5,selfie stick,83040882,"1985,01,13",0,paloma city,Jaime,44538313,thogan@example.com,-12.037964,-77.0503238,Michael Bowers,"1985,01,13",789,Paula Hicks,799,304,Tienda4
+70659672,1,PC,36787197,"1999,11,04",0,paloma city,Jaime,67674065,kathryn90@example.com,-12.037964,-77.0503238,Christopher Curry,"1999,11,04",639,Jermaine Santos,647,348,Tienda4
+22302821,2,charger smartphone,38743851,"2011,08,13",0,tierra de changua,POLOMBIA,38356377,heather50@example.com,4.648625,-74.1,Brittany Cardenas,"2011,08,13",79,Helen Forbes,469,813,Tienda4
+54469452,1,PC,7418092,"2016,07,15",0,paloma city,Jaime,31896017,shannon18@example.net,-12.037964,-77.0503238,Pamela Hicks,"2016,07,15",959,Briana Davis,208,719,Tienda4
+24889513,2,charger smartphone,54519464,"1973,06,15",0,erda,POLOMBIA,27089811,robinsonpaul@example.net,10.4002813,-75.5,Tracy Moody,"1973,06,15",82,Keith Lynch,503,522,Tienda4
+44555286,5,selfie stick,69438001,"1997,05,16",0,erda,POLOMBIA,42609634,nvillarreal@example.com,10.4002813,-75.5,Michael Gonzales,"1997,05,16",786,Danielle Daniel,269,371,Tienda4
+50720411,1,PC,98374430,"2021,01,20",0,tierra de changua,POLOMBIA,29980736,wwilliams@example.net,4.648625,-74.1,Caleb Chan,"2021,01,20",521,Joshua Walters,699,826,Tienda4
+29875478,4,cases,29112993,"2004,02,03",0,MEDALLO,POLOMBIA,24158782,dawnstone@example.com,6.2441988,-75.6,Catherine Chen,"2004,02,03",179,Garrett Pena,696,764,Tienda4
+2149074,1,PC,21596341,"1973,01,27",0,tierra de changua,POLOMBIA,54878167,tara25@example.com,4.648625,-74.1,Lori Peters,"1973,01,27",235,Anthony Alexander,660,764,Tienda4
+89680952,4,cases,63996382,"1996,09,05",0,MEDALLO,POLOMBIA,70584371,johnsonmatthew@example.org,6.2441988,-75.6,Christopher Mora,"1996,09,05",916,Cory Sandoval,432,158,Tienda4
+25799015,1,PC,5648269,"1992,07,11",0,tierra de changua,POLOMBIA,30953533,matthew29@example.net,4.648625,-74.1,Katherine Miller,"1992,07,11",129,Lauren Welch,978,627,Tienda4
+70765353,1,PC,68241792,"2014,08,21",0,MEDALLO,POLOMBIA,78848151,andrewbaker@example.org,6.2441988,-75.6,Kimberly Jensen,"2014,08,21",487,Carrie Glass,472,874,Tienda4
+85591535,4,cases,86862824,"2006,12,25",0,tierra de changua,POLOMBIA,35180105,ricardo14@example.net,4.648625,-74.1,Desiree Russell,"2006,12,25",559,Julia Hernandez,882,323,Tienda4
+93199164,2,charger smartphone,797678,"1988,08,16",0,MEDALLO,POLOMBIA,94649671,ellen86@example.com,6.2441988,-75.6,Dr. Dillon Young,"1988,08,16",163,Katherine Jordan,630,185,Tienda4
+54837640,3,headphones,44884620,"1982,03,19",0,tierra de changua,POLOMBIA,58415970,tara13@example.net,4.648625,-74.1,Gabrielle Cannon,"1982,03,19",84,Brandy Davis,958,609,Tienda4
+65304975,5,selfie stick,24243139,"1971,05,23",0,paloma city,Jaime,26665331,dblackwell@example.com,-12.037964,-77.0503238,Veronica Peters,"1971,05,23",729,Steven Adams,262,611,Tienda4
+50382768,5,selfie stick,80083242,"2018,09,07",0,tierra de changua,POLOMBIA,67855320,martinemily@example.net,4.648625,-74.1,Cassandra Bryan,"2018,09,07",228,Timothy Harrison,559,923,Tienda4
+3018625,5,selfie stick,98210934,"2006,06,17",0,tierra de changua,POLOMBIA,33314777,butleralexandra@example.net,4.648625,-74.1,Lisa Crosby,"2006,06,17",398,Kevin Romero,474,261,Tienda4
+20655637,4,cases,38155556,"1990,10,14",2,paloma city,Jaime,18767424,bgraham@example.net,-12.037964,-77.0503238,Rodney Garcia,"1990,10,14",654,Emma Miller,835,975,Tienda4
+14611614,3,headphones,93553488,"2002,04,11",0,tierra de changua,POLOMBIA,59189160,kathryn65@example.org,4.648625,-74.1,Kyle Kramer,"2002,04,11",782,Lucas Carter,701,683,Tienda4
+9120615,1,PC,60542385,"1975,01,09",0,paloma city,Jaime,55177671,snydermatthew@example.com,-12.037964,-77.0503238,Mark Jones,"1975,01,09",191,Nicole White,769,315,Tienda4
+24237870,1,PC,16413912,"1978,11,02",0,MEDALLO,POLOMBIA,59353051,danielray@example.net,6.2441988,-75.6,Barbara Castillo,"1978,11,02",973,Katherine Sandoval,392,454,Tienda4
+10122391,1,PC,62150938,"1986,12,13",1,paloma city,Jaime,93523598,rileynathan@example.com,-12.037964,-77.0503238,Melissa Villarreal,"1986,12,13",455,Karina Holt,258,606,Tienda4
+38521409,3,headphones,13421377,"2001,01,03",0,paloma city,Jaime,48256812,athomas@example.com,-12.037964,-77.0503238,Alicia Martinez,"2001,01,03",756,Jessica Wise,670,357,Tienda4
+27542428,1,PC,2337403,"2012,08,15",0,MEDALLO,POLOMBIA,76295693,brianharvey@example.com,6.2441988,-75.6,Austin Green Jr.,"2012,08,15",416,Kelly Fernandez,485,39,Tienda4
+42057490,3,headphones,20495670,"1992,03,21",0,erda,POLOMBIA,22291323,allendorothy@example.com,10.4002813,-75.5,Lauren Stokes,"1992,03,21",604,Rhonda Gibson,104,997,Tienda4
+60889019,1,PC,22139965,"2008,01,29",0,MEDALLO,POLOMBIA,6194155,omarbuchanan@example.net,6.2441988,-75.6,Christopher Mccullough,"2008,01,29",858,Dana Hamilton,803,249,Tienda4
+15658870,3,headphones,54711437,"1982,07,03",0,tierra de changua,POLOMBIA,93773150,jessicasmith@example.com,4.648625,-74.1,Henry Ward,"1982,07,03",822,Taylor Moore,574,3,Tienda4
+78185085,3,headphones,55816279,"1975,03,31",0,paloma city,Jaime,68237430,parkerdominique@example.org,-12.037964,-77.0503238,David White,"1975,03,31",81,Tracy Kane,132,89,Tienda4
+50508794,3,headphones,10967508,"1977,03,16",0,erda,POLOMBIA,64631264,jennifer58@example.org,10.4002813,-75.5,Lauren Moore,"1977,03,16",449,Antonio Taylor,607,126,Tienda4
+75047390,4,cases,2105997,"1988,08,03",0,erda,POLOMBIA,38649738,frichardson@example.org,10.4002813,-75.5,Paul Moore,"1988,08,03",279,Jonathan King,914,499,Tienda4
+12901182,1,PC,83439719,"2001,07,02",0,paloma city,Jaime,18770703,hramirez@example.com,-12.037964,-77.0503238,Stacey Becker MD,"2001,07,02",766,Jennifer Allen,345,890,Tienda4
+60537179,3,headphones,9898833,"1995,07,15",0,tierra de changua,POLOMBIA,23704024,joy88@example.com,4.648625,-74.1,Daniel Garcia,"1995,07,15",545,Patricia Harding,799,848,Tienda4
+54469702,5,selfie stick,13641382,"1995,03,16",0,paloma city,Jaime,62465627,kimberly58@example.com,-12.037964,-77.0503238,David Jones,"1995,03,16",441,Ronnie Hill,520,333,Tienda4
+83072558,5,selfie stick,89282717,"2014,03,12",0,tierra de changua,POLOMBIA,38890205,manuel11@example.org,4.648625,-74.1,Jennifer Robinson,"2014,03,12",673,Sherry Owens,9,938,Tienda4
+99444971,2,charger smartphone,34314990,"2002,11,24",0,paloma city,Jaime,50043684,claytonelizabeth@example.net,-12.037964,-77.0503238,Kevin Hicks,"2002,11,24",919,Kerri Gardner,556,544,Tienda4
+88862060,5,selfie stick,2787212,"1997,04,04",0,MEDALLO,POLOMBIA,78432512,osimpson@example.org,6.2441988,-75.6,Amanda Smith,"1997,04,04",434,Robert Duran,617,392,Tienda4
+41920212,2,charger smartphone,21707508,"2003,01,02",0,erda,POLOMBIA,89946656,xhull@example.com,10.4002813,-75.5,Courtney Garrett,"2003,01,02",413,Theresa Bell,654,665,Tienda4
+46683946,2,charger smartphone,94340098,"2000,11,07",0,MEDALLO,POLOMBIA,95808215,yolanda21@example.com,6.2441988,-75.6,Kimberly King,"2000,11,07",90,Jessica Silva DDS,143,567,Tienda4
+59339169,1,PC,9949783,"1988,02,08",2,MEDALLO,POLOMBIA,44270299,donjones@example.com,6.2441988,-75.6,Jerry Anderson,"1988,02,08",192,Charles Bautista,312,643,Tienda4
+14742713,5,selfie stick,47653640,"1987,06,08",0,tierra de changua,POLOMBIA,56553123,mark78@example.net,4.648625,-74.1,Darrell Harding,"1987,06,08",158,Cory Newman,315,270,Tienda4
+40539636,5,selfie stick,1453998,"1989,05,08",0,tierra de changua,POLOMBIA,6562314,wilsonbrian@example.net,4.648625,-74.1,Ashley Cummings,"1989,05,08",195,Candice Keller,741,181,Tienda4
+83605147,5,selfie stick,98167722,"2003,12,22",0,MEDALLO,POLOMBIA,38277649,shernandez@example.org,6.2441988,-75.6,Charles Schmitt,"2003,12,22",826,Christopher Adams,322,989,Tienda4
+21348482,1,PC,11494392,"1972,06,30",0,erda,POLOMBIA,47900396,smithjason@example.org,10.4002813,-75.5,Heather Martinez,"1972,06,30",286,Angela Ross,314,551,Tienda4
+47306555,3,headphones,9838953,"2016,07,15",0,erda,POLOMBIA,27821173,vpeterson@example.net,10.4002813,-75.5,Peter Armstrong,"2016,07,15",865,Todd Estrada,25,24,Tienda4
+34898800,5,selfie stick,86161105,"2006,09,12",0,erda,POLOMBIA,11952920,qsmith@example.org,10.4002813,-75.5,Matthew Smith,"2006,09,12",52,Amanda Mccullough,229,89,Tienda4
+74753044,2,charger smartphone,53403725,"2008,09,01",0,paloma city,Jaime,68200550,evansnatasha@example.com,-12.037964,-77.0503238,Morgan Phillips,"2008,09,01",434,Anthony Johnston,952,314,Tienda4
+78101328,1,PC,9890265,"1996,07,07",0,erda,POLOMBIA,96145473,moralesnicole@example.com,10.4002813,-75.5,Kristen Santos,"1996,07,07",80,Anthony Vazquez,35,952,Tienda4
+6108552,2,charger smartphone,62557366,"1981,03,06",4,MEDALLO,POLOMBIA,59007316,mwhitehead@example.com,6.2441988,-75.6,Stefanie Escobar,"1981,03,06",57,Nicholas Manning,613,31,Tienda4
+89837145,5,selfie stick,18807106,"1978,09,16",0,erda,POLOMBIA,88680941,thompsonronald@example.net,10.4002813,-75.5,Jerry Garza,"1978,09,16",961,Eric Martin,858,262,Tienda4
+65185369,5,selfie stick,47358519,"2017,05,01",4,paloma city,Jaime,72492229,kirkjennifer@example.org,-12.037964,-77.0503238,Andrea Lee,"2017,05,01",457,Ashley Boone,939,502,Tienda4
+55455738,3,headphones,45631828,"1984,05,20",0,erda,POLOMBIA,73450932,pmiller@example.org,10.4002813,-75.5,James Schwartz,"1984,05,20",989,Nicholas Nicholson,671,449,Tienda4
+20305747,1,PC,50205927,"2017,07,02",0,paloma city,Jaime,60281344,medinatricia@example.net,-12.037964,-77.0503238,Peggy Downs,"2017,07,02",146,Tina Wilkinson,779,701,Tienda4
+79340925,3,headphones,87601251,"2007,10,23",0,paloma city,Jaime,38470220,melissamurillo@example.org,-12.037964,-77.0503238,Brandon Wall,"2007,10,23",395,Michael Lane,883,640,Tienda4
+29019666,4,cases,89762513,"1996,03,05",0,paloma city,Jaime,96090978,robleschristopher@example.org,-12.037964,-77.0503238,Daniel Lee,"1996,03,05",792,Joseph Smith,826,897,Tienda4
+19379630,5,selfie stick,32596518,"2013,05,27",0,tierra de changua,POLOMBIA,52468944,tuckerchristina@example.com,4.648625,-74.1,Abigail Harmon,"2013,05,27",907,Tracy Cameron,208,877,Tienda4
+9872813,1,PC,14382724,"1977,05,25",0,tierra de changua,POLOMBIA,8852181,mariacrane@example.org,4.648625,-74.1,Terri Garcia,"1977,05,25",525,Leslie Johnston,910,53,Tienda4
+18877663,3,headphones,92848389,"1993,06,05",2,MEDALLO,POLOMBIA,8368604,phillipsjoshua@example.net,6.2441988,-75.6,Dr. Paula Thompson,"1993,06,05",512,Rebecca Clements,771,985,Tienda4
+12762793,4,cases,81021819,"2013,02,19",0,paloma city,Jaime,89129301,pamela46@example.net,-12.037964,-77.0503238,Sarah Hernandez,"2013,02,19",575,Jeffrey Gonzalez,661,849,Tienda4
+53664105,2,charger smartphone,16358738,"1999,12,18",0,tierra de changua,POLOMBIA,26117814,fordbrandon@example.com,4.648625,-74.1,David Quinn,"1999,12,18",978,Angela Martinez,805,644,Tienda4
+66244280,2,charger smartphone,59869506,"1985,03,09",0,MEDALLO,POLOMBIA,14948007,jasonweber@example.com,6.2441988,-75.6,Ryan Singleton,"1985,03,09",330,Cheryl Taylor,783,373,Tienda4
+57406186,5,selfie stick,54802089,"2009,06,01",0,MEDALLO,POLOMBIA,18584883,jamesmcneil@example.net,6.2441988,-75.6,Natasha Sanders,"2009,06,01",335,Christina Roberts,561,271,Tienda4
+78772553,1,PC,57658989,"2015,12,02",0,paloma city,Jaime,63886296,sarahgray@example.net,-12.037964,-77.0503238,Sarah Watson,"2015,12,02",211,Grant Nichols,646,963,Tienda4
+22312079,4,cases,4078039,"1993,02,04",0,tierra de changua,POLOMBIA,6755483,yhahn@example.org,4.648625,-74.1,Tyler Santiago,"1993,02,04",639,Allison Henson,522,972,Tienda4
+89322230,1,PC,80228127,"1997,10,17",0,MEDALLO,POLOMBIA,75281647,lauren60@example.org,6.2441988,-75.6,Christopher Thomas,"1997,10,17",890,Thomas Shaw,350,770,Tienda4
+28547995,2,charger smartphone,51046831,"1991,10,09",0,erda,POLOMBIA,70540256,gwong@example.net,10.4002813,-75.5,Jenna Anderson,"1991,10,09",678,Jane Solomon,710,89,Tienda4
+18935502,2,charger smartphone,6323695,"1998,01,13",0,MEDALLO,POLOMBIA,38786806,freemanrobert@example.net,6.2441988,-75.6,Shane Lopez,"1998,01,13",238,Jeffrey Ingram,298,810,Tienda4
+94075192,4,cases,9052056,"1997,09,04",4,paloma city,Jaime,39883122,iandavila@example.com,-12.037964,-77.0503238,Becky Matthews,"1997,09,04",954,James Johnson,284,167,Tienda4
+77052639,4,cases,1859106,"1997,12,13",0,erda,POLOMBIA,14056050,munozbrandon@example.org,10.4002813,-75.5,Kellie Spears,"1997,12,13",224,Tyler Brady,318,214,Tienda4
+18658446,5,selfie stick,99809501,"1999,12,09",0,erda,POLOMBIA,21396921,adam45@example.org,10.4002813,-75.5,Elizabeth Anderson,"1999,12,09",436,Mason Dudley,723,260,Tienda4
+20376601,2,charger smartphone,7806802,"1976,04,26",0,paloma city,Jaime,18547606,ejohnson@example.net,-12.037964,-77.0503238,Rebecca Davis,"1976,04,26",475,Kylie Thomas,54,893,Tienda4
+44884479,3,headphones,75048407,"1996,01,15",0,paloma city,Jaime,7788735,carolynfranco@example.net,-12.037964,-77.0503238,Sean Powers,"1996,01,15",585,Andrea Murray,519,879,Tienda4
+33935542,2,charger smartphone,93032698,"2021,08,11",0,erda,POLOMBIA,30995239,brownronald@example.com,10.4002813,-75.5,Luke Waters,"2021,08,11",939,Carrie Rocha,475,682,Tienda4
+81602644,2,charger smartphone,20819149,"2020,04,05",0,MEDALLO,POLOMBIA,90370545,willischristopher@example.com,6.2441988,-75.6,Rebecca Malone,"2020,04,05",31,Hannah Torres,394,661,Tienda4
+59931768,5,selfie stick,40362525,"2011,01,28",0,paloma city,Jaime,87434671,warejulie@example.com,-12.037964,-77.0503238,James Moore,"2011,01,28",927,Gerald Williams,506,360,Tienda4
+4783311,2,charger smartphone,38185974,"1975,08,31",0,MEDALLO,POLOMBIA,28443929,christopherryan@example.com,6.2441988,-75.6,Angela Johnson,"1975,08,31",714,Andrew Barrett,718,295,Tienda4
+37009271,3,headphones,22210342,"2006,03,01",0,erda,POLOMBIA,90201584,andrewwebster@example.net,10.4002813,-75.5,Mark Brown,"2006,03,01",530,Jeffrey Ball,554,954,Tienda4
+58099216,2,charger smartphone,88324838,"1995,06,25",0,erda,POLOMBIA,25039531,kristin57@example.org,10.4002813,-75.5,Christopher Johnson,"1995,06,25",378,Jonathan Martinez,480,667,Tienda4
+25041652,4,cases,73779526,"1989,03,15",0,MEDALLO,POLOMBIA,70038368,bmiller@example.net,6.2441988,-75.6,Melissa Lowe,"1989,03,15",371,Lisa Wilson,628,997,Tienda4
+60790123,4,cases,32638761,"1994,08,08",0,MEDALLO,POLOMBIA,29292808,zowen@example.net,6.2441988,-75.6,Kimberly Kramer,"1994,08,08",509,Monique Yang,713,948,Tienda4
+38674390,1,PC,41508125,"1994,12,01",0,paloma city,Jaime,69768728,dominique48@example.net,-12.037964,-77.0503238,Cindy Bowen,"1994,12,01",468,Eric Rodriguez,126,730,Tienda4
+19486756,2,charger smartphone,23660077,"1996,04,11",0,MEDALLO,POLOMBIA,14639507,ian07@example.org,6.2441988,-75.6,Lisa Ramirez,"1996,04,11",64,Alexander Hicks,691,666,Tienda4
+43266444,1,PC,53490339,"2001,03,11",0,paloma city,Jaime,40490114,shortduane@example.net,-12.037964,-77.0503238,Margaret Moore DVM,"2001,03,11",802,Mark Dixon,592,493,Tienda4
+16495801,2,charger smartphone,74056847,"2010,06,02",0,paloma city,Jaime,57280616,amberscott@example.net,-12.037964,-77.0503238,Cathy Smith,"2010,06,02",674,Christopher Davis,585,227,Tienda4
+42323056,1,PC,62229203,"1985,11,05",0,erda,POLOMBIA,11727079,cervantesdana@example.org,10.4002813,-75.5,Bridget Brown,"1985,11,05",105,Angela Randall,540,726,Tienda4
+38754980,3,headphones,57394924,"1977,04,01",0,MEDALLO,POLOMBIA,18505572,lilaura@example.com,6.2441988,-75.6,Ruben Neal,"1977,04,01",858,Latoya Garcia,823,399,Tienda4
+72179898,1,PC,98981891,"2021,09,27",0,tierra de changua,POLOMBIA,4742409,flozano@example.net,4.648625,-74.1,Judith Moore,"2021,09,27",479,Carl Roberts,164,739,Tienda4
+87827157,3,headphones,79760269,"1970,10,14",3,erda,POLOMBIA,70725145,gonzalezjoshua@example.com,10.4002813,-75.5,Jeffrey Wang,"1970,10,14",378,Lindsey Lewis,886,488,Tienda4
+2055942,2,charger smartphone,84168523,"2010,07,02",0,tierra de changua,POLOMBIA,16296204,tamara21@example.org,4.648625,-74.1,Paul Mcdonald,"2010,07,02",711,Peter Collins,601,549,Tienda4
+10818247,5,selfie stick,79482327,"1991,04,07",0,tierra de changua,POLOMBIA,46151505,tylerwalsh@example.net,4.648625,-74.1,Ryan Bailey,"1991,04,07",292,Victoria Molina,49,980,Tienda4
+83687120,1,PC,75704266,"1970,05,10",0,MEDALLO,POLOMBIA,47799731,april71@example.net,6.2441988,-75.6,Christy Holmes,"1970,05,10",658,Amber Duffy,333,163,Tienda4
+10702118,1,PC,5009865,"2000,12,02",0,MEDALLO,POLOMBIA,90875777,marclewis@example.net,6.2441988,-75.6,Tyler Kelly,"2000,12,02",653,Gregory Hall,625,550,Tienda4
+91545627,5,selfie stick,89423984,"1981,07,04",0,paloma city,Jaime,97594020,bethbarker@example.net,-12.037964,-77.0503238,Mary Mendoza,"1981,07,04",402,Kimberly Barron,898,245,Tienda4
+77085092,3,headphones,78697989,"2000,02,17",0,MEDALLO,POLOMBIA,18155642,baxterlisa@example.com,6.2441988,-75.6,Joseph Sanchez,"2000,02,17",119,Gregory Henderson,198,867,Tienda4
+61866799,1,PC,80489446,"1998,01,02",0,tierra de changua,POLOMBIA,24825041,george93@example.net,4.648625,-74.1,Ronald Richards,"1998,01,02",881,Joshua Bush,737,726,Tienda4
+10964825,3,headphones,2061886,"1978,03,23",0,tierra de changua,POLOMBIA,13071318,spencerkendra@example.net,4.648625,-74.1,Jasmine Boyle,"1978,03,23",146,Meredith Mcguire,301,238,Tienda4
+77463950,5,selfie stick,53135995,"1988,06,13",0,paloma city,Jaime,64724650,arnoldmelissa@example.net,-12.037964,-77.0503238,Scott Phillips,"1988,06,13",572,Ms. Jessica Hart,472,121,Tienda4
+41432643,2,charger smartphone,7736894,"1990,08,30",0,MEDALLO,POLOMBIA,54768154,adrian40@example.net,6.2441988,-75.6,Rebecca Martinez,"1990,08,30",928,Shelley Lowe,756,985,Tienda4
+94127601,3,headphones,15997882,"1972,01,05",0,erda,POLOMBIA,13103341,davidsoncollin@example.net,10.4002813,-75.5,Deborah Gibson,"1972,01,05",49,Benjamin Richards,188,354,Tienda4
+75758138,4,cases,38935762,"1973,10,13",0,erda,POLOMBIA,91555176,oflores@example.com,10.4002813,-75.5,Derek Adams,"1973,10,13",507,Julie Walker,401,477,Tienda4
+86719797,3,headphones,66667035,"1988,04,15",0,paloma city,Jaime,54049971,wayne64@example.org,-12.037964,-77.0503238,Elizabeth Baldwin,"1988,04,15",902,Brittany Hoffman,369,323,Tienda4
+55903358,4,cases,56041389,"1981,09,11",0,erda,POLOMBIA,82064779,tgonzalez@example.com,10.4002813,-75.5,Deborah Hawkins,"1981,09,11",603,Daniel Ellis,308,695,Tienda4
+79636814,4,cases,45701806,"1984,04,30",0,erda,POLOMBIA,88621726,smithalexandra@example.net,10.4002813,-75.5,Melissa Gonzalez,"1984,04,30",777,Samuel Jones,417,202,Tienda4
+24868205,5,selfie stick,66325330,"1972,05,09",0,paloma city,Jaime,92646967,lisa18@example.org,-12.037964,-77.0503238,Hayley Buchanan,"1972,05,09",393,Phyllis Rose,145,134,Tienda4
+84471960,3,headphones,4519682,"1982,05,10",0,MEDALLO,POLOMBIA,53973761,danielle61@example.com,6.2441988,-75.6,Charles Buck,"1982,05,10",707,Joseph Roman,508,350,Tienda4
+40593689,2,charger smartphone,97436684,"2001,09,30",3,MEDALLO,POLOMBIA,17514919,thenderson@example.com,6.2441988,-75.6,Roy Smith,"2001,09,30",763,Mrs. Annette Ray DDS,817,786,Tienda4
+98994440,1,PC,66803017,"1998,03,19",5,MEDALLO,POLOMBIA,12436675,bmcdonald@example.org,6.2441988,-75.6,Paul Schneider,"1998,03,19",180,Michele Day,765,575,Tienda4
+72197836,2,charger smartphone,89505444,"1995,03,06",0,tierra de changua,POLOMBIA,95316064,jeffreycook@example.net,4.648625,-74.1,Melanie Ramos,"1995,03,06",287,Zachary Walker,252,859,Tienda4
+67747025,2,charger smartphone,91154110,"2005,10,13",0,tierra de changua,POLOMBIA,65289494,ksmith@example.org,4.648625,-74.1,Marcus Weber,"2005,10,13",73,Ryan Perez,589,479,Tienda4
+5867914,3,headphones,39044083,"1996,12,29",0,erda,POLOMBIA,86656267,ortegaphilip@example.com,10.4002813,-75.5,Jay Hernandez,"1996,12,29",517,Michael Carr,457,179,Tienda4
+15758669,5,selfie stick,90599959,"2014,04,14",0,tierra de changua,POLOMBIA,60737359,wpitts@example.org,4.648625,-74.1,Michael Chang DDS,"2014,04,14",164,Andrea Lowery,480,415,Tienda4
+48426118,4,cases,55571854,"2002,09,25",0,tierra de changua,POLOMBIA,3663774,ybass@example.net,4.648625,-74.1,Abigail Johnson,"2002,09,25",769,Roberta Miller,457,962,Tienda4
+82123727,1,PC,65417709,"1997,07,20",0,MEDALLO,POLOMBIA,27810203,uyates@example.com,6.2441988,-75.6,Joseph Reynolds,"1997,07,20",606,Ricky Wong,483,71,Tienda4
+90482406,4,cases,31992326,"1975,09,05",0,MEDALLO,POLOMBIA,5032950,awood@example.com,6.2441988,-75.6,Christian Wilson,"1975,09,05",653,Mrs. Mary Cook,187,29,Tienda4
+25456444,5,selfie stick,2951132,"1980,06,10",0,paloma city,Jaime,10139928,derekowen@example.net,-12.037964,-77.0503238,Mark Brooks,"1980,06,10",364,Michelle Tyler,766,139,Tienda4
+21531712,4,cases,27470115,"1985,05,25",0,tierra de changua,POLOMBIA,73956636,stacy00@example.com,4.648625,-74.1,Patricia Cook,"1985,05,25",825,Elizabeth Berg,626,170,Tienda4
+94684647,1,PC,14160944,"1975,12,10",0,erda,POLOMBIA,59326064,martinpeter@example.net,10.4002813,-75.5,Daniel Carlson,"1975,12,10",12,James Gray,737,998,Tienda4
+16196786,2,charger smartphone,62411106,"2011,06,03",0,MEDALLO,POLOMBIA,54493394,ngriffith@example.org,6.2441988,-75.6,Tiffany Vargas,"2011,06,03",916,Kevin Summers,183,148,Tienda4
+95587840,1,PC,70223241,"1974,08,28",0,MEDALLO,POLOMBIA,73136186,charles91@example.org,6.2441988,-75.6,Candace Espinoza,"1974,08,28",564,Ashley Miles,629,352,Tienda4
+92554450,3,headphones,44596809,"1976,10,15",0,tierra de changua,POLOMBIA,15791517,amy36@example.net,4.648625,-74.1,Brian Moran,"1976,10,15",316,Timothy Armstrong,626,269,Tienda4
+29703170,3,headphones,28695209,"1997,05,06",0,tierra de changua,POLOMBIA,7304080,michaelrobinson@example.com,4.648625,-74.1,Kimberly Peterson,"1997,05,06",394,Brian Curtis,362,701,Tienda4
+48082778,5,selfie stick,37229734,"2003,06,21",0,MEDALLO,POLOMBIA,21848697,tford@example.net,6.2441988,-75.6,Andrew Garcia,"2003,06,21",5,Scott Parks,133,521,Tienda4
+15357593,5,selfie stick,25348069,"2015,01,29",0,paloma city,Jaime,96620709,lauraduke@example.org,-12.037964,-77.0503238,Rose Green,"2015,01,29",820,Elizabeth Simon,521,287,Tienda4
+92261066,3,headphones,25413491,"1987,12,31",5,paloma city,Jaime,77059181,hectorkelly@example.net,-12.037964,-77.0503238,Paul Shaw,"1987,12,31",274,David Ramos,761,311,Tienda4
+70189790,3,headphones,58918717,"1989,06,18",0,tierra de changua,POLOMBIA,36818825,josephcoleman@example.org,4.648625,-74.1,Lauren Hall,"1989,06,18",799,Carol Flores,392,936,Tienda4
+32119605,1,PC,14995397,"2010,07,23",0,tierra de changua,POLOMBIA,87332941,cburns@example.com,4.648625,-74.1,Matthew Skinner,"2010,07,23",931,Heather Campbell,247,682,Tienda4
+88990422,1,PC,33624452,"1998,05,30",0,tierra de changua,POLOMBIA,39453274,trevor27@example.com,4.648625,-74.1,Douglas Gordon,"1998,05,30",866,Veronica Adams,442,592,Tienda4
+31643246,3,headphones,75443768,"2017,12,02",0,MEDALLO,POLOMBIA,3044076,slewis@example.org,6.2441988,-75.6,Mary White,"2017,12,02",764,Catherine Wilkins,188,208,Tienda4
+23864149,3,headphones,70762173,"2014,02,25",0,MEDALLO,POLOMBIA,44573351,barryhill@example.org,6.2441988,-75.6,Lance Russell,"2014,02,25",275,Brittany Bates,291,358,Tienda4
+54743847,2,charger smartphone,20882171,"2021,04,28",1,paloma city,Jaime,79872533,lisa07@example.com,-12.037964,-77.0503238,Debra Berry,"2021,04,28",299,Brittany Whitaker,343,31,Tienda4
+55766611,1,PC,92628600,"2008,03,12",0,erda,POLOMBIA,48041149,barnesnicholas@example.net,10.4002813,-75.5,Brian Golden,"2008,03,12",663,Kelly Whitaker,817,588,Tienda4
+93676175,3,headphones,85300143,"2002,02,08",0,paloma city,Jaime,78847685,williamgonzales@example.com,-12.037964,-77.0503238,Jared Miles,"2002,02,08",902,Michael Bennett,931,746,Tienda4
+58727408,3,headphones,66121423,"2004,05,25",0,paloma city,Jaime,43174186,matthewlee@example.net,-12.037964,-77.0503238,Brianna Shaffer,"2004,05,25",740,Thomas Singleton,718,112,Tienda4
+90579004,2,charger smartphone,69385606,"1978,07,06",0,MEDALLO,POLOMBIA,91965744,fsteele@example.com,6.2441988,-75.6,Jeffrey Diaz,"1978,07,06",621,Cody Gibson,851,71,Tienda4
+34554965,4,cases,30935598,"1984,06,04",0,erda,POLOMBIA,4143763,beckertimothy@example.net,10.4002813,-75.5,Kristina Smith,"1984,06,04",304,Samantha Moore,545,578,Tienda4
+99398912,1,PC,55254793,"1993,03,28",0,erda,POLOMBIA,25886088,kramerjeffery@example.net,10.4002813,-75.5,Nathan Wood,"1993,03,28",874,Tammy Porter,859,559,Tienda4
+77501017,2,charger smartphone,61950246,"1995,06,23",0,tierra de changua,POLOMBIA,28677421,christopher13@example.com,4.648625,-74.1,Daniel Clark,"1995,06,23",156,Ann Anderson,225,487,Tienda4
+56782479,3,headphones,96872037,"2021,10,02",0,MEDALLO,POLOMBIA,22619905,sharonstrickland@example.com,6.2441988,-75.6,Angelica Lynch,"2021,10,02",952,Thomas Campbell,375,355,Tienda4
+61088268,1,PC,33376850,"2018,03,06",0,erda,POLOMBIA,11422430,emily57@example.org,10.4002813,-75.5,Michael Coleman,"2018,03,06",135,Christina Davidson,886,521,Tienda4
+68456652,5,selfie stick,65564226,"1999,03,28",0,tierra de changua,POLOMBIA,15316614,katiemartinez@example.net,4.648625,-74.1,Lauren Rivas,"1999,03,28",465,Kenneth Lopez,263,294,Tienda4
+14409720,3,headphones,4013361,"1970,06,17",0,erda,POLOMBIA,82337940,victoria36@example.net,10.4002813,-75.5,Melissa Castro,"1970,06,17",440,Erika Daniels,458,64,Tienda4
+92936195,2,charger smartphone,57193763,"1972,03,15",4,erda,POLOMBIA,39815436,cassidy28@example.net,10.4002813,-75.5,Cheryl Martinez,"1972,03,15",458,Michelle Morales,233,895,Tienda4
+42867560,4,cases,86318872,"2010,09,30",0,MEDALLO,POLOMBIA,2116057,bridgetlewis@example.net,6.2441988,-75.6,Duane Romero,"2010,09,30",426,Samantha Sanchez MD,626,789,Tienda4
+52894204,1,PC,91742438,"2007,01,05",0,tierra de changua,POLOMBIA,16823461,wmitchell@example.net,4.648625,-74.1,Maria Kramer,"2007,01,05",299,Rhonda Hernandez,365,683,Tienda4
+59535900,1,PC,91426757,"2001,09,26",0,MEDALLO,POLOMBIA,73063536,rlong@example.net,6.2441988,-75.6,Joseph Flores,"2001,09,26",833,Wendy Lyons,795,828,Tienda4
+56410030,3,headphones,61616841,"1983,08,20",0,MEDALLO,POLOMBIA,42910093,lebenjamin@example.org,6.2441988,-75.6,Miss Brandy Nelson,"1983,08,20",696,Jordan Spears,467,41,Tienda4
+19042825,4,cases,25004553,"1978,02,06",0,MEDALLO,POLOMBIA,46781311,russelljade@example.com,6.2441988,-75.6,Eric English,"1978,02,06",521,Erin Johnson,251,365,Tienda4
+25241138,2,charger smartphone,67314168,"2018,05,09",0,erda,POLOMBIA,26048183,kharris@example.com,10.4002813,-75.5,Clifford Dennis,"2018,05,09",93,Betty Harris,229,790,Tienda4
+22925147,2,charger smartphone,53903568,"2003,01,02",0,MEDALLO,POLOMBIA,63332518,johntanner@example.org,6.2441988,-75.6,David Gonzalez,"2003,01,02",640,Kristina Navarro,607,222,Tienda4
+34917892,4,cases,899408,"2008,04,08",0,paloma city,Jaime,91203618,alopez@example.com,-12.037964,-77.0503238,Dr. Pamela Dixon,"2008,04,08",86,Diana Acosta,170,637,Tienda4
+33043168,4,cases,95503882,"1994,07,19",0,MEDALLO,POLOMBIA,81011090,castillojames@example.net,6.2441988,-75.6,Heather Vaughn,"1994,07,19",294,Erica Leon,548,462,Tienda4
+24291568,2,charger smartphone,61023805,"1976,03,10",0,tierra de changua,POLOMBIA,30701984,shelby91@example.com,4.648625,-74.1,Amber Wang,"1976,03,10",572,Thomas Gonzalez,870,883,Tienda4
+43430516,5,selfie stick,73956049,"1987,09,04",0,erda,POLOMBIA,70059860,amyedwards@example.com,10.4002813,-75.5,Melissa Hampton,"1987,09,04",4,Erica Jones,882,469,Tienda4
+90637128,1,PC,34836354,"1993,01,18",0,MEDALLO,POLOMBIA,40489019,brianmaxwell@example.org,6.2441988,-75.6,Robert White,"1993,01,18",273,William Harris,823,783,Tienda4
+95887202,3,headphones,78663945,"2012,07,08",0,tierra de changua,POLOMBIA,88710991,xsmith@example.com,4.648625,-74.1,Michelle Maldonado,"2012,07,08",142,Jennifer Lewis,3,207,Tienda4
+18360692,5,selfie stick,88436107,"1989,08,03",0,paloma city,Jaime,22256162,lesterdaniel@example.org,-12.037964,-77.0503238,Allison Perkins,"1989,08,03",365,Sarah Walker,449,748,Tienda4
+83709409,4,cases,70164760,"1978,08,02",0,paloma city,Jaime,80155570,dennis75@example.net,-12.037964,-77.0503238,Jessica Lewis,"1978,08,02",169,Laura Garner,872,553,Tienda4
+68328902,2,charger smartphone,50961320,"2016,10,04",5,paloma city,Jaime,37102812,ashleyweeks@example.net,-12.037964,-77.0503238,Jordan Brown,"2016,10,04",499,Robert Morrison,35,354,Tienda4
+91369204,5,selfie stick,20486704,"1986,11,03",0,MEDALLO,POLOMBIA,91564355,williamsscott@example.com,6.2441988,-75.6,Nathan Newman,"1986,11,03",847,Eric Wallace,504,117,Tienda4
+42998575,4,cases,96596436,"1984,01,28",2,paloma city,Jaime,40677763,kimpalmer@example.org,-12.037964,-77.0503238,Joseph Campbell,"1984,01,28",87,Lacey Jackson,478,93,Tienda4
+36263332,3,headphones,36519537,"2006,08,16",0,tierra de changua,POLOMBIA,625026,rrivera@example.org,4.648625,-74.1,Stephen Stevenson,"2006,08,16",714,Steven Mendoza,759,594,Tienda4
+41067220,5,selfie stick,68912029,"2010,02,24",0,erda,POLOMBIA,83958905,sherimiller@example.net,10.4002813,-75.5,Rodney Everett,"2010,02,24",335,Kimberly Monroe,157,249,Tienda4
+75709377,5,selfie stick,60802522,"1984,10,30",0,paloma city,Jaime,30627694,fischerdavid@example.org,-12.037964,-77.0503238,Mathew Ward,"1984,10,30",105,Robert Snyder PhD,736,201,Tienda4
+45812509,5,selfie stick,61319726,"2010,01,29",1,erda,POLOMBIA,94186391,uarias@example.org,10.4002813,-75.5,Thomas Morales,"2010,01,29",501,Hector Ballard,150,717,Tienda4
+27752742,4,cases,67571401,"1991,11,10",0,tierra de changua,POLOMBIA,37569684,morgannewman@example.net,4.648625,-74.1,Brian Davis,"1991,11,10",252,Andrea Rhodes,146,535,Tienda4
+93014928,3,headphones,23379619,"1977,05,16",0,erda,POLOMBIA,35246389,salvarez@example.org,10.4002813,-75.5,Seth Wyatt,"1977,05,16",905,Tiffany Vance,488,788,Tienda4
+7045158,5,selfie stick,17803594,"1996,08,11",0,MEDALLO,POLOMBIA,12439202,mossgary@example.org,6.2441988,-75.6,Susan Peters,"1996,08,11",176,Joshua Smith,684,29,Tienda4
+30968907,5,selfie stick,87558066,"1996,01,26",0,tierra de changua,POLOMBIA,11315169,usaunders@example.net,4.648625,-74.1,Jennifer Vincent,"1996,01,26",817,Michelle Hines,768,646,Tienda4
+13932148,3,headphones,46415140,"1996,03,12",0,paloma city,Jaime,4961687,terri38@example.com,-12.037964,-77.0503238,Rhonda Lane,"1996,03,12",893,Crystal Ramirez MD,650,409,Tienda4
+16222106,5,selfie stick,3812928,"1982,12,19",0,tierra de changua,POLOMBIA,479902,megansmith@example.org,4.648625,-74.1,Susan Sanchez,"1982,12,19",627,Todd Kidd,927,226,Tienda4
+68494120,1,PC,69456338,"2005,06,30",0,tierra de changua,POLOMBIA,95760457,hstephens@example.org,4.648625,-74.1,Steven Schneider,"2005,06,30",897,Alexis Obrien,188,99,Tienda4
+19001640,4,cases,31754844,"1971,06,25",0,MEDALLO,POLOMBIA,18282703,victoria66@example.com,6.2441988,-75.6,Richard Young,"1971,06,25",212,Kristina Santana,555,33,Tienda4
+4231170,4,cases,72359697,"1980,04,02",0,tierra de changua,POLOMBIA,36579048,kevinfields@example.net,4.648625,-74.1,Patricia Williams,"1980,04,02",850,Suzanne Perry,788,16,Tienda4
+14957686,3,headphones,8514482,"2018,05,11",0,paloma city,Jaime,24123579,vargasalicia@example.com,-12.037964,-77.0503238,Tiffany Martin,"2018,05,11",391,Logan Pena,418,525,Tienda4
+60041130,5,selfie stick,46705174,"1977,03,05",2,MEDALLO,POLOMBIA,12720419,jeromegonzales@example.com,6.2441988,-75.6,Julie Robertson,"1977,03,05",841,Robin Duke,232,974,Tienda4
+80941931,1,PC,99582435,"1989,12,31",1,paloma city,Jaime,17493606,vincent75@example.org,-12.037964,-77.0503238,Lisa Carter,"1989,12,31",676,Melanie Johnson,835,825,Tienda4
+80183500,4,cases,90858165,"1993,04,01",0,erda,POLOMBIA,13446630,tsullivan@example.net,10.4002813,-75.5,Paul Johnson,"1993,04,01",896,Danny Simmons,250,721,Tienda4
+20806817,2,charger smartphone,54644467,"1991,07,02",0,paloma city,Jaime,5487176,farleyhenry@example.org,-12.037964,-77.0503238,Carlos Downs,"1991,07,02",405,Mark Blanchard,753,159,Tienda4
+16319826,1,PC,70577791,"1998,12,07",0,paloma city,Jaime,20860796,burnskylie@example.com,-12.037964,-77.0503238,Samuel Anderson,"1998,12,07",882,James Bolton,292,143,Tienda4
+65430122,3,headphones,60532610,"2011,01,19",0,tierra de changua,POLOMBIA,29400313,luke08@example.org,4.648625,-74.1,Amy Cochran,"2011,01,19",74,Scott Abbott,920,2,Tienda4
+23229404,1,PC,67538044,"1979,09,02",4,paloma city,Jaime,35709440,erica77@example.com,-12.037964,-77.0503238,Allison Porter MD,"1979,09,02",79,Amanda Dixon,507,753,Tienda4
+23043484,3,headphones,24944806,"2014,11,02",0,MEDALLO,POLOMBIA,53743860,fgonzales@example.org,6.2441988,-75.6,Douglas Lawrence,"2014,11,02",233,Natasha Long,309,358,Tienda4
+82890173,1,PC,78426139,"1996,07,22",5,paloma city,Jaime,8703662,christinenewton@example.com,-12.037964,-77.0503238,Annette Sherman,"1996,07,22",421,William Greer,975,135,Tienda4
+38709778,1,PC,49509214,"1970,04,26",0,paloma city,Jaime,80969084,njordan@example.net,-12.037964,-77.0503238,Mark Flores,"1970,04,26",413,Charles Levy,911,917,Tienda4
+52045189,4,cases,64225259,"2014,01,03",3,MEDALLO,POLOMBIA,77427627,sabrina55@example.net,6.2441988,-75.6,Christina Stanley,"2014,01,03",97,Jorge Carter,301,80,Tienda4
+98478533,3,headphones,68319422,"2005,09,17",1,MEDALLO,POLOMBIA,33936953,andersonjennifer@example.com,6.2441988,-75.6,Linda Bell,"2005,09,17",397,Michael Bowen,951,404,Tienda4
+48877915,4,cases,15111773,"2012,05,15",0,paloma city,Jaime,29308767,amy91@example.net,-12.037964,-77.0503238,Mark Walls,"2012,05,15",396,Andrew Parker,429,505,Tienda4
+52039401,1,PC,24554938,"1982,08,16",0,paloma city,Jaime,15468035,tammy51@example.org,-12.037964,-77.0503238,Rachel Newman,"1982,08,16",83,Christian Powell,602,154,Tienda4
+43459502,4,cases,50861587,"2019,08,13",0,MEDALLO,POLOMBIA,48930685,gpineda@example.com,6.2441988,-75.6,Melissa Gonzalez,"2019,08,13",72,Keith Marshall,76,353,Tienda4
+84208314,1,PC,45561538,"2014,05,05",0,tierra de changua,POLOMBIA,44304265,scott34@example.net,4.648625,-74.1,Benjamin Sims,"2014,05,05",446,Paula Mitchell,6,712,Tienda4
+55154950,3,headphones,66176909,"1985,05,15",0,paloma city,Jaime,49036543,carlos44@example.com,-12.037964,-77.0503238,Justin Mcgee,"1985,05,15",476,John Ford,126,488,Tienda4
+28974507,1,PC,34404480,"1982,07,01",0,MEDALLO,POLOMBIA,49475924,kennethcarpenter@example.com,6.2441988,-75.6,Gabriella Olson,"1982,07,01",484,Earl Craig,420,776,Tienda4
+97362484,5,selfie stick,56797844,"1999,09,09",0,erda,POLOMBIA,94022993,ksmith@example.com,10.4002813,-75.5,Benjamin Gray,"1999,09,09",364,Dana Bailey,931,348,Tienda4
+90745889,3,headphones,45632739,"1980,09,03",0,erda,POLOMBIA,75409195,porterbecky@example.net,10.4002813,-75.5,Walter Stevens MD,"1980,09,03",504,Patricia White,317,116,Tienda4
+55941626,4,cases,63652555,"1976,02,20",0,paloma city,Jaime,84712702,cgarcia@example.org,-12.037964,-77.0503238,Paul Smith,"1976,02,20",922,Karen Rivas,246,169,Tienda4
+13058597,3,headphones,86615487,"2004,02,18",0,tierra de changua,POLOMBIA,66256940,sarah81@example.net,4.648625,-74.1,Kimberly Patel,"2004,02,18",840,Paul Barker,145,254,Tienda4
+17836402,2,charger smartphone,63158525,"1996,09,10",0,erda,POLOMBIA,65739639,ytaylor@example.com,10.4002813,-75.5,Peter Bowen,"1996,09,10",653,Jack Brooks,524,800,Tienda4
+38869904,1,PC,71404168,"2009,04,05",0,erda,POLOMBIA,53022359,david07@example.org,10.4002813,-75.5,Alexander Hernandez,"2009,04,05",39,Jason Martinez,742,748,Tienda4
+33078556,4,cases,50757060,"1992,08,07",0,erda,POLOMBIA,99355873,saramoore@example.net,10.4002813,-75.5,Sydney Smith,"1992,08,07",573,Cynthia Watkins,683,766,Tienda4
+58976778,3,headphones,98934033,"1994,02,24",0,MEDALLO,POLOMBIA,37592687,james75@example.net,6.2441988,-75.6,Mr. Bradley Love,"1994,02,24",942,Jacob Morris,841,290,Tienda4
+25841680,2,charger smartphone,4062300,"2000,03,17",0,tierra de changua,POLOMBIA,62892187,melissayates@example.net,4.648625,-74.1,Justin Kemp,"2000,03,17",893,Erin Shields,329,391,Tienda4
+45708056,2,charger smartphone,64127261,"1987,04,25",0,tierra de changua,POLOMBIA,87937758,christopherwood@example.com,4.648625,-74.1,Ryan Castro,"1987,04,25",844,Karla Hill,569,752,Tienda4
+47617904,5,selfie stick,71241432,"2014,09,24",0,MEDALLO,POLOMBIA,21322301,rsanchez@example.net,6.2441988,-75.6,Diane Rodriguez,"2014,09,24",533,Angela Moore,897,666,Tienda4
+6568398,3,headphones,61363319,"1987,05,13",0,tierra de changua,POLOMBIA,23573336,debra15@example.org,4.648625,-74.1,Teresa Hanson,"1987,05,13",571,David Rogers,76,103,Tienda4
+24301973,1,PC,46591720,"1981,08,21",0,MEDALLO,POLOMBIA,50503869,ccollins@example.org,6.2441988,-75.6,Courtney Green,"1981,08,21",411,Johnny Johnson,719,536,Tienda4
+41745605,2,charger smartphone,46112840,"2009,09,08",0,tierra de changua,POLOMBIA,45120278,barrettmargaret@example.org,4.648625,-74.1,Christine Moore,"2009,09,08",439,Victoria Horton,524,437,Tienda4
+84070735,2,charger smartphone,21962670,"1980,07,11",0,MEDALLO,POLOMBIA,76961516,michellelozano@example.net,6.2441988,-75.6,Cole Smith,"1980,07,11",910,Maria Steele,331,962,Tienda4
+72607608,1,PC,53201451,"1978,04,14",0,tierra de changua,POLOMBIA,5825021,nwagner@example.org,4.648625,-74.1,Rodney Waller,"1978,04,14",455,Vanessa Knight,151,795,Tienda4
+29294684,1,PC,20601768,"1987,02,11",0,tierra de changua,POLOMBIA,80953123,mark23@example.com,4.648625,-74.1,Samantha Martinez,"1987,02,11",585,Teresa Burnett,54,278,Tienda4
+8563054,3,headphones,55201296,"2012,10,03",0,MEDALLO,POLOMBIA,82786391,sean98@example.net,6.2441988,-75.6,Courtney Nguyen,"2012,10,03",731,Jennifer Fisher,166,518,Tienda4
+17403451,4,cases,77106319,"2002,09,28",0,tierra de changua,POLOMBIA,37572852,gharris@example.net,4.648625,-74.1,Laura Miller,"2002,09,28",928,Kristine Morgan,240,730,Tienda4
+83084830,5,selfie stick,18264738,"1971,07,08",0,paloma city,Jaime,67076187,heidi84@example.net,-12.037964,-77.0503238,Joshua Pitts,"1971,07,08",394,Kelsey Blake,55,994,Tienda4
+12054716,3,headphones,66891072,"1981,08,17",0,tierra de changua,POLOMBIA,9449972,milesjeremiah@example.net,4.648625,-74.1,Nicholas Clark,"1981,08,17",168,Edward Mcdaniel,485,895,Tienda4
+97354800,2,charger smartphone,52985367,"2000,12,11",0,MEDALLO,POLOMBIA,86995919,allisonmichelle@example.org,6.2441988,-75.6,Jessica Rocha,"2000,12,11",872,Mary Molina,738,519,Tienda4
+49507687,3,headphones,80350979,"1982,04,27",5,tierra de changua,POLOMBIA,61113940,patriciawilson@example.net,4.648625,-74.1,Cesar Powell,"1982,04,27",190,Jamie Swanson,296,433,Tienda4
+45519025,4,cases,27236712,"1985,05,09",0,MEDALLO,POLOMBIA,96069299,nmcbride@example.net,6.2441988,-75.6,Gregory Smith,"1985,05,09",2,Teresa Campbell,139,420,Tienda4
+63574540,4,cases,61626435,"2000,06,07",0,paloma city,Jaime,22149681,drew03@example.org,-12.037964,-77.0503238,Michael Thomas,"2000,06,07",650,Robert Cochran,856,741,Tienda4
+12970370,5,selfie stick,71631339,"1983,12,18",0,MEDALLO,POLOMBIA,64049687,jasonkim@example.org,6.2441988,-75.6,Timothy Johnson,"1983,12,18",153,George Hutchinson DDS,423,212,Tienda4
+97926210,1,PC,43126758,"2013,07,23",0,MEDALLO,POLOMBIA,81672494,thiggins@example.org,6.2441988,-75.6,Kurt Gallegos,"2013,07,23",43,Melissa Lee,290,521,Tienda4
+87174892,4,cases,8367707,"1976,08,18",4,paloma city,Jaime,98424829,hartgabrielle@example.org,-12.037964,-77.0503238,Angela Price,"1976,08,18",839,Calvin Bell,796,33,Tienda4
+16764659,1,PC,47978087,"1988,05,08",0,MEDALLO,POLOMBIA,2241093,donnaroberts@example.org,6.2441988,-75.6,Donna King,"1988,05,08",601,Nicole Avila,395,216,Tienda4

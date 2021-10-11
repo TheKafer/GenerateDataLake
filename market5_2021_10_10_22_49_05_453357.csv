@@ -1,0 +1,1001 @@
+Order_Id,Product_Id,Product_Name,User_Id,Order_Date,Return,City,Country,Client_Id,Client_Email,Order_Latitude,Order_Length,Client_Name,Birth_Day,Deliver_Man_Id,Name_Deliver_Man,Product_Cost,Product_Value,Market_Name
+93820657,7,redmi 9,43011482,2006.02.15,0,Rololandia,Pablito Escobar,41302745,andrew82@example.com,4.648625,-74.1,Becky Howell,2006.02.15,919,Sharon Powell,533,401,Tienda5
+54707728,7,redmi 9,33257787,1973.08.12,0,Rololandia,Pablito Escobar,39235439,uwells@example.org,4.648625,-74.1,Kara Thomas,1973.08.12,204,Walter Obrien,134,108,Tienda5
+76856814,2,redmi note 8,85667220,1994.12.26,0,Rololandia,Pablito Escobar,24785266,jack83@example.com,4.648625,-74.1,Justin Hill,1994.12.26,573,Sharon Anderson,807,643,Tienda5
+15323752,6,redmi 8,12078832,1991.03.16,0,Tierra del aleteo,Pablito Escobar,57309936,lucasharmon@example.org,6.2441988,-75.6,Holly Wolfe,1991.03.16,930,Robert Randolph,942,497,Tienda5
+87180889,3,redmi note 9,38686714,1994.09.07,0,La Calor,Pablito Escobar,15832529,ojackson@example.com,10.4002813,-75.5,Todd Garrett,1994.09.07,54,Jennifer Miller MD,7,459,Tienda5
+98116941,2,redmi note 8,56003641,2000.07.14,0,La Calor,Pablito Escobar,10340397,nicholasrodriguez@example.com,10.4002813,-75.5,Richard Tanner,2000.07.14,173,Jason Graham,687,914,Tienda5
+62333132,7,redmi 9,51921382,2013.03.25,0,Rololandia,Pablito Escobar,15593218,lgriffith@example.com,4.648625,-74.1,James Wright,2013.03.25,5,John Jones,308,740,Tienda5
+30038456,6,redmi 8,43406385,2002.01.14,0,La Calor,Pablito Escobar,4162993,lweber@example.net,10.4002813,-75.5,Erin Pena,2002.01.14,765,Duane Foster,904,864,Tienda5
+37664057,6,redmi 8,84846020,1992.01.19,0,La Calor,Pablito Escobar,4941291,paul28@example.net,10.4002813,-75.5,Scott Jones,1992.01.19,549,Robin Long,431,95,Tienda5
+87741547,5,redmi 7,83695596,1993.02.18,0,La Calor,Pablito Escobar,38450883,rodriguezwilliam@example.net,10.4002813,-75.5,Michael Rivera MD,1993.02.18,770,Patricia Reyes,872,968,Tienda5
+40068014,7,redmi 9,75768549,2010.12.28,0,machupichu,Palomas,68363683,graychristopher@example.org,-12.037964,-77.0503238,Tiffany Jones,2010.12.28,951,Tina Alexander,613,521,Tienda5
+67966317,1,redmi note 7,69412766,2006.09.28,0,Tierra del aleteo,Pablito Escobar,54836572,conniebrown@example.net,6.2441988,-75.6,Jay Robinson,2006.09.28,967,Melissa Smith,312,884,Tienda5
+32851740,5,redmi 7,13565332,1985.03.27,0,Tierra del aleteo,Pablito Escobar,9251047,ireed@example.net,6.2441988,-75.6,Margaret Thompson,1985.03.27,729,Cassandra Pierce,322,323,Tienda5
+13771851,5,redmi 7,21923403,2015.11.17,0,machupichu,Palomas,24449093,jordanvega@example.org,-12.037964,-77.0503238,Christopher Stevens,2015.11.17,462,Shane Roberts,489,777,Tienda5
+42334907,3,redmi note 9,72955826,1982.11.16,0,Tierra del aleteo,Pablito Escobar,71241164,echerry@example.net,6.2441988,-75.6,Penny Fernandez,1982.11.16,418,William Preston,962,677,Tienda5
+26812605,3,redmi note 9,96147596,2010.08.10,0,Rololandia,Pablito Escobar,4261395,sday@example.net,4.648625,-74.1,Marissa Hayden,2010.08.10,480,Randall Schmidt,322,195,Tienda5
+76550887,6,redmi 8,15080285,1984.11.17,0,Tierra del aleteo,Pablito Escobar,58537951,kristina60@example.org,6.2441988,-75.6,Mr. Aaron Matthews,1984.11.17,416,John Osborne,914,899,Tienda5
+77095647,3,redmi note 9,83393272,2015.12.30,0,Rololandia,Pablito Escobar,84461024,anitachambers@example.org,4.648625,-74.1,James Payne,2015.12.30,856,Richard Lopez,232,514,Tienda5
+5867272,1,redmi note 7,66302799,2016.09.26,0,Rololandia,Pablito Escobar,93727993,justinjones@example.com,4.648625,-74.1,Alexandra Ryan,2016.09.26,399,Ryan James,502,700,Tienda5
+67552668,5,redmi 7,16251912,1987.04.01,0,Tierra del aleteo,Pablito Escobar,499621,martinshelly@example.net,6.2441988,-75.6,Kelli Dunn,1987.04.01,48,Shane Flynn,368,35,Tienda5
+80657372,6,redmi 8,82442694,1990.08.31,0,machupichu,Palomas,73879605,jeffreysullivan@example.net,-12.037964,-77.0503238,Garrett Dickerson,1990.08.31,654,Christopher Howard,738,776,Tienda5
+27301145,6,redmi 8,70081028,1999.08.11,0,La Calor,Pablito Escobar,77434812,peteranderson@example.net,10.4002813,-75.5,Thomas Cook,1999.08.11,604,Sherry Stephens,632,375,Tienda5
+91583123,5,redmi 7,24554610,1983.07.15,0,machupichu,Palomas,8629694,ginaortiz@example.net,-12.037964,-77.0503238,Austin Williams,1983.07.15,524,Sarah Turner,800,76,Tienda5
+44165113,1,redmi note 7,29740336,2011.05.17,0,La Calor,Pablito Escobar,87779186,bryanmoore@example.org,10.4002813,-75.5,Larry Berger,2011.05.17,293,Jamie Allen,78,149,Tienda5
+24349645,7,redmi 9,62228560,1985.02.13,4,Tierra del aleteo,Pablito Escobar,46264941,alexis97@example.org,6.2441988,-75.6,Frank Lee,1985.02.13,342,Eileen Griffin,156,358,Tienda5
+71411199,6,redmi 8,32211953,2019.06.29,0,Tierra del aleteo,Pablito Escobar,77626644,angelacarr@example.org,6.2441988,-75.6,Kevin King,2019.06.29,351,Jacob Martinez,460,26,Tienda5
+58178778,7,redmi 9,14445328,1993.01.03,0,La Calor,Pablito Escobar,58405889,mrobinson@example.net,10.4002813,-75.5,Travis Acosta,1993.01.03,226,Paula Nguyen,219,691,Tienda5
+9964634,4,redmie note 9s,31630708,2021.10.01,0,Tierra del aleteo,Pablito Escobar,59725405,kimberly04@example.org,6.2441988,-75.6,James Middleton,2021.10.01,414,Amber Jimenez,381,615,Tienda5
+80927054,1,redmi note 7,7588619,2021.05.11,0,machupichu,Palomas,90151129,xhenry@example.com,-12.037964,-77.0503238,Tyler Joseph,2021.05.11,311,Duane Johnson,78,948,Tienda5
+78743254,6,redmi 8,45968381,1983.09.23,0,machupichu,Palomas,62736840,campbellsusan@example.net,-12.037964,-77.0503238,Jay Sims,1983.09.23,429,Casey Anderson,794,63,Tienda5
+30529186,7,redmi 9,25868264,2008.08.27,0,Rololandia,Pablito Escobar,25910008,christopher70@example.com,4.648625,-74.1,Robert Cabrera,2008.08.27,742,Matthew Long,824,841,Tienda5
+69277049,4,redmie note 9s,54719807,2011.07.26,0,Tierra del aleteo,Pablito Escobar,59056680,melody54@example.org,6.2441988,-75.6,Barry Figueroa,2011.07.26,426,Michael Hancock,622,35,Tienda5
+35396439,7,redmi 9,9002019,1970.07.30,0,Tierra del aleteo,Pablito Escobar,18492436,brittanysmith@example.com,6.2441988,-75.6,Daniel Mcclain,1970.07.30,909,James Mcdaniel,213,232,Tienda5
+79823171,1,redmi note 7,92964297,1998.07.24,0,Rololandia,Pablito Escobar,81169319,frhodes@example.com,4.648625,-74.1,Daniel Smith,1998.07.24,879,Christopher Cummings,174,997,Tienda5
+18075286,2,redmi note 8,18798192,2010.02.17,0,Rololandia,Pablito Escobar,58899219,bennettmichael@example.net,4.648625,-74.1,Ebony Williams,2010.02.17,745,Sandra Campos,733,359,Tienda5
+37899982,6,redmi 8,84587913,1995.12.01,0,machupichu,Palomas,60236964,michael06@example.net,-12.037964,-77.0503238,Courtney Taylor,1995.12.01,694,Andrew Thomas,148,395,Tienda5
+98054331,5,redmi 7,41237080,1977.10.12,0,Rololandia,Pablito Escobar,59244465,juliawatson@example.org,4.648625,-74.1,Brandon Hurst,1977.10.12,658,Kristen Torres,234,802,Tienda5
+97447530,5,redmi 7,45960739,1994.03.02,0,La Calor,Pablito Escobar,91623813,michelle76@example.org,10.4002813,-75.5,Mia Massey,1994.03.02,89,Jessica Henry,389,213,Tienda5
+46982870,3,redmi note 9,27513692,1971.03.14,2,Tierra del aleteo,Pablito Escobar,54957918,hollowayjamie@example.org,6.2441988,-75.6,Kelly Owens DDS,1971.03.14,156,Kevin Young,874,906,Tienda5
+68727794,4,redmie note 9s,89344206,2014.10.13,0,La Calor,Pablito Escobar,46388876,henryamy@example.com,10.4002813,-75.5,Eddie Cummings,2014.10.13,413,Alice Jackson,119,1000,Tienda5
+83487880,2,redmi note 8,11598853,1993.10.29,0,machupichu,Palomas,14298921,patricia55@example.org,-12.037964,-77.0503238,Wyatt Hicks,1993.10.29,270,Jonathan Owens,645,995,Tienda5
+13657372,5,redmi 7,98410117,1976.11.18,2,La Calor,Pablito Escobar,95729726,beckbrittney@example.org,10.4002813,-75.5,Latasha Scott,1976.11.18,702,Theodore Caldwell,93,665,Tienda5
+92523812,2,redmi note 8,99156167,2013.10.17,0,Rololandia,Pablito Escobar,32989966,jonesmarie@example.com,4.648625,-74.1,Ana Smith,2013.10.17,547,Whitney Bell,24,724,Tienda5
+83956517,4,redmie note 9s,4016850,1998.06.17,1,Tierra del aleteo,Pablito Escobar,85242338,tiffanyharvey@example.com,6.2441988,-75.6,Nicole Lee,1998.06.17,130,Anna Jimenez,754,287,Tienda5
+98718991,3,redmi note 9,54735184,2000.01.31,0,La Calor,Pablito Escobar,29979211,brooksjessica@example.com,10.4002813,-75.5,Melissa Simmons,2000.01.31,646,Jamie Farrell,321,60,Tienda5
+38215840,3,redmi note 9,37876270,1970.08.29,0,La Calor,Pablito Escobar,79604054,cking@example.com,10.4002813,-75.5,Lindsey Copeland,1970.08.29,679,Kimberly Ross,114,408,Tienda5
+2835553,7,redmi 9,59661097,1973.02.05,0,machupichu,Palomas,69004417,brianavance@example.org,-12.037964,-77.0503238,Mary Murphy,1973.02.05,249,Teresa Moon,718,851,Tienda5
+78032574,5,redmi 7,21944568,2005.10.12,0,La Calor,Pablito Escobar,25639281,jennifer44@example.com,10.4002813,-75.5,Anthony Doyle,2005.10.12,321,Tammy Smith,954,493,Tienda5
+4617209,1,redmi note 7,25294654,1995.12.03,0,Tierra del aleteo,Pablito Escobar,97295172,timothy61@example.com,6.2441988,-75.6,Mitchell Benson MD,1995.12.03,179,Diana Cantrell,885,1,Tienda5
+63722871,4,redmie note 9s,41666008,1998.10.10,0,Tierra del aleteo,Pablito Escobar,99316243,xthomas@example.com,6.2441988,-75.6,Doris Harris,1998.10.10,708,Peter Mason,798,638,Tienda5
+5548486,4,redmie note 9s,49366257,1970.01.19,0,Rololandia,Pablito Escobar,79769319,matthew90@example.net,4.648625,-74.1,Gary Douglas,1970.01.19,252,Brian Myers,120,382,Tienda5
+10322079,2,redmi note 8,74209381,1972.10.30,0,La Calor,Pablito Escobar,16007967,rachel80@example.org,10.4002813,-75.5,Monica Daniel,1972.10.30,549,Kristie Nelson,713,195,Tienda5
+91017082,2,redmi note 8,18561995,1981.06.16,0,La Calor,Pablito Escobar,29902077,sandraroberts@example.com,10.4002813,-75.5,Taylor Novak,1981.06.16,763,Brad Robles,108,483,Tienda5
+17004834,2,redmi note 8,79749891,1997.11.08,5,La Calor,Pablito Escobar,23781883,stacyhogan@example.com,10.4002813,-75.5,Kimberly Larsen,1997.11.08,862,Kristine Wang,592,672,Tienda5
+15361318,4,redmie note 9s,20403872,1981.08.19,0,La Calor,Pablito Escobar,19105995,pughjustin@example.net,10.4002813,-75.5,Pamela Bartlett,1981.08.19,181,Sarah Sparks,778,39,Tienda5
+53415105,1,redmi note 7,13836582,1981.04.21,0,La Calor,Pablito Escobar,86348700,harrismaria@example.org,10.4002813,-75.5,Jordan Young,1981.04.21,640,Sharon Payne,247,235,Tienda5
+9966528,3,redmi note 9,5698706,2017.11.15,0,machupichu,Palomas,93760543,alyssasmith@example.com,-12.037964,-77.0503238,Christina Webb,2017.11.15,63,Felicia Freeman,111,490,Tienda5
+62268376,5,redmi 7,38332063,1990.02.27,0,La Calor,Pablito Escobar,59356739,shawn60@example.org,10.4002813,-75.5,Gloria White,1990.02.27,902,Tony Simmons,218,481,Tienda5
+45383069,2,redmi note 8,91531826,1980.07.28,0,Rololandia,Pablito Escobar,78479208,markpadilla@example.org,4.648625,-74.1,Christopher Kim,1980.07.28,849,John Kirk,616,804,Tienda5
+45587313,4,redmie note 9s,27604376,1975.03.05,0,Rololandia,Pablito Escobar,30874910,coltonsanchez@example.com,4.648625,-74.1,Tammy Moore,1975.03.05,426,Nicole Price,58,27,Tienda5
+58264555,5,redmi 7,58147298,1972.08.20,0,Rololandia,Pablito Escobar,49967726,tracey76@example.com,4.648625,-74.1,Ronald Gilbert,1972.08.20,288,John Green,452,811,Tienda5
+51133508,3,redmi note 9,89125453,1988.08.23,0,machupichu,Palomas,8920563,sfreeman@example.net,-12.037964,-77.0503238,Danielle Brooks,1988.08.23,57,Christopher Smith,595,717,Tienda5
+77044989,4,redmie note 9s,31852093,1984.01.04,0,La Calor,Pablito Escobar,54272400,hodgesdennis@example.com,10.4002813,-75.5,Nathaniel Barber,1984.01.04,287,Anthony Campbell,557,432,Tienda5
+70385173,3,redmi note 9,22449454,1996.11.02,0,Tierra del aleteo,Pablito Escobar,46027322,lweeks@example.net,6.2441988,-75.6,Dustin Patterson,1996.11.02,554,William Strong,792,154,Tienda5
+95999937,1,redmi note 7,48021125,2000.03.12,0,Rololandia,Pablito Escobar,23614128,bstone@example.org,4.648625,-74.1,Robert Miller,2000.03.12,834,Justin Jordan,140,233,Tienda5
+32080782,5,redmi 7,50945133,2017.08.01,0,La Calor,Pablito Escobar,26623451,wardanthony@example.net,10.4002813,-75.5,Dana Lee,2017.08.01,774,Jennifer Abbott,228,853,Tienda5
+79586100,5,redmi 7,47050190,1980.05.27,0,La Calor,Pablito Escobar,75648202,kellyrobertson@example.com,10.4002813,-75.5,Colleen Johnson,1980.05.27,171,Michael Russell,741,353,Tienda5
+8322176,1,redmi note 7,2957126,2010.12.27,0,machupichu,Palomas,28560225,jessica60@example.com,-12.037964,-77.0503238,Dawn Fischer,2010.12.27,895,Shawn Snyder,581,447,Tienda5
+34450520,4,redmie note 9s,58062541,1998.09.25,0,Tierra del aleteo,Pablito Escobar,45876180,deborah38@example.org,6.2441988,-75.6,David Higgins,1998.09.25,754,Karen Wilson,771,98,Tienda5
+35121015,6,redmi 8,42833517,1995.02.04,1,machupichu,Palomas,60414813,nathanestes@example.net,-12.037964,-77.0503238,Jonathan Bryant,1995.02.04,875,Bianca White,193,794,Tienda5
+71644160,4,redmie note 9s,17604038,1999.06.20,0,La Calor,Pablito Escobar,51911507,michael37@example.com,10.4002813,-75.5,Margaret Webb,1999.06.20,261,Valerie Moreno,121,699,Tienda5
+34965476,4,redmie note 9s,4254855,2011.08.29,0,Tierra del aleteo,Pablito Escobar,87380824,chris15@example.net,6.2441988,-75.6,Jeffrey Morris,2011.08.29,915,David Bowen,930,402,Tienda5
+45593838,1,redmi note 7,16582247,1995.07.25,2,machupichu,Palomas,73583848,ulee@example.net,-12.037964,-77.0503238,David Ortiz,1995.07.25,731,Jillian Martin,74,244,Tienda5
+84089922,1,redmi note 7,76416429,1981.05.28,2,machupichu,Palomas,68954351,teresa60@example.com,-12.037964,-77.0503238,Katherine Romero,1981.05.28,549,Scott Brown,904,404,Tienda5
+9763547,7,redmi 9,47123861,2012.11.30,0,Tierra del aleteo,Pablito Escobar,40134260,daniel15@example.org,6.2441988,-75.6,Christina Pierce MD,2012.11.30,4,David Allen,235,504,Tienda5
+29474703,5,redmi 7,72263726,1987.07.12,0,machupichu,Palomas,9595241,latasha51@example.com,-12.037964,-77.0503238,Julie Thornton,1987.07.12,716,Geoffrey Smith,212,146,Tienda5
+19763288,3,redmi note 9,40976720,1982.10.11,0,La Calor,Pablito Escobar,19406820,ekeith@example.net,10.4002813,-75.5,Christopher Hoover,1982.10.11,658,Danielle Williams,657,385,Tienda5
+36652550,3,redmi note 9,82626797,1996.02.25,0,La Calor,Pablito Escobar,30833381,zjohnson@example.org,10.4002813,-75.5,Kimberly Long,1996.02.25,675,Crystal Dennis,262,566,Tienda5
+62148279,7,redmi 9,94557666,2001.06.18,0,Tierra del aleteo,Pablito Escobar,91091964,brandy69@example.org,6.2441988,-75.6,Robert Garcia,2001.06.18,250,Jessica Nguyen,104,903,Tienda5
+49887994,6,redmi 8,43765705,1997.04.30,0,Tierra del aleteo,Pablito Escobar,1737342,jacksonjeffrey@example.org,6.2441988,-75.6,Mark Klein,1997.04.30,179,Alicia Reynolds,372,892,Tienda5
+4554908,7,redmi 9,42322123,1973.05.06,0,Rololandia,Pablito Escobar,47040487,veronicaschwartz@example.com,4.648625,-74.1,Steve Mccoy,1973.05.06,469,Kimberly Nelson,477,701,Tienda5
+74292674,6,redmi 8,11447342,1983.09.24,0,La Calor,Pablito Escobar,22123299,aguilartroy@example.net,10.4002813,-75.5,Rachel Harris,1983.09.24,197,Mr. Kenneth Nicholson MD,187,38,Tienda5
+88339036,3,redmi note 9,90341743,2000.03.11,0,La Calor,Pablito Escobar,20289427,sritter@example.net,10.4002813,-75.5,Emily Lang,2000.03.11,403,Karen Roth,948,356,Tienda5
+95683482,6,redmi 8,44315694,1979.06.04,0,machupichu,Palomas,64766744,dylan10@example.org,-12.037964,-77.0503238,Rachel Warren,1979.06.04,402,Jason Lee,346,925,Tienda5
+64752961,7,redmi 9,79699471,1976.05.28,2,Tierra del aleteo,Pablito Escobar,9222129,mitchellelaine@example.net,6.2441988,-75.6,Linda Browning,1976.05.28,680,Erica Smith,206,830,Tienda5
+74562210,5,redmi 7,57090851,1976.10.10,0,Tierra del aleteo,Pablito Escobar,3544077,bernarddonald@example.com,6.2441988,-75.6,Angela Guzman,1976.10.10,830,Scott Stokes,247,772,Tienda5
+86132455,1,redmi note 7,12186113,1996.04.17,0,La Calor,Pablito Escobar,31011336,ngibson@example.org,10.4002813,-75.5,Kimberly Webb,1996.04.17,959,Benjamin Fisher,279,152,Tienda5
+19281611,3,redmi note 9,33225477,1990.06.19,0,La Calor,Pablito Escobar,62582608,rebecca02@example.net,10.4002813,-75.5,Julia Clark,1990.06.19,681,Jason King,725,457,Tienda5
+38694425,5,redmi 7,44556094,2012.01.17,0,Tierra del aleteo,Pablito Escobar,78381440,wallacelori@example.com,6.2441988,-75.6,Brett Green,2012.01.17,318,David Carter,864,982,Tienda5
+87043589,3,redmi note 9,72157720,1972.11.11,0,La Calor,Pablito Escobar,64305149,daniel96@example.org,10.4002813,-75.5,Jennifer Brown,1972.11.11,738,Katrina Olson,803,139,Tienda5
+89876784,5,redmi 7,57474093,1972.07.21,0,Tierra del aleteo,Pablito Escobar,42077941,lbarrett@example.com,6.2441988,-75.6,Sean Gill,1972.07.21,869,Anne Wong,525,601,Tienda5
+2164935,1,redmi note 7,72342160,2018.10.22,3,Tierra del aleteo,Pablito Escobar,66759842,mshaw@example.net,6.2441988,-75.6,Rita Bowers,2018.10.22,200,Melissa Allen,949,252,Tienda5
+73073192,3,redmi note 9,18842311,1997.02.28,0,Tierra del aleteo,Pablito Escobar,47771751,oconrad@example.com,6.2441988,-75.6,Andrew Walker,1997.02.28,395,Linda Jefferson,876,656,Tienda5
+25333380,3,redmi note 9,83955559,2000.02.15,0,La Calor,Pablito Escobar,538421,fletcherandrea@example.com,10.4002813,-75.5,Michaela Davidson,2000.02.15,276,Mark Webster,276,797,Tienda5
+82384654,2,redmi note 8,56410510,1997.03.09,0,Tierra del aleteo,Pablito Escobar,41039549,uwright@example.org,6.2441988,-75.6,Daniel Willis,1997.03.09,524,Jose Frost,141,406,Tienda5
+33084401,7,redmi 9,48860428,1997.12.04,3,La Calor,Pablito Escobar,30512938,anthony71@example.org,10.4002813,-75.5,Joe Jenkins,1997.12.04,180,William Bell,279,290,Tienda5
+69996315,7,redmi 9,34176484,2006.07.10,0,Rololandia,Pablito Escobar,13358184,kylerojas@example.org,4.648625,-74.1,Leslie Clark,2006.07.10,320,Tammy Johnson,822,770,Tienda5
+12413907,4,redmie note 9s,21131656,1994.04.02,0,Tierra del aleteo,Pablito Escobar,89294368,ngill@example.com,6.2441988,-75.6,Heather Graham,1994.04.02,61,Amanda Ochoa,316,717,Tienda5
+30616995,7,redmi 9,30626066,1992.01.02,0,Tierra del aleteo,Pablito Escobar,70519769,bjackson@example.net,6.2441988,-75.6,Donald Mason,1992.01.02,686,Ashley Luna,236,346,Tienda5
+84621307,5,redmi 7,65587456,1976.04.25,0,La Calor,Pablito Escobar,20526757,brandicampbell@example.com,10.4002813,-75.5,James Carrillo,1976.04.25,382,Vincent Sims,303,600,Tienda5
+13232589,4,redmie note 9s,15429658,2005.08.08,0,Tierra del aleteo,Pablito Escobar,95631322,sandrarodgers@example.org,6.2441988,-75.6,David Thornton,2005.08.08,6,Christina Garcia,966,985,Tienda5
+17130375,2,redmi note 8,44441229,1992.01.11,0,Tierra del aleteo,Pablito Escobar,13246823,caitlinroach@example.org,6.2441988,-75.6,Cody Luna,1992.01.11,8,Daniel Porter,467,233,Tienda5
+81004680,7,redmi 9,98090624,1983.05.20,0,Tierra del aleteo,Pablito Escobar,57223246,castillosarah@example.net,6.2441988,-75.6,Christina Weaver,1983.05.20,83,Joseph Lindsey,796,673,Tienda5
+67015684,4,redmie note 9s,41781089,1998.11.30,0,Tierra del aleteo,Pablito Escobar,57754935,robert80@example.com,6.2441988,-75.6,Michael Williams,1998.11.30,886,Samantha Poole,73,460,Tienda5
+61653526,4,redmie note 9s,72428472,2010.12.08,0,Rololandia,Pablito Escobar,19901000,ucordova@example.net,4.648625,-74.1,Mrs. Patricia Moore,2010.12.08,292,Brenda Smith,218,640,Tienda5
+68374207,6,redmi 8,20663380,1974.01.08,0,La Calor,Pablito Escobar,51285378,nhunter@example.org,10.4002813,-75.5,Kyle Joseph,1974.01.08,701,Brenda Preston,354,706,Tienda5
+94834411,6,redmi 8,35114703,2016.06.16,0,machupichu,Palomas,90304961,iburgess@example.net,-12.037964,-77.0503238,Christopher Miller,2016.06.16,452,Christine Terry,48,1,Tienda5
+69673085,4,redmie note 9s,67346892,2018.01.01,0,Tierra del aleteo,Pablito Escobar,35391214,jonathan52@example.org,6.2441988,-75.6,Angela Wells,2018.01.01,372,Mackenzie Wright,577,700,Tienda5
+19025768,5,redmi 7,98690268,2009.07.02,4,Rololandia,Pablito Escobar,55083337,russell76@example.org,4.648625,-74.1,Jacob Miller,2009.07.02,510,Michelle Jennings,838,254,Tienda5
+66463102,3,redmi note 9,31584602,2013.01.21,0,Tierra del aleteo,Pablito Escobar,51302751,kylefleming@example.org,6.2441988,-75.6,Kristen Luna,2013.01.21,107,Molly Anderson DVM,169,956,Tienda5
+20549470,1,redmi note 7,23423445,1984.10.10,0,Tierra del aleteo,Pablito Escobar,75713209,njackson@example.org,6.2441988,-75.6,Christine Roberts,1984.10.10,63,Felicia Perry,611,669,Tienda5
+19913448,5,redmi 7,59173887,2008.03.04,0,machupichu,Palomas,67793700,qvega@example.org,-12.037964,-77.0503238,Donna Perry,2008.03.04,350,Cody Bennett,195,340,Tienda5
+62823451,5,redmi 7,19067160,1984.12.12,0,La Calor,Pablito Escobar,59479244,nhill@example.org,10.4002813,-75.5,Brian Curry,1984.12.12,115,Rachel Gregory,263,208,Tienda5
+88857166,7,redmi 9,21544857,1992.03.30,0,La Calor,Pablito Escobar,85468179,rbaker@example.net,10.4002813,-75.5,Darren Howe,1992.03.30,749,Daniel Miller,404,284,Tienda5
+95637316,1,redmi note 7,85201268,2010.04.17,0,machupichu,Palomas,63654666,shelbydawson@example.com,-12.037964,-77.0503238,Christopher West,2010.04.17,690,Shawn Carroll,470,168,Tienda5
+25993842,1,redmi note 7,3864532,2021.08.19,0,Rololandia,Pablito Escobar,97327756,jeffreymontgomery@example.org,4.648625,-74.1,Michelle Dixon,2021.08.19,312,Dana Brooks,269,813,Tienda5
+74464978,2,redmi note 8,91216395,2018.11.30,0,Rololandia,Pablito Escobar,76911587,tylerchen@example.net,4.648625,-74.1,Ashley Johnson,2018.11.30,363,Stephanie Burton,990,962,Tienda5
+98599139,2,redmi note 8,19208874,1984.11.01,0,La Calor,Pablito Escobar,53669202,charles02@example.net,10.4002813,-75.5,Laura Thompson,1984.11.01,253,Bianca Shelton,559,588,Tienda5
+3289149,7,redmi 9,36110290,1980.12.17,0,Tierra del aleteo,Pablito Escobar,55470675,pettyamber@example.net,6.2441988,-75.6,Donna Nicholson,1980.12.17,567,Rhonda Long,432,313,Tienda5
+64038884,7,redmi 9,40874630,1985.06.28,2,Rololandia,Pablito Escobar,36934779,samuelwoods@example.com,4.648625,-74.1,Mark Wilkins,1985.06.28,489,Timothy Jimenez,200,469,Tienda5
+65674310,5,redmi 7,91630704,1979.10.05,0,La Calor,Pablito Escobar,41167274,jamesmartin@example.org,10.4002813,-75.5,Susan White,1979.10.05,611,Mary Johnson,314,845,Tienda5
+32936534,7,redmi 9,53230971,2014.02.19,0,Rololandia,Pablito Escobar,56632869,estradajerry@example.net,4.648625,-74.1,Benjamin Johnson,2014.02.19,380,Chad Butler,716,662,Tienda5
+91707375,1,redmi note 7,68020244,2015.04.04,0,machupichu,Palomas,86252430,chloegates@example.com,-12.037964,-77.0503238,Julia Richards,2015.04.04,35,Patricia Knight,619,898,Tienda5
+49426320,7,redmi 9,85540858,2004.06.19,0,machupichu,Palomas,34065483,susanmorales@example.net,-12.037964,-77.0503238,Julie Tapia,2004.06.19,600,Robert Gonzalez,730,320,Tienda5
+28370351,7,redmi 9,17613968,1987.12.31,0,Tierra del aleteo,Pablito Escobar,60946780,ricesarah@example.org,6.2441988,-75.6,Jane Mcneil,1987.12.31,659,Brandon Webb,930,419,Tienda5
+3829586,4,redmie note 9s,44722906,2010.05.30,0,Rololandia,Pablito Escobar,22701933,danamartin@example.net,4.648625,-74.1,Robin Ayala,2010.05.30,440,Ms. Sandra Turner,849,823,Tienda5
+27064499,5,redmi 7,3782759,1980.06.17,0,machupichu,Palomas,66203750,reevesfrank@example.net,-12.037964,-77.0503238,Kara Brown,1980.06.17,557,Jesse Fox,140,602,Tienda5
+88970501,4,redmie note 9s,80982208,1970.11.23,0,machupichu,Palomas,82197512,carmstrong@example.org,-12.037964,-77.0503238,Desiree Wallace,1970.11.23,856,Alfred Burns,97,995,Tienda5
+31797490,3,redmi note 9,64287060,1980.02.04,2,machupichu,Palomas,23765151,jenniferbartlett@example.net,-12.037964,-77.0503238,Deborah Harris,1980.02.04,276,Mark Burke,388,432,Tienda5
+11325288,6,redmi 8,67634912,1977.02.01,0,Tierra del aleteo,Pablito Escobar,95940721,michaelreynolds@example.net,6.2441988,-75.6,Sean Jackson,1977.02.01,304,Daniel Allen,78,524,Tienda5
+14300045,3,redmi note 9,26904588,2014.08.26,0,Rololandia,Pablito Escobar,1739529,saundersanna@example.net,4.648625,-74.1,Deborah Wood,2014.08.26,511,Shannon Dawson,863,817,Tienda5
+92418803,4,redmie note 9s,50354701,1989.04.07,0,La Calor,Pablito Escobar,56699094,ustevenson@example.org,10.4002813,-75.5,Joseph Williams,1989.04.07,228,Paul Kennedy,891,448,Tienda5
+11508712,3,redmi note 9,76997751,1979.04.15,0,Tierra del aleteo,Pablito Escobar,29790832,coopercarl@example.com,6.2441988,-75.6,Gary Clark,1979.04.15,864,Diana Shepherd,952,135,Tienda5
+49661985,7,redmi 9,94879656,1975.12.18,0,La Calor,Pablito Escobar,20384542,nadams@example.com,10.4002813,-75.5,Ashley Green,1975.12.18,791,William Kelly,556,65,Tienda5
+71516077,5,redmi 7,59990339,2008.10.06,0,machupichu,Palomas,83087077,stephaniesmith@example.com,-12.037964,-77.0503238,Jackie Jones,2008.10.06,220,Peter Carr,639,448,Tienda5
+36144148,7,redmi 9,62962766,2014.08.02,0,Tierra del aleteo,Pablito Escobar,98584087,francisgarcia@example.org,6.2441988,-75.6,Evelyn Pham,2014.08.02,459,Frank Martin,12,319,Tienda5
+18137108,1,redmi note 7,90130288,1973.07.10,0,La Calor,Pablito Escobar,75471505,eric88@example.net,10.4002813,-75.5,Dawn Sharp,1973.07.10,581,Claudia Arnold,515,128,Tienda5
+78240384,1,redmi note 7,33543876,2000.07.31,0,machupichu,Palomas,75154764,peterwhite@example.com,-12.037964,-77.0503238,Kevin Lawson,2000.07.31,952,Joan Michael,685,226,Tienda5
+47776681,4,redmie note 9s,37377301,1984.01.15,0,La Calor,Pablito Escobar,22356910,igutierrez@example.org,10.4002813,-75.5,Laura Brown,1984.01.15,130,Jennifer Moore,60,357,Tienda5
+194053,6,redmi 8,14574509,2021.04.27,0,La Calor,Pablito Escobar,20188635,boydrobert@example.com,10.4002813,-75.5,Troy Small,2021.04.27,946,Juan Meadows,112,136,Tienda5
+65402494,6,redmi 8,26304986,2012.11.14,0,Tierra del aleteo,Pablito Escobar,43499964,brian87@example.org,6.2441988,-75.6,Aaron Roberson,2012.11.14,159,Stephanie Hoffman,81,486,Tienda5
+60585386,4,redmie note 9s,92145409,2006.01.23,0,Rololandia,Pablito Escobar,26156953,zunigarandy@example.com,4.648625,-74.1,Janet Gutierrez,2006.01.23,310,Tyrone Dean,248,696,Tienda5
+97698236,5,redmi 7,77826654,1991.06.16,3,Rololandia,Pablito Escobar,4501299,jessicaharris@example.org,4.648625,-74.1,Peter Torres,1991.06.16,786,Brandon Rivas,647,48,Tienda5
+19925633,3,redmi note 9,17075749,2016.10.17,0,La Calor,Pablito Escobar,13823451,derrickhester@example.org,10.4002813,-75.5,Lisa Padilla,2016.10.17,891,Adam Thomas,895,191,Tienda5
+84347816,2,redmi note 8,75866266,1970.12.01,0,La Calor,Pablito Escobar,16775944,jefferyblackwell@example.net,10.4002813,-75.5,Julie Reyes,1970.12.01,520,David Cummings,473,319,Tienda5
+21288104,2,redmi note 8,53253365,1971.03.05,0,machupichu,Palomas,2948093,uryan@example.net,-12.037964,-77.0503238,Bryan Jones,1971.03.05,828,Douglas Anderson,703,518,Tienda5
+58355552,4,redmie note 9s,92015151,2008.06.11,0,La Calor,Pablito Escobar,99836236,danielcarter@example.org,10.4002813,-75.5,Samantha Rush,2008.06.11,88,Kenneth Roman,30,63,Tienda5
+29142441,3,redmi note 9,32036810,2014.12.31,5,Rololandia,Pablito Escobar,75469917,growe@example.org,4.648625,-74.1,Shirley Martin,2014.12.31,583,Eric Johnson,693,441,Tienda5
+10382931,6,redmi 8,85257995,1988.01.18,0,La Calor,Pablito Escobar,86616712,annacross@example.com,10.4002813,-75.5,Krista Walter,1988.01.18,186,Melissa Washington,244,170,Tienda5
+20605875,7,redmi 9,44983600,2000.11.19,0,machupichu,Palomas,7583931,bryan70@example.org,-12.037964,-77.0503238,Jordan Serrano,2000.11.19,255,Susan Choi,422,947,Tienda5
+82988792,6,redmi 8,28622368,1986.07.03,3,machupichu,Palomas,89762901,chad91@example.com,-12.037964,-77.0503238,Amy Rivera,1986.07.03,511,Christopher Wells,895,1,Tienda5
+53235330,6,redmi 8,90847777,1982.03.10,0,La Calor,Pablito Escobar,18429934,castillotyler@example.com,10.4002813,-75.5,Douglas Lewis,1982.03.10,999,Crystal Sharp,709,354,Tienda5
+68274666,4,redmie note 9s,2455279,1981.02.01,0,Rololandia,Pablito Escobar,18496873,turnercharles@example.com,4.648625,-74.1,Louis Johnson,1981.02.01,545,Brooke Martinez,517,952,Tienda5
+586204,3,redmi note 9,19121854,1994.01.21,0,Rololandia,Pablito Escobar,95598279,clarkdeborah@example.net,4.648625,-74.1,Richard Miller,1994.01.21,579,Teresa Wagner,4,535,Tienda5
+44791741,3,redmi note 9,98119000,2001.07.04,0,machupichu,Palomas,69941470,teresalawson@example.net,-12.037964,-77.0503238,James Harvey,2001.07.04,381,Kyle Jenkins,240,862,Tienda5
+97595602,1,redmi note 7,56855935,1982.06.13,0,La Calor,Pablito Escobar,32178175,christina23@example.com,10.4002813,-75.5,Julie Mcconnell,1982.06.13,770,Stuart Rocha,181,442,Tienda5
+34385607,3,redmi note 9,13285164,2020.05.19,0,machupichu,Palomas,74987843,maldonadoadrian@example.net,-12.037964,-77.0503238,Katherine Ross,2020.05.19,855,Jacob Pruitt,83,658,Tienda5
+70983087,6,redmi 8,92060645,2001.02.21,0,Tierra del aleteo,Pablito Escobar,38979509,barbarastokes@example.com,6.2441988,-75.6,Charles Hurley,2001.02.21,557,David Flores,955,447,Tienda5
+48142816,6,redmi 8,43678835,1978.08.19,0,La Calor,Pablito Escobar,36181122,marybrown@example.org,10.4002813,-75.5,Rebekah Young,1978.08.19,16,Vanessa Howell,692,246,Tienda5
+51802617,4,redmie note 9s,74233508,2007.02.12,0,Rololandia,Pablito Escobar,51729275,porterelizabeth@example.net,4.648625,-74.1,Tyler Leon,2007.02.12,900,Lisa Long,306,6,Tienda5
+93235041,7,redmi 9,91016502,2015.12.03,0,Rololandia,Pablito Escobar,1919732,josephbarry@example.org,4.648625,-74.1,Elizabeth Young,2015.12.03,516,Alexis Gonzales,21,304,Tienda5
+65657061,5,redmi 7,15364232,1997.07.29,0,machupichu,Palomas,83402896,dcalderon@example.org,-12.037964,-77.0503238,Robert James,1997.07.29,853,Diane Barrera,768,253,Tienda5
+64783329,6,redmi 8,13077678,1983.12.11,0,Rololandia,Pablito Escobar,80804967,mistywhitaker@example.com,4.648625,-74.1,Patrick Perkins,1983.12.11,841,Robert Henry,689,266,Tienda5
+67114069,2,redmi note 8,97265850,1983.10.25,0,Rololandia,Pablito Escobar,3566309,vazquezadam@example.org,4.648625,-74.1,Alicia Thornton,1983.10.25,410,Dr. Peggy Phillips MD,579,434,Tienda5
+35121783,7,redmi 9,35632326,1980.04.24,0,machupichu,Palomas,31672599,cbrown@example.org,-12.037964,-77.0503238,Kathleen Woods,1980.04.24,165,Larry Coleman,595,324,Tienda5
+77388832,1,redmi note 7,8626762,1998.08.28,0,La Calor,Pablito Escobar,57557550,jamie57@example.net,10.4002813,-75.5,Frank Leonard,1998.08.28,332,Justin Harris,218,198,Tienda5
+6338634,1,redmi note 7,61347655,1978.06.03,0,Tierra del aleteo,Pablito Escobar,33230921,david26@example.net,6.2441988,-75.6,Douglas Cobb,1978.06.03,507,Matthew Holt,165,368,Tienda5
+59420130,4,redmie note 9s,94422131,1974.06.03,1,La Calor,Pablito Escobar,36702849,michael91@example.net,10.4002813,-75.5,Rebekah Brown,1974.06.03,211,Anthony Anderson,98,974,Tienda5
+15716997,4,redmie note 9s,84018940,2007.01.13,0,La Calor,Pablito Escobar,81173372,russellpamela@example.org,10.4002813,-75.5,Mary Salas,2007.01.13,931,Stephen Abbott,964,923,Tienda5
+77159783,7,redmi 9,66125422,2006.06.25,0,machupichu,Palomas,69463005,halljeffrey@example.org,-12.037964,-77.0503238,Jennifer Ortiz,2006.06.25,475,Sheila Moran,79,158,Tienda5
+59360711,5,redmi 7,36597604,1976.12.18,0,Tierra del aleteo,Pablito Escobar,69329615,fcrawford@example.com,6.2441988,-75.6,Ryan Ballard,1976.12.18,741,Leslie Curry,913,777,Tienda5
+87135759,2,redmi note 8,216855,2011.06.15,0,Rololandia,Pablito Escobar,38298513,brendastone@example.net,4.648625,-74.1,Michelle Davies,2011.06.15,831,Jack Shields,178,27,Tienda5
+55039040,3,redmi note 9,26880904,1971.06.09,0,La Calor,Pablito Escobar,27602552,vmoss@example.com,10.4002813,-75.5,Robert Lane,1971.06.09,803,Michael Horton,584,852,Tienda5
+87300309,7,redmi 9,93475735,1993.05.08,0,La Calor,Pablito Escobar,48322327,tim51@example.com,10.4002813,-75.5,Eileen Myers,1993.05.08,495,Charlene Mitchell,932,42,Tienda5
+81588106,7,redmi 9,89758383,1986.06.24,0,Tierra del aleteo,Pablito Escobar,72365561,davidgreen@example.net,6.2441988,-75.6,Jesse Vasquez,1986.06.24,832,Jacqueline Swanson,240,897,Tienda5
+40307905,2,redmi note 8,20611900,2010.02.26,0,Tierra del aleteo,Pablito Escobar,90442781,pmckinney@example.com,6.2441988,-75.6,Crystal Harris,2010.02.26,777,Rebecca Smith,553,322,Tienda5
+11340297,6,redmi 8,70033956,1971.09.16,0,Tierra del aleteo,Pablito Escobar,38599365,robertmiller@example.net,6.2441988,-75.6,Ronald Hughes,1971.09.16,695,Brittney Roberts,667,23,Tienda5
+23783593,2,redmi note 8,78493248,2017.01.06,0,Tierra del aleteo,Pablito Escobar,39698651,jcooper@example.com,6.2441988,-75.6,Michael Garcia,2017.01.06,587,Laura Guerrero,373,288,Tienda5
+11851583,6,redmi 8,15866024,2002.05.09,0,machupichu,Palomas,87089940,parrishlisa@example.org,-12.037964,-77.0503238,Tanya Brady,2002.05.09,935,Jennifer Chase,676,925,Tienda5
+5674473,3,redmi note 9,11298638,1975.01.12,2,Rololandia,Pablito Escobar,24440119,webersharon@example.org,4.648625,-74.1,Timothy Lopez,1975.01.12,977,Kim Campbell,191,528,Tienda5
+77603007,5,redmi 7,95854459,1985.06.24,0,Rololandia,Pablito Escobar,85869096,conwaytodd@example.com,4.648625,-74.1,Earl Cohen,1985.06.24,54,Amy Johnson,800,820,Tienda5
+20911801,3,redmi note 9,78301159,1988.02.21,0,La Calor,Pablito Escobar,52979052,restrada@example.com,10.4002813,-75.5,Richard Stone,1988.02.21,293,Nicholas Haynes,649,822,Tienda5
+66198683,2,redmi note 8,46294760,2000.09.16,0,machupichu,Palomas,74891552,drivera@example.net,-12.037964,-77.0503238,Melody Lucas,2000.09.16,851,Vickie Anderson,49,994,Tienda5
+99629857,7,redmi 9,17940556,2014.06.26,0,Tierra del aleteo,Pablito Escobar,16488069,phamkathleen@example.net,6.2441988,-75.6,Tommy Kane,2014.06.26,432,Richard Bell,116,29,Tienda5
+46085055,3,redmi note 9,44282,1977.09.01,4,Tierra del aleteo,Pablito Escobar,65596192,marissacasey@example.org,6.2441988,-75.6,Brittany Smith,1977.09.01,71,Tammy Collins,156,390,Tienda5
+44307390,6,redmi 8,35356004,1984.09.21,0,La Calor,Pablito Escobar,36302838,boyleaaron@example.net,10.4002813,-75.5,Kellie Woods,1984.09.21,65,Heidi Lawrence,733,43,Tienda5
+10430292,4,redmie note 9s,9051978,1973.08.23,0,Tierra del aleteo,Pablito Escobar,63700292,fmcclain@example.com,6.2441988,-75.6,Stacey Fisher,1973.08.23,404,Justin Gilbert,465,958,Tienda5
+51643119,1,redmi note 7,68005943,2021.01.21,0,Rololandia,Pablito Escobar,8617790,ltorres@example.net,4.648625,-74.1,John Porter,2021.01.21,647,Jessica Harvey,818,77,Tienda5
+61543159,7,redmi 9,5541935,1992.05.15,0,La Calor,Pablito Escobar,56123284,kenneth69@example.net,10.4002813,-75.5,Michael Perez,1992.05.15,420,Robert Patel,356,487,Tienda5
+12793639,4,redmie note 9s,47666166,2013.12.27,0,Rololandia,Pablito Escobar,49630301,nicoleprice@example.org,4.648625,-74.1,Nicole Powell,2013.12.27,647,Jason Campbell,949,785,Tienda5
+91332571,1,redmi note 7,46216846,2013.02.08,0,Tierra del aleteo,Pablito Escobar,40838381,shelby90@example.com,6.2441988,-75.6,David Hall Jr.,2013.02.08,589,Christopher Paul,955,657,Tienda5
+95554233,1,redmi note 7,24456959,1980.09.11,0,Rololandia,Pablito Escobar,5932047,griffinedward@example.com,4.648625,-74.1,Austin Garcia,1980.09.11,863,Brandon Martinez DDS,490,97,Tienda5
+33488615,7,redmi 9,69944143,1979.02.02,0,Tierra del aleteo,Pablito Escobar,94767764,maciastimothy@example.org,6.2441988,-75.6,Linda Lewis,1979.02.02,391,Amy Elliott,61,838,Tienda5
+64488200,6,redmi 8,91817684,1984.05.18,0,La Calor,Pablito Escobar,69266758,steven83@example.com,10.4002813,-75.5,Janet Phillips,1984.05.18,202,Alan Porter,274,861,Tienda5
+36112826,7,redmi 9,46562069,1990.04.18,0,Rololandia,Pablito Escobar,40102179,moseswalter@example.net,4.648625,-74.1,Samuel Davis,1990.04.18,867,Meghan Olson,726,471,Tienda5
+64300484,1,redmi note 7,5455694,2004.06.10,2,machupichu,Palomas,69320040,rebeccabrown@example.net,-12.037964,-77.0503238,Joseph White,2004.06.10,598,Alexander Baker MD,308,542,Tienda5
+71534913,7,redmi 9,85498363,1989.03.08,0,machupichu,Palomas,13129003,dclay@example.net,-12.037964,-77.0503238,Gordon Schaefer,1989.03.08,324,Kayla Cisneros,685,856,Tienda5
+22933180,3,redmi note 9,83717443,1979.02.16,0,machupichu,Palomas,40582368,elizabeth04@example.net,-12.037964,-77.0503238,Caitlyn Strickland,1979.02.16,351,Jamie Levine,728,296,Tienda5
+59827719,4,redmie note 9s,38324713,2005.01.29,0,Rololandia,Pablito Escobar,80758212,pmurphy@example.com,4.648625,-74.1,Charles Gray,2005.01.29,600,Stephanie Green,129,12,Tienda5
+28927628,4,redmie note 9s,22074934,2015.07.22,2,machupichu,Palomas,76166555,marthakerr@example.org,-12.037964,-77.0503238,William Nelson,2015.07.22,726,Rebecca Baker,951,444,Tienda5
+87921068,5,redmi 7,95113789,2016.08.17,0,La Calor,Pablito Escobar,19003616,wrightrebecca@example.com,10.4002813,-75.5,Matthew Lewis,2016.08.17,183,Michael Williams,268,988,Tienda5
+36587645,5,redmi 7,47268585,1976.02.11,0,Tierra del aleteo,Pablito Escobar,349511,scottshea@example.net,6.2441988,-75.6,Louis Gomez,1976.02.11,739,Randy Miranda,797,36,Tienda5
+53440741,3,redmi note 9,45893565,2005.04.10,0,La Calor,Pablito Escobar,82004271,zoe22@example.net,10.4002813,-75.5,Jessica Thomas,2005.04.10,229,Michael Wilson,131,647,Tienda5
+29872036,1,redmi note 7,7478586,1977.07.15,3,Tierra del aleteo,Pablito Escobar,2316906,davidsmith@example.com,6.2441988,-75.6,Deanna Johnson,1977.07.15,122,Shannon Marsh,722,948,Tienda5
+39943900,6,redmi 8,49157003,1986.08.17,0,Tierra del aleteo,Pablito Escobar,64814474,trice@example.com,6.2441988,-75.6,Keith Cruz,1986.08.17,160,Scott Wilcox,116,557,Tienda5
+30822063,5,redmi 7,12186666,2003.03.23,0,Tierra del aleteo,Pablito Escobar,71719763,bmurphy@example.net,6.2441988,-75.6,Melissa Smith,2003.03.23,965,Shawn Saunders,543,725,Tienda5
+48922528,6,redmi 8,71498981,2013.11.13,0,Tierra del aleteo,Pablito Escobar,18298220,theodore97@example.com,6.2441988,-75.6,Holly Reynolds,2013.11.13,536,Pamela Wright,848,625,Tienda5
+42929167,3,redmi note 9,79945491,1970.06.26,0,Tierra del aleteo,Pablito Escobar,42181751,wgarcia@example.com,6.2441988,-75.6,Susan King,1970.06.26,729,Matthew Schneider,230,415,Tienda5
+70239988,2,redmi note 8,50358559,2019.07.06,0,La Calor,Pablito Escobar,72344720,wisemary@example.net,10.4002813,-75.5,Joshua Morris,2019.07.06,860,David Clark,192,375,Tienda5
+37471313,7,redmi 9,49630317,1980.10.05,0,machupichu,Palomas,23726614,riversanthony@example.org,-12.037964,-77.0503238,Jeffery Harris,1980.10.05,477,Charles Martinez,455,667,Tienda5
+32854055,6,redmi 8,26611812,2000.06.08,0,La Calor,Pablito Escobar,49671800,mwarren@example.org,10.4002813,-75.5,Jon Anderson,2000.06.08,199,William Cisneros,761,673,Tienda5
+72115514,2,redmi note 8,43164174,2013.10.31,0,Rololandia,Pablito Escobar,90311837,anthonyalison@example.net,4.648625,-74.1,Kyle Deleon,2013.10.31,928,Kathy Perez,457,557,Tienda5
+95150005,6,redmi 8,88178697,1979.04.06,0,La Calor,Pablito Escobar,1500449,autumn11@example.com,10.4002813,-75.5,Adam Boyer,1979.04.06,425,Craig Miller,889,374,Tienda5
+29216973,1,redmi note 7,86340574,1987.06.05,0,Rololandia,Pablito Escobar,14499401,ohurst@example.org,4.648625,-74.1,Maria Jennings,1987.06.05,774,Michael Butler,516,610,Tienda5
+79448839,1,redmi note 7,7240790,1981.12.04,0,La Calor,Pablito Escobar,44451831,julie20@example.org,10.4002813,-75.5,Charles Love,1981.12.04,128,Brittany Ramirez,62,535,Tienda5
+45539642,7,redmi 9,55174808,1970.12.23,0,machupichu,Palomas,34396171,jamesthomas@example.com,-12.037964,-77.0503238,Michael Kelly,1970.12.23,451,Jason Stewart,131,393,Tienda5
+71150372,6,redmi 8,80521569,2007.09.13,0,Rololandia,Pablito Escobar,36507923,edowns@example.net,4.648625,-74.1,Sara Carney,2007.09.13,362,Kelly Pitts,996,880,Tienda5
+6218800,6,redmi 8,62232026,2021.05.26,0,La Calor,Pablito Escobar,81252901,lgarrison@example.net,10.4002813,-75.5,Noah Guerrero,2021.05.26,533,Steven Hanson,366,880,Tienda5
+15673700,7,redmi 9,41343239,1985.10.18,0,La Calor,Pablito Escobar,65740863,marcusmendez@example.org,10.4002813,-75.5,Noah Montoya,1985.10.18,35,Danielle Rogers,581,547,Tienda5
+27370451,3,redmi note 9,10403068,2000.04.12,0,machupichu,Palomas,61537973,annadouglas@example.com,-12.037964,-77.0503238,Sarah Kelly,2000.04.12,67,Kristen Mckinney,264,27,Tienda5
+12048431,5,redmi 7,94254356,2004.04.23,0,Rololandia,Pablito Escobar,74771897,patriciacoleman@example.net,4.648625,-74.1,Tasha Wells,2004.04.23,26,Kenneth Bailey,424,955,Tienda5
+35355737,2,redmi note 8,32272670,2008.11.04,1,La Calor,Pablito Escobar,25297650,imartinez@example.com,10.4002813,-75.5,Stacie Kent,2008.11.04,262,Jared Garcia,810,942,Tienda5
+79129239,7,redmi 9,74197241,2012.02.18,0,Tierra del aleteo,Pablito Escobar,65991888,john65@example.com,6.2441988,-75.6,Cody Shelton,2012.02.18,864,Holly Shepherd,640,362,Tienda5
+83025161,5,redmi 7,54749634,2013.01.21,0,Rololandia,Pablito Escobar,44759564,melanie99@example.org,4.648625,-74.1,Sheri Hayes,2013.01.21,63,Tina Brown,585,653,Tienda5
+52489125,1,redmi note 7,11934446,2001.07.23,0,machupichu,Palomas,79987861,marilyn29@example.net,-12.037964,-77.0503238,Robert Phillips,2001.07.23,550,Blake Olson,417,640,Tienda5
+82243664,5,redmi 7,36198496,2005.10.08,0,machupichu,Palomas,36432585,ljones@example.org,-12.037964,-77.0503238,Ruth Warren,2005.10.08,483,Oscar Ramirez,878,380,Tienda5
+63303608,2,redmi note 8,93409889,2009.11.16,0,Tierra del aleteo,Pablito Escobar,85367171,heathermoore@example.org,6.2441988,-75.6,Ralph Oconnell,2009.11.16,238,Matthew Cook,601,308,Tienda5
+8368460,3,redmi note 9,93898091,1987.05.04,0,Tierra del aleteo,Pablito Escobar,79056241,valerie87@example.org,6.2441988,-75.6,Jennifer Crawford,1987.05.04,52,Diana Hogan,898,653,Tienda5
+80627512,4,redmie note 9s,3520651,2014.11.18,0,Tierra del aleteo,Pablito Escobar,86509746,rachel31@example.com,6.2441988,-75.6,Christopher Melendez,2014.11.18,58,Zachary Baker,491,942,Tienda5
+11057474,5,redmi 7,72626412,2005.01.02,0,Tierra del aleteo,Pablito Escobar,38276290,rroberts@example.com,6.2441988,-75.6,Nicholas Beltran,2005.01.02,113,Jonathan Walls,368,824,Tienda5
+6814918,3,redmi note 9,60458556,1974.10.14,0,machupichu,Palomas,29788262,morgan74@example.com,-12.037964,-77.0503238,Julie Lewis,1974.10.14,43,Sherry Jones,605,289,Tienda5
+66435215,1,redmi note 7,70079128,1994.03.04,0,La Calor,Pablito Escobar,88151555,brookemckinney@example.com,10.4002813,-75.5,Lonnie Wilson,1994.03.04,316,Cynthia Cooley PhD,564,906,Tienda5
+21142293,4,redmie note 9s,19445996,1973.03.15,0,La Calor,Pablito Escobar,95717953,andrew12@example.net,10.4002813,-75.5,Kimberly Williams,1973.03.15,123,Ronald Hunt,150,996,Tienda5
+66624962,7,redmi 9,16915696,1997.11.27,0,Tierra del aleteo,Pablito Escobar,49356546,stevenclark@example.com,6.2441988,-75.6,Carla Reeves,1997.11.27,986,Joseph Henderson,726,148,Tienda5
+78767330,5,redmi 7,37777814,1989.05.27,0,La Calor,Pablito Escobar,32606485,kbrown@example.net,10.4002813,-75.5,Elaine Cruz,1989.05.27,440,Philip Torres,670,195,Tienda5
+51289434,1,redmi note 7,86114734,2019.07.04,0,machupichu,Palomas,88942466,ahurst@example.com,-12.037964,-77.0503238,Jennifer Williams,2019.07.04,500,Carlos Wilkins,591,356,Tienda5
+61767507,3,redmi note 9,40098490,2000.07.02,0,La Calor,Pablito Escobar,6560260,john48@example.org,10.4002813,-75.5,Matthew Kelley,2000.07.02,887,Wayne Meza,921,219,Tienda5
+85500143,6,redmi 8,32900448,1970.05.28,0,Rololandia,Pablito Escobar,53580251,castilloheather@example.com,4.648625,-74.1,Julie Frye,1970.05.28,682,Diana Brewer,193,123,Tienda5
+6234529,4,redmie note 9s,57499096,1993.05.17,0,machupichu,Palomas,36282218,sean42@example.org,-12.037964,-77.0503238,Dale Fernandez,1993.05.17,681,Laurie Gallagher,703,349,Tienda5
+22932754,5,redmi 7,48716364,2001.12.15,0,machupichu,Palomas,19743907,adamsjames@example.org,-12.037964,-77.0503238,Mark Fox,2001.12.15,235,Tina Lam,389,312,Tienda5
+34575222,7,redmi 9,69136050,1993.10.27,0,La Calor,Pablito Escobar,86274943,brendangarcia@example.com,10.4002813,-75.5,Teresa Duran,1993.10.27,931,Wendy Caldwell,412,605,Tienda5
+59593303,1,redmi note 7,98252052,2009.08.26,0,Rololandia,Pablito Escobar,85022707,thowell@example.org,4.648625,-74.1,Jennifer Brown,2009.08.26,639,Michael Cortez,60,643,Tienda5
+80784487,4,redmie note 9s,40993866,2011.06.06,0,La Calor,Pablito Escobar,49085802,bheath@example.com,10.4002813,-75.5,Christine Flores,2011.06.06,585,Susan Warren,19,325,Tienda5
+49695736,6,redmi 8,74194272,2016.07.12,0,La Calor,Pablito Escobar,52470773,allen17@example.com,10.4002813,-75.5,Hayley Grimes,2016.07.12,547,Ryan Aguilar,41,429,Tienda5
+208134,4,redmie note 9s,10279793,1999.03.07,5,machupichu,Palomas,24323335,olivia47@example.com,-12.037964,-77.0503238,Michael Roberts,1999.03.07,951,Laura Woods,894,805,Tienda5
+57250617,4,redmie note 9s,66821790,1986.10.19,2,Rololandia,Pablito Escobar,93184510,amymcclure@example.org,4.648625,-74.1,Marissa Welch,1986.10.19,67,Benjamin Yates,638,984,Tienda5
+18106554,6,redmi 8,45492685,1988.08.01,0,machupichu,Palomas,37319764,crystal03@example.org,-12.037964,-77.0503238,Stephanie Baldwin,1988.08.01,539,Joel Cox,25,571,Tienda5
+258608,7,redmi 9,80699829,1972.09.29,0,machupichu,Palomas,57900750,popemelissa@example.com,-12.037964,-77.0503238,Sarah Hall,1972.09.29,168,Julie Mack,585,947,Tienda5
+53941801,1,redmi note 7,59955104,2012.02.23,0,Tierra del aleteo,Pablito Escobar,27276480,carloscortez@example.org,6.2441988,-75.6,Jason Horne,2012.02.23,809,Sharon Williams,187,97,Tienda5
+35992658,5,redmi 7,24682653,2014.10.12,0,La Calor,Pablito Escobar,91414836,xwhite@example.org,10.4002813,-75.5,Ashley Martinez,2014.10.12,229,Linda Key,601,647,Tienda5
+95454941,1,redmi note 7,79706825,1998.01.01,0,machupichu,Palomas,62568526,robert33@example.com,-12.037964,-77.0503238,Mark Jones,1998.01.01,468,Daniel Smith,63,685,Tienda5
+62039268,4,redmie note 9s,41099199,1978.11.23,0,Rololandia,Pablito Escobar,13841463,vanessa46@example.com,4.648625,-74.1,Eric Martinez Jr.,1978.11.23,385,Roberto Mckinney,302,441,Tienda5
+89776673,2,redmi note 8,92388934,1980.11.09,0,Rololandia,Pablito Escobar,13848140,parker75@example.net,4.648625,-74.1,Colleen Gray,1980.11.09,527,Mr. Michael Baker,996,871,Tienda5
+44165992,2,redmi note 8,85589029,2011.05.27,0,Rololandia,Pablito Escobar,35270050,lnelson@example.org,4.648625,-74.1,Joshua Rodriguez,2011.05.27,282,James Johnson,369,86,Tienda5
+75796408,7,redmi 9,50805825,1972.09.11,0,Tierra del aleteo,Pablito Escobar,80845138,dpope@example.org,6.2441988,-75.6,Elizabeth Martin,1972.09.11,648,Victoria Turner,983,731,Tienda5
+88027345,7,redmi 9,1884146,2009.04.13,3,Rololandia,Pablito Escobar,56673875,shepherdtimothy@example.org,4.648625,-74.1,Stacey Schmidt,2009.04.13,668,Amy Huffman,138,919,Tienda5
+6258431,2,redmi note 8,16881310,2014.10.18,0,La Calor,Pablito Escobar,91495330,chelseaporter@example.net,10.4002813,-75.5,Jordan Hall,2014.10.18,874,Julie Estrada,158,420,Tienda5
+51992825,2,redmi note 8,26549999,2011.07.15,0,machupichu,Palomas,64962853,michael91@example.org,-12.037964,-77.0503238,Denise Holloway DDS,2011.07.15,483,Guy Carter,825,345,Tienda5
+21567959,4,redmie note 9s,83355808,1981.10.01,5,La Calor,Pablito Escobar,71347464,rachaelvillarreal@example.org,10.4002813,-75.5,Joshua Bennett,1981.10.01,499,Tommy Adams,54,828,Tienda5
+38671543,2,redmi note 8,9656635,2016.01.14,0,La Calor,Pablito Escobar,13417970,bishopchristopher@example.org,10.4002813,-75.5,Lisa Sanders,2016.01.14,347,Wayne White,853,699,Tienda5
+55866465,2,redmi note 8,4871732,1981.11.05,1,La Calor,Pablito Escobar,85907520,wisedavid@example.org,10.4002813,-75.5,Debra Martinez,1981.11.05,174,Matthew Pierce,572,67,Tienda5
+63414673,3,redmi note 9,23504923,2007.05.15,0,Rololandia,Pablito Escobar,83677740,kelsey58@example.org,4.648625,-74.1,Mario Payne,2007.05.15,995,Jill Garcia,238,206,Tienda5
+7018017,2,redmi note 8,18771002,2014.09.16,0,La Calor,Pablito Escobar,50894822,dayers@example.net,10.4002813,-75.5,Penny Martinez,2014.09.16,848,Gary Sandoval,409,839,Tienda5
+20768856,5,redmi 7,96129767,2021.02.25,0,La Calor,Pablito Escobar,16076833,nicolediaz@example.net,10.4002813,-75.5,Toni Garner,2021.02.25,53,Margaret Nicholson,450,519,Tienda5
+47579167,5,redmi 7,40700384,1984.10.19,0,La Calor,Pablito Escobar,85968971,kim32@example.com,10.4002813,-75.5,Joshua Garcia,1984.10.19,923,Kimberly Harrington,600,365,Tienda5
+61278167,6,redmi 8,92355217,1989.07.08,0,Tierra del aleteo,Pablito Escobar,4273340,lcarter@example.net,6.2441988,-75.6,Phillip Russo,1989.07.08,249,Erika Caldwell,882,626,Tienda5
+16612887,4,redmie note 9s,58428212,2000.11.20,0,Rololandia,Pablito Escobar,84521873,nlong@example.org,4.648625,-74.1,Amy Lee,2000.11.20,67,Austin Matthews,489,327,Tienda5
+72305016,5,redmi 7,84000814,1976.02.03,0,Tierra del aleteo,Pablito Escobar,41151567,andrew86@example.org,6.2441988,-75.6,Christina Reynolds,1976.02.03,79,William Smith,537,940,Tienda5
+35110356,5,redmi 7,22459319,1972.10.22,0,La Calor,Pablito Escobar,99230706,daniel63@example.org,10.4002813,-75.5,Eric Lopez,1972.10.22,426,Mary Dennis,676,584,Tienda5
+49234074,5,redmi 7,86462173,1998.10.28,0,machupichu,Palomas,49672727,smithrobert@example.com,-12.037964,-77.0503238,Julian Brooks,1998.10.28,39,Erin Rodriguez,874,637,Tienda5
+54357725,3,redmi note 9,77184726,2008.02.11,0,Tierra del aleteo,Pablito Escobar,12505053,rogersrachel@example.net,6.2441988,-75.6,Joshua Martin,2008.02.11,899,Mary Davis,244,780,Tienda5
+1443533,5,redmi 7,46484465,2000.06.26,0,Tierra del aleteo,Pablito Escobar,64431578,maysharon@example.com,6.2441988,-75.6,Laura Juarez,2000.06.26,794,Jennifer Cooley,669,124,Tienda5
+86698539,7,redmi 9,46570838,2014.07.03,0,La Calor,Pablito Escobar,76709263,zbryant@example.net,10.4002813,-75.5,Lauren Williams,2014.07.03,827,Debra Porter,464,917,Tienda5
+79207514,1,redmi note 7,92741440,2019.12.28,0,La Calor,Pablito Escobar,55358587,fperez@example.org,10.4002813,-75.5,Brandon Bowman,2019.12.28,815,Louis Church,22,166,Tienda5
+82391327,5,redmi 7,16177871,2006.12.13,0,Tierra del aleteo,Pablito Escobar,62299502,bryantcindy@example.com,6.2441988,-75.6,Kenneth Webb,2006.12.13,356,Amy Dixon,512,858,Tienda5
+61689002,5,redmi 7,32792603,1998.10.21,0,Tierra del aleteo,Pablito Escobar,53736432,charles37@example.com,6.2441988,-75.6,Sherry Marshall,1998.10.21,339,Ronald Lawson,144,800,Tienda5
+50041382,7,redmi 9,80982619,2001.01.03,0,machupichu,Palomas,37596876,annquinn@example.net,-12.037964,-77.0503238,Brandon Smith,2001.01.03,971,William Smith,408,336,Tienda5
+5582214,7,redmi 9,54676603,1979.06.12,0,Tierra del aleteo,Pablito Escobar,43039486,cruzbridget@example.com,6.2441988,-75.6,Barbara Reynolds,1979.06.12,655,Amy Salinas,795,694,Tienda5
+23593089,1,redmi note 7,99709230,2009.10.07,0,Rololandia,Pablito Escobar,20003420,vmartin@example.net,4.648625,-74.1,Timothy Green,2009.10.07,597,Sophia Kennedy,791,424,Tienda5
+5853385,4,redmie note 9s,58126839,1991.02.03,0,La Calor,Pablito Escobar,14896229,david65@example.com,10.4002813,-75.5,Stacey Smith,1991.02.03,389,Karen Fischer,187,652,Tienda5
+95854095,4,redmie note 9s,66184553,1992.09.25,0,machupichu,Palomas,73677779,andreaallen@example.net,-12.037964,-77.0503238,Debbie Washington,1992.09.25,836,Nathan Mitchell,54,274,Tienda5
+55306305,3,redmi note 9,93397122,1983.12.21,0,La Calor,Pablito Escobar,81307156,krodriguez@example.net,10.4002813,-75.5,Ann Knapp,1983.12.21,620,Marc Tyler,631,573,Tienda5
+12730854,3,redmi note 9,11831770,1988.06.07,0,Rololandia,Pablito Escobar,8140379,ldixon@example.org,4.648625,-74.1,Marissa Lindsey,1988.06.07,545,Sydney Carr,405,533,Tienda5
+22464127,7,redmi 9,34708502,2010.04.18,0,machupichu,Palomas,73755357,jeremy41@example.net,-12.037964,-77.0503238,Jonathan Joseph,2010.04.18,343,Andrew Mejia,50,674,Tienda5
+24398243,2,redmi note 8,49442923,2016.11.22,0,La Calor,Pablito Escobar,19661640,katherine74@example.org,10.4002813,-75.5,Adam Brown,2016.11.22,139,Christina Watts,356,247,Tienda5
+92345642,6,redmi 8,73300928,2002.06.27,0,machupichu,Palomas,71432888,nicole52@example.com,-12.037964,-77.0503238,Jason Anderson,2002.06.27,430,Cynthia Smith,465,374,Tienda5
+67197822,3,redmi note 9,36590745,1971.12.25,0,Rololandia,Pablito Escobar,85206872,efoster@example.org,4.648625,-74.1,Nathan Gordon,1971.12.25,275,Tammy Gibbs,433,89,Tienda5
+1248795,3,redmi note 9,27531571,1973.12.06,0,La Calor,Pablito Escobar,82647201,lawrencesanders@example.com,10.4002813,-75.5,Douglas Miller,1973.12.06,322,Brandy Lee,61,975,Tienda5
+68213855,7,redmi 9,55154469,1997.04.13,0,machupichu,Palomas,78761410,angelajoseph@example.net,-12.037964,-77.0503238,Tiffany Rosales,1997.04.13,728,Kari Neal,347,193,Tienda5
+85877026,2,redmi note 8,63572617,2008.02.14,0,La Calor,Pablito Escobar,31563892,browntara@example.net,10.4002813,-75.5,Roberta Chandler,2008.02.14,182,Manuel White,374,367,Tienda5
+39647382,7,redmi 9,56085891,2008.08.25,0,machupichu,Palomas,15816463,crawfordconnie@example.com,-12.037964,-77.0503238,Andrew Suarez,2008.08.25,879,Sandra Bernard,49,992,Tienda5
+64878082,2,redmi note 8,90375909,2011.09.05,0,La Calor,Pablito Escobar,99922019,dyerwilliam@example.net,10.4002813,-75.5,Audrey Gonzales,2011.09.05,857,Shannon Dixon,930,682,Tienda5
+84630244,5,redmi 7,83332087,2008.11.21,0,Rololandia,Pablito Escobar,87028574,pduncan@example.org,4.648625,-74.1,Denise Rodriguez,2008.11.21,196,Rebekah Pittman,293,558,Tienda5
+89022663,3,redmi note 9,45678701,1983.09.24,0,Tierra del aleteo,Pablito Escobar,95234757,margarethayes@example.com,6.2441988,-75.6,Susan Saunders,1983.09.24,656,Brittany Walker,522,209,Tienda5
+30040822,4,redmie note 9s,46408137,1970.04.16,0,La Calor,Pablito Escobar,78858972,anthony44@example.org,10.4002813,-75.5,Stephen Bush,1970.04.16,619,Travis Robinson,792,338,Tienda5
+87975924,6,redmi 8,39695768,2014.12.30,1,Rololandia,Pablito Escobar,16238288,kford@example.com,4.648625,-74.1,Cheryl Hernandez,2014.12.30,750,Jason Wells,621,609,Tienda5
+24073534,7,redmi 9,68707323,2000.12.22,0,La Calor,Pablito Escobar,16314271,donovancassandra@example.org,10.4002813,-75.5,Riley Wilkerson,2000.12.22,929,Dr. Blake Maxwell Jr.,542,796,Tienda5
+69126324,4,redmie note 9s,49433049,1987.09.07,0,Rololandia,Pablito Escobar,55928899,martinmarcus@example.com,4.648625,-74.1,Austin Little,1987.09.07,464,Heather Morales,560,579,Tienda5
+67106750,2,redmi note 8,35776634,1981.08.13,0,La Calor,Pablito Escobar,22649479,jasminebryan@example.net,10.4002813,-75.5,Nathan Proctor,1981.08.13,796,Juan Perez,893,2,Tienda5
+42671107,6,redmi 8,14392712,2004.05.20,2,machupichu,Palomas,7528602,lopezdavid@example.org,-12.037964,-77.0503238,Theresa Collins,2004.05.20,843,Caleb French,453,123,Tienda5
+94392588,6,redmi 8,59423642,1997.05.09,0,Tierra del aleteo,Pablito Escobar,58295565,taylorconnie@example.com,6.2441988,-75.6,Emily Perez,1997.05.09,979,Sarah Rogers,814,46,Tienda5
+22254924,4,redmie note 9s,40015719,2011.06.29,0,Tierra del aleteo,Pablito Escobar,3811096,sanchezvalerie@example.org,6.2441988,-75.6,Tracy Bird,2011.06.29,143,Nicole Hodges,660,705,Tienda5
+50753971,6,redmi 8,31372641,2015.06.11,0,La Calor,Pablito Escobar,40210429,lawrenceamy@example.com,10.4002813,-75.5,Jeffrey Lowe,2015.06.11,208,William Evans,102,885,Tienda5
+50059545,1,redmi note 7,34373510,2001.01.11,0,Rololandia,Pablito Escobar,56797375,alice84@example.com,4.648625,-74.1,Jacqueline Rasmussen,2001.01.11,154,Aaron Green,632,954,Tienda5
+11110407,1,redmi note 7,8177921,2015.08.05,0,La Calor,Pablito Escobar,77468185,daniel23@example.net,10.4002813,-75.5,Michael Shaw,2015.08.05,417,David Klein,159,910,Tienda5
+86851115,7,redmi 9,10045876,1997.10.31,0,La Calor,Pablito Escobar,4874064,kwatson@example.org,10.4002813,-75.5,Krystal Stephens,1997.10.31,47,Grace Martinez,504,386,Tienda5
+51358908,7,redmi 9,55719755,1970.04.27,0,La Calor,Pablito Escobar,82965522,ballardthomas@example.com,10.4002813,-75.5,Dorothy Hogan,1970.04.27,710,Mr. Jeffrey Ortiz,251,229,Tienda5
+57318114,1,redmi note 7,41497609,2018.07.26,0,Rololandia,Pablito Escobar,27301235,rosalesjamie@example.com,4.648625,-74.1,Maria Hawkins,2018.07.26,451,Thomas Davis,615,663,Tienda5
+66686747,7,redmi 9,24977857,2017.11.30,0,machupichu,Palomas,27289604,stephaniewatson@example.org,-12.037964,-77.0503238,Ellen Byrd,2017.11.30,135,Kelly Mueller,665,14,Tienda5
+68111204,4,redmie note 9s,49533323,2006.04.29,4,Rololandia,Pablito Escobar,49044719,goodwinjonathan@example.com,4.648625,-74.1,Nicole Miller,2006.04.29,631,Jocelyn Wallace,394,124,Tienda5
+98566842,1,redmi note 7,81378548,1977.06.14,0,machupichu,Palomas,52328772,diana42@example.org,-12.037964,-77.0503238,Erin Skinner,1977.06.14,37,Julie Davis,503,138,Tienda5
+42418014,5,redmi 7,76900907,1980.05.13,0,Rololandia,Pablito Escobar,36897627,williamskendra@example.com,4.648625,-74.1,Brandi Walsh,1980.05.13,661,Michael Soto,272,575,Tienda5
+67336596,5,redmi 7,14204193,1979.06.20,0,Rololandia,Pablito Escobar,42369700,noah83@example.com,4.648625,-74.1,Jessica Olson,1979.06.20,973,Nancy Brock,582,734,Tienda5
+45974308,3,redmi note 9,65084985,2005.03.06,0,machupichu,Palomas,64101757,ryanvillarreal@example.net,-12.037964,-77.0503238,Jamie King,2005.03.06,575,Laura Caldwell,588,656,Tienda5
+28709652,2,redmi note 8,58372000,1991.02.19,0,Rololandia,Pablito Escobar,36242952,colecrystal@example.org,4.648625,-74.1,Dr. Katherine Brown MD,1991.02.19,435,Michael Thomas,537,918,Tienda5
+13079952,3,redmi note 9,93863750,2001.04.06,0,Tierra del aleteo,Pablito Escobar,93407039,alexisruiz@example.com,6.2441988,-75.6,Lisa Cox,2001.04.06,143,Angelica Mack,767,897,Tienda5
+5145853,4,redmie note 9s,79674666,2009.04.04,0,machupichu,Palomas,13830966,yblanchard@example.org,-12.037964,-77.0503238,Kenneth Oconnor,2009.04.04,891,Matthew Murray,436,144,Tienda5
+82085712,7,redmi 9,20221384,2002.04.17,0,Rololandia,Pablito Escobar,47354823,katherinehayes@example.net,4.648625,-74.1,Susan Walker DDS,2002.04.17,312,Jim Lee,983,512,Tienda5
+48695092,4,redmie note 9s,81291968,2008.07.22,0,La Calor,Pablito Escobar,68301547,jhardin@example.com,10.4002813,-75.5,Nicole Pitts,2008.07.22,948,Marissa Gentry,990,683,Tienda5
+2503826,5,redmi 7,56435161,1981.04.20,0,Tierra del aleteo,Pablito Escobar,6890474,pauldudley@example.com,6.2441988,-75.6,Mark Baker,1981.04.20,668,Deborah Robinson,647,234,Tienda5
+85135844,5,redmi 7,11445791,1977.02.22,0,machupichu,Palomas,67292890,sarah34@example.org,-12.037964,-77.0503238,Catherine Smith,1977.02.22,46,Timothy Daniel,91,229,Tienda5
+17677301,3,redmi note 9,17263603,1996.01.29,0,Tierra del aleteo,Pablito Escobar,64262397,karen29@example.com,6.2441988,-75.6,Joshua Martin,1996.01.29,295,Calvin Le,100,264,Tienda5
+39043818,7,redmi 9,61242783,1992.07.23,3,Tierra del aleteo,Pablito Escobar,8200025,qgarcia@example.org,6.2441988,-75.6,Kaylee Norris,1992.07.23,766,Victoria Martin,151,807,Tienda5
+63494061,4,redmie note 9s,8494302,1974.03.28,0,Tierra del aleteo,Pablito Escobar,69689394,hubbarddeborah@example.net,6.2441988,-75.6,Kimberly Dunn,1974.03.28,466,Misty Allen,504,88,Tienda5
+53144421,2,redmi note 8,3529729,2017.09.13,0,Rololandia,Pablito Escobar,2130186,qreyes@example.com,4.648625,-74.1,Kathy Steele,2017.09.13,48,Gerald Peterson,249,449,Tienda5
+64505526,7,redmi 9,96818907,1992.05.05,0,Tierra del aleteo,Pablito Escobar,88786376,perkinsjohn@example.net,6.2441988,-75.6,Samantha Bray,1992.05.05,208,Amy Wallace,973,458,Tienda5
+86703828,1,redmi note 7,31899311,2018.10.24,0,Tierra del aleteo,Pablito Escobar,51004994,joseph05@example.org,6.2441988,-75.6,Regina Hall,2018.10.24,363,Deanna Brown,532,523,Tienda5
+27561121,5,redmi 7,50386019,1997.11.17,0,Rololandia,Pablito Escobar,34627294,deannasanchez@example.org,4.648625,-74.1,Lauren Powell,1997.11.17,356,Nicholas Preston,445,533,Tienda5
+19249820,2,redmi note 8,74209316,2018.07.14,0,machupichu,Palomas,98552577,sheena27@example.net,-12.037964,-77.0503238,Heather Hodges,2018.07.14,661,Carlos Watts,967,467,Tienda5
+47061996,1,redmi note 7,94340153,2009.06.30,0,Tierra del aleteo,Pablito Escobar,3764766,amy17@example.com,6.2441988,-75.6,Michelle Rice,2009.06.30,454,Carolyn Dennis,440,761,Tienda5
+38888400,2,redmi note 8,99955446,1984.03.08,0,Tierra del aleteo,Pablito Escobar,84424351,margaret48@example.org,6.2441988,-75.6,Alyssa Hayes,1984.03.08,143,Jeffrey May,397,71,Tienda5
+5951591,2,redmi note 8,34648024,2020.03.01,0,La Calor,Pablito Escobar,60176669,josephmarsh@example.net,10.4002813,-75.5,Danielle Jordan,2020.03.01,346,Frank Young,277,729,Tienda5
+4186954,5,redmi 7,80087351,2009.02.07,0,Tierra del aleteo,Pablito Escobar,56355531,kennethcarpenter@example.com,6.2441988,-75.6,Regina Frye,2009.02.07,508,Kelly Reyes,680,494,Tienda5
+64495307,5,redmi 7,39925748,1990.11.21,0,Rololandia,Pablito Escobar,87822705,joshuacollins@example.net,4.648625,-74.1,John Smith,1990.11.21,674,Paul Franco,986,876,Tienda5
+93340313,3,redmi note 9,35937472,1993.03.20,0,Rololandia,Pablito Escobar,37818345,maureen98@example.com,4.648625,-74.1,Todd Long,1993.03.20,571,Dustin Wagner,661,29,Tienda5
+7299008,3,redmi note 9,97793659,2001.04.11,0,Tierra del aleteo,Pablito Escobar,66817417,brianna60@example.org,6.2441988,-75.6,Mark Mayer,2001.04.11,47,Sharon Frye,85,117,Tienda5
+46672021,1,redmi note 7,2746859,1985.04.03,0,La Calor,Pablito Escobar,96448508,desireesimmons@example.com,10.4002813,-75.5,John Taylor,1985.04.03,629,Phillip Craig,420,787,Tienda5
+66528961,2,redmi note 8,46781417,1998.04.15,0,La Calor,Pablito Escobar,16977693,riverachristine@example.net,10.4002813,-75.5,Philip Copeland,1998.04.15,468,Jamie Lutz,747,213,Tienda5
+56174988,4,redmie note 9s,72900331,1978.10.26,0,Tierra del aleteo,Pablito Escobar,1899945,bkelly@example.org,6.2441988,-75.6,Timothy Lee,1978.10.26,834,Kristin Perry,838,374,Tienda5
+11791051,4,redmie note 9s,33104734,1992.07.21,0,La Calor,Pablito Escobar,90454319,stewartjeffrey@example.org,10.4002813,-75.5,Lori Lopez,1992.07.21,902,Brandi Miles,317,158,Tienda5
+76895926,2,redmi note 8,27633234,2001.10.08,0,machupichu,Palomas,89263768,gomezsteven@example.net,-12.037964,-77.0503238,Jenna Reese,2001.10.08,906,Yvonne Ramsey,260,154,Tienda5
+53253358,1,redmi note 7,32202003,1995.04.29,0,Rololandia,Pablito Escobar,84826572,jamesbanks@example.com,4.648625,-74.1,Brian Bauer,1995.04.29,181,Monica Hill,72,711,Tienda5
+28982498,1,redmi note 7,36523521,1970.01.25,0,Rololandia,Pablito Escobar,20448949,jonesmelanie@example.com,4.648625,-74.1,Rebecca Martin,1970.01.25,775,Janet Spears,618,338,Tienda5
+56168469,1,redmi note 7,1477716,2013.12.07,0,Rololandia,Pablito Escobar,7752770,bmcintyre@example.com,4.648625,-74.1,Barry Case,2013.12.07,623,Cynthia Moore,850,880,Tienda5
+37973382,5,redmi 7,84378322,1983.06.06,0,Tierra del aleteo,Pablito Escobar,30661397,brucerivers@example.com,6.2441988,-75.6,Reginald Erickson,1983.06.06,625,Pedro White,273,64,Tienda5
+91167056,1,redmi note 7,83098760,1972.11.23,0,Rololandia,Pablito Escobar,14530410,gchen@example.com,4.648625,-74.1,Michael Fletcher,1972.11.23,730,Fernando Young,365,49,Tienda5
+72950978,5,redmi 7,20892374,1980.01.11,0,Rololandia,Pablito Escobar,7457671,ebenjamin@example.net,4.648625,-74.1,Chris Davis,1980.01.11,76,Michael Castillo,725,559,Tienda5
+63025049,4,redmie note 9s,73449678,1986.04.22,0,Rololandia,Pablito Escobar,34585421,ramosjanet@example.org,4.648625,-74.1,Paula Robinson,1986.04.22,155,James Campbell,356,576,Tienda5
+82133129,1,redmi note 7,35791152,2010.01.24,0,Rololandia,Pablito Escobar,21305307,nsutton@example.net,4.648625,-74.1,Abigail Conley PhD,2010.01.24,107,Jessica White,309,886,Tienda5
+53103683,7,redmi 9,57867641,1970.10.04,0,Tierra del aleteo,Pablito Escobar,35018896,alexandramarks@example.com,6.2441988,-75.6,Theresa Lee,1970.10.04,502,Matthew Kelly,434,972,Tienda5
+24679357,7,redmi 9,91736786,1992.09.06,0,Tierra del aleteo,Pablito Escobar,10199149,caldwellkimberly@example.com,6.2441988,-75.6,Michelle Morales,1992.09.06,364,Brooke Newton,117,849,Tienda5
+86219112,6,redmi 8,48205879,2017.12.17,0,Tierra del aleteo,Pablito Escobar,35061903,zmitchell@example.com,6.2441988,-75.6,Andrea Carter,2017.12.17,24,Heather Zavala,696,244,Tienda5
+25197644,6,redmi 8,4613185,1989.04.16,2,Rololandia,Pablito Escobar,19172179,jason49@example.net,4.648625,-74.1,Joshua Howe,1989.04.16,315,Eric Mills,485,184,Tienda5
+30576217,6,redmi 8,43304010,1998.04.27,0,Tierra del aleteo,Pablito Escobar,16574189,paulafisher@example.com,6.2441988,-75.6,Dana Craig,1998.04.27,474,Michelle Harris,565,525,Tienda5
+82466254,7,redmi 9,61202726,2013.05.31,0,Tierra del aleteo,Pablito Escobar,99024072,brendastark@example.org,6.2441988,-75.6,Brendan Deleon,2013.05.31,58,James Morrow,456,251,Tienda5
+8799662,4,redmie note 9s,13431072,1994.02.19,5,La Calor,Pablito Escobar,48026117,william90@example.net,10.4002813,-75.5,Patricia Stout,1994.02.19,243,John Lamb,301,251,Tienda5
+29876366,7,redmi 9,50896841,1976.06.28,0,Tierra del aleteo,Pablito Escobar,47722784,alexandereric@example.com,6.2441988,-75.6,Amanda Mitchell,1976.06.28,826,Jorge Hogan DDS,637,725,Tienda5
+37648085,2,redmi note 8,79724894,1975.08.29,0,La Calor,Pablito Escobar,16401584,crystalhughes@example.net,10.4002813,-75.5,Joseph Sullivan,1975.08.29,162,Karen Howard,448,282,Tienda5
+42939462,4,redmie note 9s,61038687,1989.05.15,0,Rololandia,Pablito Escobar,20591802,michael99@example.net,4.648625,-74.1,Jason Bush,1989.05.15,44,James Stewart,766,205,Tienda5
+50183853,5,redmi 7,80375260,1990.05.16,0,machupichu,Palomas,49657485,zmorgan@example.com,-12.037964,-77.0503238,Lindsay Thompson,1990.05.16,519,Megan Hall,727,637,Tienda5
+60831064,3,redmi note 9,60827843,1987.01.16,0,Tierra del aleteo,Pablito Escobar,96996755,alexis85@example.org,6.2441988,-75.6,Jose Williams,1987.01.16,499,Brittany Ford,116,930,Tienda5
+98496656,4,redmie note 9s,87905680,1995.04.09,2,La Calor,Pablito Escobar,58944648,carly59@example.org,10.4002813,-75.5,Eric Johnson,1995.04.09,161,Melissa Hill,82,97,Tienda5
+74264541,1,redmi note 7,89822299,1978.02.09,0,Tierra del aleteo,Pablito Escobar,8126202,samueldunlap@example.org,6.2441988,-75.6,Logan Henry,1978.02.09,167,Eric Doyle,73,552,Tienda5
+37915112,7,redmi 9,39529885,1998.02.05,0,Rololandia,Pablito Escobar,16758687,barbaramartin@example.net,4.648625,-74.1,Sara Rowe,1998.02.05,484,William Barton,878,365,Tienda5
+736932,3,redmi note 9,55524868,2000.11.26,0,machupichu,Palomas,44708314,lhaynes@example.com,-12.037964,-77.0503238,Luke Campbell,2000.11.26,442,Lindsey Elliott,620,867,Tienda5
+99988855,7,redmi 9,14751749,2019.05.18,0,Tierra del aleteo,Pablito Escobar,88046737,idonovan@example.net,6.2441988,-75.6,Andrew Anderson,2019.05.18,6,Dennis Hansen,977,332,Tienda5
+53042700,4,redmie note 9s,7100123,2002.12.02,0,Rololandia,Pablito Escobar,76906148,ganderson@example.org,4.648625,-74.1,David Banks,2002.12.02,906,Joshua Owens,292,784,Tienda5
+31245446,3,redmi note 9,93745498,1973.06.23,5,machupichu,Palomas,27416560,kellerbrandon@example.net,-12.037964,-77.0503238,Mrs. Wendy Silva,1973.06.23,588,Kathy Harris,146,308,Tienda5
+95973088,7,redmi 9,27659315,1998.03.11,0,Tierra del aleteo,Pablito Escobar,24726819,fadams@example.net,6.2441988,-75.6,Michelle Murphy,1998.03.11,51,William Obrien,718,352,Tienda5
+18484460,3,redmi note 9,84113331,1999.05.05,0,Rololandia,Pablito Escobar,33046188,fhopkins@example.com,4.648625,-74.1,Austin Dawson,1999.05.05,436,Michelle Carpenter,641,944,Tienda5
+90908956,6,redmi 8,55203720,1974.05.07,0,Tierra del aleteo,Pablito Escobar,99258676,elizabethgonzalez@example.com,6.2441988,-75.6,Joseph Mendoza,1974.05.07,471,Alexandra Stanley,311,4,Tienda5
+12563551,3,redmi note 9,28304219,1973.01.22,0,machupichu,Palomas,33755908,connor11@example.org,-12.037964,-77.0503238,Jennifer Myers,1973.01.22,645,Jennifer Cunningham,220,941,Tienda5
+24858612,6,redmi 8,88580832,2014.12.14,0,Tierra del aleteo,Pablito Escobar,75130637,uchavez@example.com,6.2441988,-75.6,Michael Rivera,2014.12.14,15,Amy Ferguson,266,598,Tienda5
+61741114,2,redmi note 8,69283191,2010.03.24,0,La Calor,Pablito Escobar,8080124,michellesimpson@example.org,10.4002813,-75.5,Adam Thornton,2010.03.24,223,Michael Horn,520,89,Tienda5
+20887343,6,redmi 8,83203197,2019.09.30,0,Rololandia,Pablito Escobar,58884551,ramireztiffany@example.org,4.648625,-74.1,Ricky Herman,2019.09.30,463,Kimberly Little,678,87,Tienda5
+23067007,7,redmi 9,46660492,1972.02.22,0,Tierra del aleteo,Pablito Escobar,58570958,omurphy@example.com,6.2441988,-75.6,Rachael Thomas,1972.02.22,980,Amy Williams,219,105,Tienda5
+25218387,4,redmie note 9s,43030498,2008.01.13,0,Tierra del aleteo,Pablito Escobar,23620179,shawlinda@example.net,6.2441988,-75.6,Janet Quinn,2008.01.13,655,Brandi Wood,839,487,Tienda5
+76695585,2,redmi note 8,50792857,1992.12.28,0,machupichu,Palomas,68083744,phill@example.com,-12.037964,-77.0503238,Elizabeth White,1992.12.28,796,Summer Peterson,319,278,Tienda5
+34083213,5,redmi 7,95038129,2020.11.28,0,Tierra del aleteo,Pablito Escobar,17468456,vickinunez@example.org,6.2441988,-75.6,Nathan Ward,2020.11.28,623,Christina Wallace,282,565,Tienda5
+66726646,6,redmi 8,66733697,2014.01.23,0,machupichu,Palomas,74338879,lynchpatrick@example.net,-12.037964,-77.0503238,Kimberly Brooks,2014.01.23,358,Brandi Cooper,485,233,Tienda5
+26676122,5,redmi 7,96296369,1982.09.23,0,Tierra del aleteo,Pablito Escobar,29421800,jessicamartin@example.net,6.2441988,-75.6,Michael Patterson DDS,1982.09.23,879,Robin Jones,713,169,Tienda5
+54045907,1,redmi note 7,96672914,2006.10.06,0,machupichu,Palomas,77857975,mcoleman@example.com,-12.037964,-77.0503238,David Sanchez,2006.10.06,141,April Elliott,209,856,Tienda5
+37235754,4,redmie note 9s,41762794,2009.03.25,0,Rololandia,Pablito Escobar,92544746,zfarrell@example.org,4.648625,-74.1,Mr. Evan Figueroa PhD,2009.03.25,625,Whitney Williams,820,579,Tienda5
+89135602,3,redmi note 9,30698739,1998.06.29,0,La Calor,Pablito Escobar,12552849,pdavis@example.net,10.4002813,-75.5,Matthew Hamilton,1998.06.29,973,Sara Adams,102,660,Tienda5
+36340750,7,redmi 9,45059661,2005.07.26,0,machupichu,Palomas,35013294,myersrachel@example.com,-12.037964,-77.0503238,Marc Bush,2005.07.26,445,Mr. Ryan Allen,924,563,Tienda5
+15048239,4,redmie note 9s,682676,1989.04.17,0,machupichu,Palomas,15639067,nealmarc@example.org,-12.037964,-77.0503238,Haley Powell,1989.04.17,75,Michael Williams,283,909,Tienda5
+77175414,3,redmi note 9,92852873,1997.05.17,0,machupichu,Palomas,47624058,uhorne@example.com,-12.037964,-77.0503238,Julie Moore,1997.05.17,718,Sean Alvarez,693,957,Tienda5
+95996458,6,redmi 8,96426097,2014.06.24,0,Rololandia,Pablito Escobar,32741103,bensonpaul@example.org,4.648625,-74.1,Alec Miller,2014.06.24,940,Ethan Wood,198,454,Tienda5
+14576442,5,redmi 7,27185257,1975.01.22,0,Tierra del aleteo,Pablito Escobar,94548720,ashleylopez@example.net,6.2441988,-75.6,Veronica Williams,1975.01.22,717,Darius Brown,902,402,Tienda5
+61323662,7,redmi 9,76147047,1999.01.29,0,machupichu,Palomas,58031206,ocasey@example.com,-12.037964,-77.0503238,Kendra Hill,1999.01.29,751,Megan Moore,571,229,Tienda5
+17118317,1,redmi note 7,98193445,1980.01.07,0,machupichu,Palomas,79898319,woodmarissa@example.net,-12.037964,-77.0503238,Leah Skinner,1980.01.07,744,Cassandra Cummings,454,747,Tienda5
+19383528,5,redmi 7,54694060,1972.09.27,0,La Calor,Pablito Escobar,96209112,iglover@example.org,10.4002813,-75.5,Anthony Warner,1972.09.27,794,Morgan Pena DDS,953,480,Tienda5
+50084602,7,redmi 9,71488105,1985.01.10,0,Rololandia,Pablito Escobar,73008743,maria48@example.net,4.648625,-74.1,Stacey Anderson,1985.01.10,129,Emily Foley,973,585,Tienda5
+35261744,5,redmi 7,35362135,1989.02.07,4,machupichu,Palomas,81759319,njones@example.net,-12.037964,-77.0503238,Bradley Walker,1989.02.07,203,Charles Lewis,463,521,Tienda5
+61631272,6,redmi 8,34478146,1974.03.19,0,Rololandia,Pablito Escobar,12969256,johnathanharris@example.net,4.648625,-74.1,Angela Morgan MD,1974.03.19,290,Angela Flores,245,551,Tienda5
+44748556,5,redmi 7,35935316,2011.04.16,0,machupichu,Palomas,84439039,cindy32@example.net,-12.037964,-77.0503238,Johnathan Scott,2011.04.16,738,Cody Wise,29,764,Tienda5
+79700680,2,redmi note 8,46626664,1987.02.20,0,Rololandia,Pablito Escobar,39495136,apalmer@example.org,4.648625,-74.1,Stacy Ford,1987.02.20,661,Roberta Lyons,577,330,Tienda5
+81717952,5,redmi 7,59561865,2012.11.22,0,machupichu,Palomas,8951255,brandy65@example.org,-12.037964,-77.0503238,Mariah Smith,2012.11.22,34,Nicholas Osborne,159,171,Tienda5
+32145307,7,redmi 9,65440881,1970.11.03,0,machupichu,Palomas,5855753,jamieglover@example.net,-12.037964,-77.0503238,Bradley Wright,1970.11.03,71,Don Martinez,387,581,Tienda5
+97565513,5,redmi 7,50520153,1994.12.17,1,Tierra del aleteo,Pablito Escobar,58033961,nathanmiller@example.org,6.2441988,-75.6,Jordan Wright,1994.12.17,263,Kevin Garcia,337,115,Tienda5
+34228125,5,redmi 7,53988056,2018.05.25,0,La Calor,Pablito Escobar,17050341,stacy56@example.org,10.4002813,-75.5,Gabriel Terry,2018.05.25,97,Kelsey Richardson,634,25,Tienda5
+48153662,4,redmie note 9s,13068524,2007.07.24,0,Rololandia,Pablito Escobar,1339284,robertjordan@example.org,4.648625,-74.1,Lauren Garcia,2007.07.24,160,Christopher Davis,270,161,Tienda5
+17382444,2,redmi note 8,15560478,2021.01.03,0,Rololandia,Pablito Escobar,51701492,shawnhensley@example.net,4.648625,-74.1,Caitlin Hansen,2021.01.03,929,Emily Alexander,675,973,Tienda5
+48244793,5,redmi 7,39750544,1999.10.22,0,La Calor,Pablito Escobar,42755559,zfisher@example.net,10.4002813,-75.5,Sandra Norton,1999.10.22,895,Robert Perkins,968,828,Tienda5
+32650332,2,redmi note 8,88317922,1974.05.31,0,machupichu,Palomas,31520408,stevennovak@example.net,-12.037964,-77.0503238,John Newton,1974.05.31,426,Dr. Heidi Arias,570,437,Tienda5
+97241684,3,redmi note 9,63725628,2009.05.22,0,machupichu,Palomas,1771146,taylorchristopher@example.com,-12.037964,-77.0503238,Jasmine Golden,2009.05.22,967,Eric Potts,589,808,Tienda5
+91557938,7,redmi 9,93663590,1984.01.26,0,La Calor,Pablito Escobar,29586212,amber26@example.org,10.4002813,-75.5,Henry Mccarthy,1984.01.26,907,Juan Arroyo,359,94,Tienda5
+82130896,3,redmi note 9,49974263,1978.06.14,0,Tierra del aleteo,Pablito Escobar,69419516,rmartin@example.com,6.2441988,-75.6,Ashley Rodriguez,1978.06.14,138,Ryan Ayers,192,246,Tienda5
+55344043,7,redmi 9,98590156,2020.07.03,0,Tierra del aleteo,Pablito Escobar,37080537,ashleybrown@example.com,6.2441988,-75.6,Shelley Walls,2020.07.03,913,Mary Hill,705,338,Tienda5
+29800940,4,redmie note 9s,63375394,2015.08.14,0,La Calor,Pablito Escobar,86391473,pamela37@example.org,10.4002813,-75.5,Helen Dominguez,2015.08.14,832,Carlos Barrera,613,770,Tienda5
+44899489,4,redmie note 9s,99930013,2018.07.21,0,La Calor,Pablito Escobar,75201667,brownnicole@example.com,10.4002813,-75.5,John Lamb,2018.07.21,458,Dr. James Long,923,914,Tienda5
+56864742,2,redmi note 8,15795069,2008.02.19,0,Tierra del aleteo,Pablito Escobar,57375659,fuenteszachary@example.com,6.2441988,-75.6,Sarah Wright,2008.02.19,245,Gregory Price,165,713,Tienda5
+63562151,5,redmi 7,22754209,1972.10.19,0,La Calor,Pablito Escobar,70660273,jefferykeller@example.org,10.4002813,-75.5,Alex Jones,1972.10.19,445,Jill Gonzalez,54,89,Tienda5
+15352784,1,redmi note 7,53874173,1984.01.08,0,Tierra del aleteo,Pablito Escobar,39688888,richard02@example.com,6.2441988,-75.6,Elizabeth Hanson,1984.01.08,335,Peter Young,525,647,Tienda5
+79003797,7,redmi 9,66177675,1989.04.15,0,Tierra del aleteo,Pablito Escobar,39583609,jodyjames@example.org,6.2441988,-75.6,Margaret Rogers,1989.04.15,957,Christopher Garcia,23,535,Tienda5
+78534072,4,redmie note 9s,83687794,2018.12.23,0,Rololandia,Pablito Escobar,38180030,rhonda29@example.com,4.648625,-74.1,David Lynch,2018.12.23,527,Kristin Mills,900,398,Tienda5
+19473819,4,redmie note 9s,67802378,2005.07.11,0,La Calor,Pablito Escobar,62425832,robersonpaul@example.com,10.4002813,-75.5,Andrew Travis,2005.07.11,519,John Wallace,518,926,Tienda5
+54459259,7,redmi 9,70895118,2013.03.17,0,La Calor,Pablito Escobar,48159754,wardsherry@example.com,10.4002813,-75.5,Christopher Silva,2013.03.17,504,Joseph Williams,630,501,Tienda5
+14158375,2,redmi note 8,34194655,2012.11.17,0,Tierra del aleteo,Pablito Escobar,4303249,victor42@example.com,6.2441988,-75.6,Kari Gonzalez,2012.11.17,246,Phillip Weiss,812,667,Tienda5
+65835498,3,redmi note 9,45586442,1997.04.03,0,Tierra del aleteo,Pablito Escobar,23501323,alisonvazquez@example.org,6.2441988,-75.6,Nancy Smith,1997.04.03,52,John Larson,975,683,Tienda5
+1337222,4,redmie note 9s,7538227,1997.06.17,0,machupichu,Palomas,27019394,danny47@example.net,-12.037964,-77.0503238,Molly Zimmerman,1997.06.17,296,Michael Bryant,351,583,Tienda5
+78273402,6,redmi 8,61632996,1973.06.14,0,Rololandia,Pablito Escobar,24767277,courtneywright@example.com,4.648625,-74.1,Eric Rosario,1973.06.14,700,William Cole,306,646,Tienda5
+44566942,2,redmi note 8,67020337,1989.09.17,0,machupichu,Palomas,16932948,hbender@example.com,-12.037964,-77.0503238,Marie Phelps,1989.09.17,582,Douglas Nelson,474,722,Tienda5
+17398275,2,redmi note 8,90760840,1993.06.23,0,machupichu,Palomas,76408981,jonathon56@example.net,-12.037964,-77.0503238,David Sampson,1993.06.23,484,Marc Blackwell,891,515,Tienda5
+76826902,3,redmi note 9,68052744,1975.08.12,0,machupichu,Palomas,90298215,johnsonjulie@example.com,-12.037964,-77.0503238,Danielle Hull,1975.08.12,327,Melissa Shaw,402,548,Tienda5
+36363633,5,redmi 7,82330601,1979.05.19,0,Tierra del aleteo,Pablito Escobar,50565821,espinozajennifer@example.com,6.2441988,-75.6,Erin Hoffman,1979.05.19,67,Thomas Mcdowell,924,817,Tienda5
+72247045,7,redmi 9,93786886,2008.05.20,0,machupichu,Palomas,25646064,tarascott@example.com,-12.037964,-77.0503238,Susan Vasquez,2008.05.20,166,Michael Shaw,186,744,Tienda5
+28736370,6,redmi 8,99970381,2004.05.26,0,machupichu,Palomas,33872927,richardcabrera@example.org,-12.037964,-77.0503238,Travis Higgins,2004.05.26,111,Robert Conner,902,260,Tienda5
+2572548,5,redmi 7,50214916,2021.03.16,0,La Calor,Pablito Escobar,35981061,smithjanice@example.org,10.4002813,-75.5,Angela Rogers,2021.03.16,468,Jamie Willis,999,860,Tienda5
+69477376,5,redmi 7,71697103,2006.01.03,0,Tierra del aleteo,Pablito Escobar,5206068,cynthiacardenas@example.net,6.2441988,-75.6,Breanna Gibson,2006.01.03,101,Scott Thomas,241,612,Tienda5
+65633703,1,redmi note 7,54882708,1970.09.24,0,La Calor,Pablito Escobar,25728487,amy05@example.com,10.4002813,-75.5,Douglas Carter,1970.09.24,848,Haley Gordon,219,346,Tienda5
+36952988,6,redmi 8,17927795,1986.10.07,0,La Calor,Pablito Escobar,43176562,stacey36@example.net,10.4002813,-75.5,Brian Gallagher,1986.10.07,711,Victor Harvey,832,737,Tienda5
+67998107,1,redmi note 7,63506434,2000.05.17,0,Rololandia,Pablito Escobar,22796653,zfrank@example.com,4.648625,-74.1,Nicole Roberts,2000.05.17,973,Tommy White,63,47,Tienda5
+4182542,6,redmi 8,26079097,1971.10.12,0,Rololandia,Pablito Escobar,39045736,ndavis@example.org,4.648625,-74.1,Crystal Simmons,1971.10.12,550,Kevin Lyons,524,866,Tienda5
+12562427,2,redmi note 8,21556201,2020.05.31,0,machupichu,Palomas,73003599,aliciawilliams@example.com,-12.037964,-77.0503238,William Griffin,2020.05.31,169,Jose Bradley,327,251,Tienda5
+98454297,1,redmi note 7,41944114,2006.12.17,0,machupichu,Palomas,54071340,yvonne21@example.org,-12.037964,-77.0503238,Roberta Jacobson,2006.12.17,154,James Martin,598,54,Tienda5
+76307079,2,redmi note 8,77241609,2009.01.07,0,machupichu,Palomas,84006934,john81@example.com,-12.037964,-77.0503238,Brittney Reilly,2009.01.07,623,Elizabeth Anthony,23,641,Tienda5
+49278148,1,redmi note 7,76992266,2001.01.16,0,La Calor,Pablito Escobar,92340551,seanlivingston@example.org,10.4002813,-75.5,Gabriel Flowers,2001.01.16,519,Jessica Wilkins,942,11,Tienda5
+46131163,3,redmi note 9,73833921,2016.11.06,0,machupichu,Palomas,26851867,ucarrillo@example.org,-12.037964,-77.0503238,Meghan Alvarez,2016.11.06,374,Jeffrey Richardson,470,879,Tienda5
+21854090,2,redmi note 8,16247730,2011.09.04,5,Tierra del aleteo,Pablito Escobar,97347310,shannonfowler@example.net,6.2441988,-75.6,Lisa Lee,2011.09.04,327,Carla Nguyen,919,193,Tienda5
+85051756,1,redmi note 7,36046971,1989.06.23,0,Rololandia,Pablito Escobar,18361497,hinessamantha@example.org,4.648625,-74.1,Adam Spencer,1989.06.23,295,Dylan Wood,915,173,Tienda5
+23236821,6,redmi 8,28177428,1998.05.11,4,La Calor,Pablito Escobar,49376410,allenchristopher@example.com,10.4002813,-75.5,Tonya Sparks,1998.05.11,260,Vincent Rice,230,2,Tienda5
+96465514,1,redmi note 7,24001216,1970.12.18,0,Tierra del aleteo,Pablito Escobar,80611636,bdiaz@example.com,6.2441988,-75.6,Andrea Green,1970.12.18,321,Marc Robbins DDS,243,322,Tienda5
+16730115,7,redmi 9,21350995,1977.12.12,0,machupichu,Palomas,30857327,sean19@example.org,-12.037964,-77.0503238,Thomas Edwards,1977.12.12,262,Marcus Davis,746,729,Tienda5
+75880328,6,redmi 8,23433461,1982.05.07,0,Tierra del aleteo,Pablito Escobar,90059109,katherinevance@example.net,6.2441988,-75.6,Tina Nichols,1982.05.07,731,Erin Green,516,601,Tienda5
+26476828,4,redmie note 9s,18999236,1987.03.05,0,Rololandia,Pablito Escobar,47378088,ifarrell@example.com,4.648625,-74.1,Nicole Smith,1987.03.05,390,David Sullivan,83,964,Tienda5
+44964137,1,redmi note 7,29884795,1989.09.30,0,machupichu,Palomas,38089975,alexander94@example.net,-12.037964,-77.0503238,Warren Johnson,1989.09.30,615,Kenneth Rodriguez,681,55,Tienda5
+60974760,6,redmi 8,91108389,1980.05.22,0,Tierra del aleteo,Pablito Escobar,5433458,knoxpatricia@example.net,6.2441988,-75.6,Stephanie Gonzales,1980.05.22,616,Alison Smith,368,846,Tienda5
+68312712,5,redmi 7,68731211,1987.10.01,0,machupichu,Palomas,81421451,austindavid@example.org,-12.037964,-77.0503238,Lisa Jones,1987.10.01,37,Ryan Wilkinson,536,237,Tienda5
+91738405,4,redmie note 9s,1107164,1970.10.09,0,Tierra del aleteo,Pablito Escobar,9151880,dianalam@example.org,6.2441988,-75.6,Brady Romero,1970.10.09,200,Nicole Gonzalez,735,424,Tienda5
+63229477,1,redmi note 7,42159979,1970.04.07,0,machupichu,Palomas,57320854,holmesdorothy@example.org,-12.037964,-77.0503238,Mark Cohen,1970.04.07,697,Shawn Miller,602,321,Tienda5
+79210682,2,redmi note 8,98435058,1983.11.08,0,Rololandia,Pablito Escobar,22688567,tgonzalez@example.com,4.648625,-74.1,Brittany Williams,1983.11.08,436,Emily Campbell,619,311,Tienda5
+12326334,5,redmi 7,63660708,2013.01.14,0,Rololandia,Pablito Escobar,32236369,daniel65@example.net,4.648625,-74.1,Shari Black,2013.01.14,618,Brian Hanson,822,132,Tienda5
+16928480,5,redmi 7,37776988,2008.12.27,0,Rololandia,Pablito Escobar,85180066,vroberts@example.com,4.648625,-74.1,Kevin Lambert,2008.12.27,261,Derrick Young,48,8,Tienda5
+91538429,6,redmi 8,90079142,2012.02.10,0,Tierra del aleteo,Pablito Escobar,28120383,william75@example.org,6.2441988,-75.6,Russell Adkins,2012.02.10,178,Brooke Levy,436,26,Tienda5
+15025730,5,redmi 7,26306934,1977.03.15,0,La Calor,Pablito Escobar,23975383,sharonwright@example.net,10.4002813,-75.5,Jordan Peck,1977.03.15,819,John Reed,940,665,Tienda5
+3463683,2,redmi note 8,88441947,1971.11.02,0,Rololandia,Pablito Escobar,43597951,pbraun@example.net,4.648625,-74.1,Charles Williams,1971.11.02,558,Deanna Miller,418,969,Tienda5
+1058459,5,redmi 7,86936313,1980.07.01,0,Tierra del aleteo,Pablito Escobar,7712590,wmorris@example.net,6.2441988,-75.6,Tony Orozco MD,1980.07.01,482,Roy Payne,206,715,Tienda5
+80785305,7,redmi 9,80713353,2004.01.28,0,Tierra del aleteo,Pablito Escobar,500791,hallcourtney@example.net,6.2441988,-75.6,Fred Torres,2004.01.28,449,Brenda Mccarthy,823,384,Tienda5
+97018233,5,redmi 7,13013072,1976.04.15,0,machupichu,Palomas,62434959,briana22@example.com,-12.037964,-77.0503238,Anthony Dillon,1976.04.15,432,Amy Hill,225,829,Tienda5
+76343530,5,redmi 7,29966837,2012.01.30,0,Rololandia,Pablito Escobar,79196703,ythomas@example.org,4.648625,-74.1,Lori Roberson,2012.01.30,183,Denise Maynard,741,380,Tienda5
+70726672,4,redmie note 9s,69404522,1973.05.05,0,machupichu,Palomas,23886671,nicholas81@example.net,-12.037964,-77.0503238,Ruben Jones,1973.05.05,429,Allison Mcclain,945,968,Tienda5
+42949880,2,redmi note 8,53600282,2010.05.18,3,La Calor,Pablito Escobar,63900900,nelsonmelinda@example.com,10.4002813,-75.5,Brenda Thomas,2010.05.18,232,Robert Clements,747,775,Tienda5
+47138707,1,redmi note 7,70578273,1976.10.10,0,Rololandia,Pablito Escobar,11528389,philiprodriguez@example.com,4.648625,-74.1,Melanie Mcmahon,1976.10.10,281,Kristina Holland,859,150,Tienda5
+33000691,4,redmie note 9s,68965212,2013.06.14,0,La Calor,Pablito Escobar,57357429,wsmith@example.org,10.4002813,-75.5,Adam Reyes,2013.06.14,688,Steven Scott,621,625,Tienda5
+90088435,1,redmi note 7,71775844,2016.02.03,0,Rololandia,Pablito Escobar,53346721,josephwebb@example.net,4.648625,-74.1,Justin Walter,2016.02.03,439,Marvin Davis,92,36,Tienda5
+80736823,3,redmi note 9,87995250,1993.11.02,0,machupichu,Palomas,25376103,ythompson@example.org,-12.037964,-77.0503238,Katie Evans,1993.11.02,333,Rachel Ramirez,253,572,Tienda5
+67319402,2,redmi note 8,27827456,1987.12.15,0,La Calor,Pablito Escobar,23086527,bpowers@example.org,10.4002813,-75.5,Deanna Hurley MD,1987.12.15,678,Whitney Fisher,651,724,Tienda5
+4222055,2,redmi note 8,45839605,1971.04.23,0,machupichu,Palomas,32870687,michelle75@example.net,-12.037964,-77.0503238,Marisa Hudson,1971.04.23,299,Timothy Ruiz,321,666,Tienda5
+77686024,6,redmi 8,48451057,1975.09.09,0,La Calor,Pablito Escobar,21019147,claudia34@example.com,10.4002813,-75.5,Nicole Haas,1975.09.09,285,Jacob Wright,846,134,Tienda5
+64991870,1,redmi note 7,25397215,2009.10.07,0,machupichu,Palomas,44271002,jrichardson@example.org,-12.037964,-77.0503238,Larry Oliver,2009.10.07,165,Adam Allen,729,597,Tienda5
+21443131,5,redmi 7,54468827,1985.02.14,0,La Calor,Pablito Escobar,86977905,linda08@example.com,10.4002813,-75.5,Samuel Rivera,1985.02.14,7,Jason Montgomery,498,186,Tienda5
+75068675,5,redmi 7,65750206,2003.01.15,0,La Calor,Pablito Escobar,53887737,kathleenhernandez@example.org,10.4002813,-75.5,Jonathan Long,2003.01.15,509,Sharon Conner,859,329,Tienda5
+9847309,3,redmi note 9,8197575,1970.10.24,0,machupichu,Palomas,62475841,ashleydavis@example.net,-12.037964,-77.0503238,Ernest Hendricks,1970.10.24,573,Gerald Martinez,723,974,Tienda5
+99708483,5,redmi 7,8670123,2021.06.15,0,Tierra del aleteo,Pablito Escobar,99190740,jeffreyparker@example.org,6.2441988,-75.6,Robert Duran,2021.06.15,555,Joseph Rios,500,55,Tienda5
+92689923,6,redmi 8,16873744,1983.08.21,0,La Calor,Pablito Escobar,70424785,martinanthony@example.net,10.4002813,-75.5,Melissa Melton,1983.08.21,57,Lauren Luna,242,818,Tienda5
+8769352,6,redmi 8,54138027,1981.04.08,0,Tierra del aleteo,Pablito Escobar,33808478,williamolsen@example.com,6.2441988,-75.6,Aaron Lopez,1981.04.08,292,Zachary Stevens,192,758,Tienda5
+20509616,1,redmi note 7,8689802,1972.03.28,4,machupichu,Palomas,63803420,kimgarcia@example.org,-12.037964,-77.0503238,Lisa Johnston,1972.03.28,518,Frank Mcdonald,427,289,Tienda5
+68050510,4,redmie note 9s,85136994,1995.07.23,0,La Calor,Pablito Escobar,39193346,robert17@example.net,10.4002813,-75.5,Adam Martinez,1995.07.23,588,Dalton Nelson,321,909,Tienda5
+12082961,5,redmi 7,74048941,1988.08.13,0,machupichu,Palomas,4383232,tnelson@example.net,-12.037964,-77.0503238,Cynthia Thompson,1988.08.13,669,Tami Jordan,214,255,Tienda5
+98460615,7,redmi 9,35462538,2014.03.04,0,machupichu,Palomas,83016111,scott00@example.net,-12.037964,-77.0503238,Jesse Williams,2014.03.04,319,Elizabeth Nguyen,862,474,Tienda5
+89398346,6,redmi 8,41018638,1973.04.25,0,Rololandia,Pablito Escobar,30276037,ugalloway@example.com,4.648625,-74.1,Michelle Shah,1973.04.25,486,Courtney Anderson,595,689,Tienda5
+48284878,6,redmi 8,34280365,1977.10.09,0,Rololandia,Pablito Escobar,3969768,tfernandez@example.org,4.648625,-74.1,Thomas Wiggins,1977.10.09,856,Andre Frederick,135,568,Tienda5
+63358030,5,redmi 7,79173170,2011.03.26,0,La Calor,Pablito Escobar,17667149,gibsonbrittany@example.net,10.4002813,-75.5,Alicia Palmer,2011.03.26,827,Peter Johnston,905,913,Tienda5
+32320449,2,redmi note 8,67048140,1991.06.15,5,La Calor,Pablito Escobar,64688109,alyssajames@example.org,10.4002813,-75.5,John Lynch,1991.06.15,991,John Nelson,872,817,Tienda5
+25175722,1,redmi note 7,17678057,1996.02.14,4,Rololandia,Pablito Escobar,99232132,santosbenjamin@example.com,4.648625,-74.1,Benjamin Carpenter,1996.02.14,265,Sierra Martin,243,389,Tienda5
+92884125,3,redmi note 9,62959072,2015.07.07,0,Tierra del aleteo,Pablito Escobar,61159819,amyrobles@example.com,6.2441988,-75.6,Billy Mcclain,2015.07.07,999,Benjamin Brown,372,916,Tienda5
+98149465,4,redmie note 9s,63805817,1978.01.22,0,Tierra del aleteo,Pablito Escobar,62750850,williamsbob@example.com,6.2441988,-75.6,Lisa Johnson,1978.01.22,273,Peggy Scott,759,914,Tienda5
+82770835,4,redmie note 9s,76586247,2004.03.11,0,machupichu,Palomas,51164419,andrewboyd@example.org,-12.037964,-77.0503238,James Rangel,2004.03.11,322,Steven Rocha,862,256,Tienda5
+45718834,7,redmi 9,91486632,1976.02.22,0,Rololandia,Pablito Escobar,83022326,lewiselizabeth@example.com,4.648625,-74.1,Elizabeth Ryan,1976.02.22,388,Jeff Peterson,216,223,Tienda5
+38734330,2,redmi note 8,13961698,1982.10.02,0,Tierra del aleteo,Pablito Escobar,75380380,usmith@example.net,6.2441988,-75.6,April Terry,1982.10.02,886,Olivia Vincent,342,1000,Tienda5
+89715977,5,redmi 7,34003821,1999.11.24,0,machupichu,Palomas,74054776,qreynolds@example.org,-12.037964,-77.0503238,Michael Maldonado,1999.11.24,201,Juan Stewart,793,830,Tienda5
+35094594,6,redmi 8,50419100,2014.03.27,0,Tierra del aleteo,Pablito Escobar,42438141,anthony76@example.org,6.2441988,-75.6,Angela Patel,2014.03.27,620,Michael Moran,109,624,Tienda5
+54815602,5,redmi 7,33385336,2003.02.13,0,Tierra del aleteo,Pablito Escobar,98800896,ihall@example.com,6.2441988,-75.6,Danny Reyes,2003.02.13,363,Linda Franklin,117,857,Tienda5
+10775116,3,redmi note 9,85011950,2015.02.25,3,machupichu,Palomas,79960004,hernandezmelanie@example.org,-12.037964,-77.0503238,Joanne Ramos,2015.02.25,891,Isaac Pena,460,927,Tienda5
+13748510,6,redmi 8,38367239,2013.05.21,0,La Calor,Pablito Escobar,20563889,hduran@example.com,10.4002813,-75.5,Jason Fowler,2013.05.21,124,Melissa Moses,78,86,Tienda5
+92370922,4,redmie note 9s,74419605,2010.01.18,0,machupichu,Palomas,6453312,wrightelizabeth@example.com,-12.037964,-77.0503238,Mark Tyler,2010.01.18,676,Andrew Patton,245,490,Tienda5
+42065361,4,redmie note 9s,80098675,2016.03.13,0,machupichu,Palomas,12398271,jasoncortez@example.net,-12.037964,-77.0503238,Howard Kelly,2016.03.13,858,Kimberly Riley,624,831,Tienda5
+7331357,1,redmi note 7,41615319,2012.12.17,0,machupichu,Palomas,82529698,kristi06@example.org,-12.037964,-77.0503238,Brian Payne,2012.12.17,108,Jason Watson,544,912,Tienda5
+67680192,6,redmi 8,24251325,2007.06.02,0,Rololandia,Pablito Escobar,3137088,daniel61@example.net,4.648625,-74.1,Paula Case,2007.06.02,436,Sharon Taylor,551,976,Tienda5
+13832664,6,redmi 8,65995264,1976.04.19,0,La Calor,Pablito Escobar,36314513,marymartinez@example.com,10.4002813,-75.5,Heather Brown,1976.04.19,691,Rhonda Rodgers,112,993,Tienda5
+91540019,7,redmi 9,352734,1978.03.05,0,Tierra del aleteo,Pablito Escobar,93348848,weeksashley@example.net,6.2441988,-75.6,Fernando Rose,1978.03.05,281,Michael Long,590,281,Tienda5
+49358098,2,redmi note 8,65618117,2021.02.20,0,La Calor,Pablito Escobar,10620269,edwin33@example.org,10.4002813,-75.5,John Young,2021.02.20,707,Jamie Casey,693,362,Tienda5
+68868636,6,redmi 8,6149603,1998.06.28,0,Tierra del aleteo,Pablito Escobar,91337870,samuelgutierrez@example.com,6.2441988,-75.6,Thomas Wilson,1998.06.28,470,Angela Foster,148,921,Tienda5
+82807218,5,redmi 7,18435409,1995.05.21,0,Rololandia,Pablito Escobar,26083997,patriciacoleman@example.org,4.648625,-74.1,Joseph Estrada,1995.05.21,231,Sara Wilson,973,310,Tienda5
+74602966,5,redmi 7,89294834,1999.09.30,3,La Calor,Pablito Escobar,50037324,ylam@example.com,10.4002813,-75.5,Thomas Lambert,1999.09.30,354,William Moreno,300,886,Tienda5
+22740536,4,redmie note 9s,86504090,2001.05.21,0,Tierra del aleteo,Pablito Escobar,80440191,ggreen@example.org,6.2441988,-75.6,Mary Johnson,2001.05.21,849,Leslie Bean,947,897,Tienda5
+79562651,2,redmi note 8,31085189,1971.04.12,0,machupichu,Palomas,15866353,wooderica@example.net,-12.037964,-77.0503238,Bernard Carroll,1971.04.12,144,Elaine Walker,292,365,Tienda5
+93306512,7,redmi 9,78145726,2014.07.14,4,Tierra del aleteo,Pablito Escobar,56685147,martincheyenne@example.com,6.2441988,-75.6,Lauren Lam,2014.07.14,285,Charles Moran,866,822,Tienda5
+67151966,4,redmie note 9s,1876843,1995.03.24,0,Rololandia,Pablito Escobar,42375473,twebster@example.net,4.648625,-74.1,Wayne Perry,1995.03.24,552,Jennifer Phillips,972,841,Tienda5
+37235508,3,redmi note 9,43253062,1981.02.23,5,Rololandia,Pablito Escobar,74399822,katelyndickson@example.net,4.648625,-74.1,Derek Jordan,1981.02.23,18,Michael Moore,122,527,Tienda5
+61520802,6,redmi 8,47501692,1985.07.11,5,La Calor,Pablito Escobar,66795697,bcurry@example.net,10.4002813,-75.5,Jeffrey Reynolds,1985.07.11,941,Theresa Cooper,961,51,Tienda5
+69994171,2,redmi note 8,8576102,1973.11.27,0,machupichu,Palomas,9548176,holdenjacob@example.org,-12.037964,-77.0503238,Anthony Suarez,1973.11.27,764,Curtis Willis,400,853,Tienda5
+43263190,6,redmi 8,32547818,2012.01.29,0,La Calor,Pablito Escobar,81820223,richardrichard@example.org,10.4002813,-75.5,Cindy Rowe,2012.01.29,523,Vanessa Ramirez,641,351,Tienda5
+53425932,3,redmi note 9,23488485,2008.01.29,0,La Calor,Pablito Escobar,65746245,sfrye@example.net,10.4002813,-75.5,Patrick Mcguire,2008.01.29,18,Kylie Wilson,441,165,Tienda5
+71226436,4,redmie note 9s,10793118,1972.07.10,0,machupichu,Palomas,66138958,ckim@example.com,-12.037964,-77.0503238,Erica Jones,1972.07.10,636,Christopher Hobbs,40,240,Tienda5
+33844707,2,redmi note 8,597499,1970.07.15,5,La Calor,Pablito Escobar,70308539,briannawatkins@example.net,10.4002813,-75.5,John Benton,1970.07.15,914,Lori Byrd,469,436,Tienda5
+28116048,6,redmi 8,91281063,2007.11.10,0,La Calor,Pablito Escobar,18159477,toddreese@example.org,10.4002813,-75.5,Rachael Mueller,2007.11.10,831,Albert Smith,237,276,Tienda5
+23868483,6,redmi 8,30205768,1998.06.26,0,machupichu,Palomas,79319216,vegajeremy@example.com,-12.037964,-77.0503238,Christopher Moore,1998.06.26,582,Jamie Anderson,225,915,Tienda5
+13117032,5,redmi 7,63852174,1990.11.06,0,La Calor,Pablito Escobar,60114490,ywilliams@example.net,10.4002813,-75.5,James Campos,1990.11.06,841,Nicholas Bright,649,643,Tienda5
+35536532,7,redmi 9,77462813,1995.09.07,0,machupichu,Palomas,46225564,meltonjoseph@example.com,-12.037964,-77.0503238,Philip Mcconnell,1995.09.07,556,Joan Barker,357,410,Tienda5
+74192995,7,redmi 9,89080243,2012.03.19,0,Rololandia,Pablito Escobar,27883095,kimberly32@example.org,4.648625,-74.1,Lauren Moore,2012.03.19,667,Edward Holmes,253,768,Tienda5
+72383848,5,redmi 7,61526862,2021.08.28,0,Tierra del aleteo,Pablito Escobar,30786623,sgarcia@example.net,6.2441988,-75.6,Kathleen Wilkinson,2021.08.28,120,Russell Flores,700,113,Tienda5
+26253619,3,redmi note 9,63581201,2002.02.25,0,Tierra del aleteo,Pablito Escobar,66254091,mariachambers@example.com,6.2441988,-75.6,Linda Walters,2002.02.25,76,Kenneth Oneal,155,991,Tienda5
+17655766,5,redmi 7,6142770,1981.11.13,0,Tierra del aleteo,Pablito Escobar,71852713,robertkoch@example.com,6.2441988,-75.6,Denise Delacruz,1981.11.13,882,Thomas Lee,820,707,Tienda5
+9581781,4,redmie note 9s,53013379,1988.02.07,0,machupichu,Palomas,62088948,nmorales@example.org,-12.037964,-77.0503238,Manuel Simpson,1988.02.07,411,Angela Carr,83,85,Tienda5
+97599166,5,redmi 7,40331770,1999.07.14,0,Rololandia,Pablito Escobar,59493615,traciegarrett@example.org,4.648625,-74.1,Jessica Vaughn,1999.07.14,693,Jim Neal,260,545,Tienda5
+98735453,7,redmi 9,43118499,1971.09.25,0,Tierra del aleteo,Pablito Escobar,36447535,stuartkatherine@example.com,6.2441988,-75.6,Cheryl Benitez,1971.09.25,600,Robert Jones,735,137,Tienda5
+41557824,3,redmi note 9,69545009,1989.12.18,0,La Calor,Pablito Escobar,92635889,copelandjeffrey@example.net,10.4002813,-75.5,Nicholas Brown,1989.12.18,626,Carmen Johnston,723,491,Tienda5
+59250452,7,redmi 9,4855525,1981.12.22,0,machupichu,Palomas,55712551,mharrington@example.net,-12.037964,-77.0503238,David Thompson,1981.12.22,163,Kristy Thompson,930,147,Tienda5
+35063092,6,redmi 8,14613730,2019.09.09,0,La Calor,Pablito Escobar,58820910,perkinsjeffrey@example.com,10.4002813,-75.5,John James,2019.09.09,13,Michelle Williams,389,204,Tienda5
+33415694,5,redmi 7,21961643,2020.03.29,3,Rololandia,Pablito Escobar,54134963,snyderamy@example.org,4.648625,-74.1,Charles White,2020.03.29,505,George Williams,943,899,Tienda5
+61911389,2,redmi note 8,46074647,2010.07.24,0,machupichu,Palomas,4838536,michael65@example.net,-12.037964,-77.0503238,Victoria Lee,2010.07.24,225,Lori Davis,645,620,Tienda5
+2920899,3,redmi note 9,22804797,1974.12.23,0,Rololandia,Pablito Escobar,76451621,ynewman@example.net,4.648625,-74.1,Hector Perez,1974.12.23,100,Erica Reynolds,387,680,Tienda5
+95822042,7,redmi 9,84252611,2020.11.21,0,Rololandia,Pablito Escobar,72178252,vlewis@example.net,4.648625,-74.1,Vanessa Craig,2020.11.21,168,Courtney Little,446,502,Tienda5
+25391908,5,redmi 7,5180691,2013.01.29,0,Rololandia,Pablito Escobar,10355517,bgonzales@example.net,4.648625,-74.1,James Weber,2013.01.29,742,Brian Rodriguez,386,515,Tienda5
+37683387,1,redmi note 7,40348718,1977.08.26,0,Rololandia,Pablito Escobar,27064521,mariah82@example.org,4.648625,-74.1,Angela Jones,1977.08.26,468,Brad Booth,301,223,Tienda5
+8511485,4,redmie note 9s,60905559,1973.03.28,0,La Calor,Pablito Escobar,47268374,ronaldlara@example.com,10.4002813,-75.5,Steven Flynn,1973.03.28,118,Jose Delgado,909,737,Tienda5
+94884461,2,redmi note 8,91283454,2014.01.12,0,machupichu,Palomas,43800495,melaniehoover@example.net,-12.037964,-77.0503238,Jason Campbell,2014.01.12,97,Marcus Roberts,896,368,Tienda5
+99510612,1,redmi note 7,77988305,1975.01.29,0,Rololandia,Pablito Escobar,80101776,palmerandrew@example.net,4.648625,-74.1,Benjamin Myers,1975.01.29,928,Erin Brewer,488,149,Tienda5
+3622084,6,redmi 8,19507132,1997.09.23,0,Rololandia,Pablito Escobar,31608630,lauramoreno@example.com,4.648625,-74.1,Courtney Wong,1997.09.23,829,Jason Pope,426,300,Tienda5
+97946849,5,redmi 7,43508408,1977.01.15,2,Rololandia,Pablito Escobar,36267,sandra14@example.org,4.648625,-74.1,Kimberly Sampson,1977.01.15,201,Michael Bass,957,537,Tienda5
+98282296,7,redmi 9,91049806,1993.03.01,0,machupichu,Palomas,15353854,preston44@example.net,-12.037964,-77.0503238,Joshua Russell,1993.03.01,582,Karen Randolph,329,877,Tienda5
+88303966,2,redmi note 8,44852729,1974.05.06,0,La Calor,Pablito Escobar,62650970,manningphyllis@example.org,10.4002813,-75.5,Sheila Clark,1974.05.06,478,Kelly Moyer,221,157,Tienda5
+94901889,1,redmi note 7,42642764,1994.06.17,0,machupichu,Palomas,12373751,xcrawford@example.com,-12.037964,-77.0503238,Chloe Navarro,1994.06.17,585,Richard Johnson,502,979,Tienda5
+23721247,1,redmi note 7,42180625,2004.04.03,4,Tierra del aleteo,Pablito Escobar,65877619,michael80@example.com,6.2441988,-75.6,Elizabeth Leon,2004.04.03,689,Christopher Powell,415,823,Tienda5
+68700667,5,redmi 7,2009427,2002.11.14,0,Rololandia,Pablito Escobar,52110594,howelllaura@example.net,4.648625,-74.1,Mary Hess,2002.11.14,35,Antonio Bennett,243,714,Tienda5
+74763824,6,redmi 8,31140891,2010.03.13,2,Tierra del aleteo,Pablito Escobar,35106325,kflores@example.com,6.2441988,-75.6,Joshua Woodward,2010.03.13,196,Regina Parker,209,850,Tienda5
+51474466,5,redmi 7,13289682,1989.04.04,0,machupichu,Palomas,81743940,wjohnson@example.com,-12.037964,-77.0503238,Brandy Moreno,1989.04.04,463,Tiffany Mann,259,541,Tienda5
+19302399,2,redmi note 8,21586974,1997.09.14,0,Tierra del aleteo,Pablito Escobar,79529469,alexandralong@example.net,6.2441988,-75.6,Erin Navarro,1997.09.14,838,Jonathan Grant,940,593,Tienda5
+3076916,4,redmie note 9s,12773997,2008.12.30,0,La Calor,Pablito Escobar,14165840,cabrerakelli@example.org,10.4002813,-75.5,Stacy Allison,2008.12.30,927,Vickie Ramos,215,139,Tienda5
+61685578,2,redmi note 8,58853891,1984.10.09,5,Tierra del aleteo,Pablito Escobar,69147533,stevenbutler@example.org,6.2441988,-75.6,James Soto,1984.10.09,169,Stephen Hicks,946,858,Tienda5
+28178815,6,redmi 8,9210999,2002.06.28,0,Rololandia,Pablito Escobar,69138733,vcastro@example.net,4.648625,-74.1,Luke Sandoval,2002.06.28,643,Cody Martinez,156,968,Tienda5
+62111613,4,redmie note 9s,92394069,1994.05.16,0,Rololandia,Pablito Escobar,70007830,william51@example.net,4.648625,-74.1,Robert Cline,1994.05.16,331,Katherine King,599,263,Tienda5
+49670182,6,redmi 8,61743429,2005.01.15,0,Rololandia,Pablito Escobar,618983,barneslindsey@example.org,4.648625,-74.1,Jonathan Barnett,2005.01.15,935,James Smith,621,767,Tienda5
+33953474,1,redmi note 7,69402474,2005.03.10,0,La Calor,Pablito Escobar,77145755,kjones@example.org,10.4002813,-75.5,Cindy Scott,2005.03.10,211,Janice Skinner,827,989,Tienda5
+83407274,3,redmi note 9,2202255,2020.07.03,0,machupichu,Palomas,67961653,joshua38@example.org,-12.037964,-77.0503238,Matthew Cobb,2020.07.03,587,Sarah Jones,351,823,Tienda5
+72863188,6,redmi 8,8094258,1972.10.31,0,Rololandia,Pablito Escobar,16228583,emilyhood@example.net,4.648625,-74.1,Kenneth Smith,1972.10.31,193,Loretta Matthews,135,175,Tienda5
+20335213,1,redmi note 7,35751380,1995.04.05,0,Rololandia,Pablito Escobar,31459460,caleb25@example.net,4.648625,-74.1,Justin Garcia,1995.04.05,610,April Black,446,368,Tienda5
+34877634,5,redmi 7,27676371,2016.05.19,0,Tierra del aleteo,Pablito Escobar,83166583,john58@example.net,6.2441988,-75.6,Ronald Gray,2016.05.19,105,Ashley Meyer,116,741,Tienda5
+5496152,5,redmi 7,11084652,1993.09.15,0,Tierra del aleteo,Pablito Escobar,46758304,qday@example.com,6.2441988,-75.6,James Nichols,1993.09.15,112,Diana Curtis,347,20,Tienda5
+51951165,6,redmi 8,48811537,2000.09.19,0,Tierra del aleteo,Pablito Escobar,43440903,lopezstephanie@example.net,6.2441988,-75.6,Matthew Stone,2000.09.19,610,Bethany Simmons,354,144,Tienda5
+41348580,2,redmi note 8,58753516,2011.04.05,0,La Calor,Pablito Escobar,71042165,cooksarah@example.org,10.4002813,-75.5,Taylor Long,2011.04.05,610,Misty Wilson,740,488,Tienda5
+1019808,1,redmi note 7,87564442,2012.02.01,0,La Calor,Pablito Escobar,2333290,rreese@example.com,10.4002813,-75.5,Elizabeth Taylor,2012.02.01,130,Dana Smith,287,657,Tienda5
+97012101,4,redmie note 9s,64436687,1999.01.25,4,Tierra del aleteo,Pablito Escobar,48876541,whiteheadkenneth@example.org,6.2441988,-75.6,Lisa Brown,1999.01.25,144,Katie Perry,239,515,Tienda5
+97494359,2,redmi note 8,62421507,1999.01.01,0,Tierra del aleteo,Pablito Escobar,76788261,vmahoney@example.com,6.2441988,-75.6,Ronald Mendoza,1999.01.01,334,Debbie Rose,302,75,Tienda5
+22165117,1,redmi note 7,50227093,1987.07.23,0,machupichu,Palomas,33843798,teresamolina@example.org,-12.037964,-77.0503238,Kevin Casey,1987.07.23,136,Rachel Huff,558,527,Tienda5
+74238896,5,redmi 7,39118986,2000.12.28,0,La Calor,Pablito Escobar,62110154,rebecca76@example.org,10.4002813,-75.5,David Thompson,2000.12.28,858,Jay Moody,628,68,Tienda5
+78670942,2,redmi note 8,17514017,2005.03.07,0,machupichu,Palomas,70977413,ralexander@example.com,-12.037964,-77.0503238,Adam Jacobs,2005.03.07,539,Stephanie Davis,561,208,Tienda5
+94144340,3,redmi note 9,61457659,1992.06.16,0,Rololandia,Pablito Escobar,39708667,cynthiaraymond@example.com,4.648625,-74.1,Caleb Nixon,1992.06.16,38,Juan Ray,579,145,Tienda5
+40417282,3,redmi note 9,19936613,2001.12.22,0,Rololandia,Pablito Escobar,54028733,rachaelfarmer@example.org,4.648625,-74.1,April Butler MD,2001.12.22,265,Sean Maldonado,488,976,Tienda5
+58094503,2,redmi note 8,66248848,1988.11.03,0,Rololandia,Pablito Escobar,66753017,jesuspearson@example.com,4.648625,-74.1,William Perkins,1988.11.03,222,Lisa Lambert,969,690,Tienda5
+33145919,6,redmi 8,6651386,1992.08.08,0,Rololandia,Pablito Escobar,94561366,lewisdean@example.net,4.648625,-74.1,Deborah Harrington,1992.08.08,609,Gary Griffin,342,191,Tienda5
+68780449,3,redmi note 9,1212069,1982.04.20,0,Rololandia,Pablito Escobar,63062589,dustin38@example.com,4.648625,-74.1,Anna Wilson,1982.04.20,300,Patricia Boone,25,443,Tienda5
+38992246,1,redmi note 7,27871831,2016.08.01,0,Rololandia,Pablito Escobar,2681646,allison69@example.net,4.648625,-74.1,Bradley Osborn,2016.08.01,42,Amanda Holloway,310,161,Tienda5
+43186386,3,redmi note 9,96178021,2006.09.07,0,Rololandia,Pablito Escobar,23752110,christine56@example.net,4.648625,-74.1,Monica Meyer,2006.09.07,15,Crystal Johnson,469,921,Tienda5
+69286004,2,redmi note 8,54102107,2019.11.24,0,Tierra del aleteo,Pablito Escobar,98611527,bjohnson@example.net,6.2441988,-75.6,Jason Jones,2019.11.24,351,Sean Reynolds,444,500,Tienda5
+6381905,1,redmi note 7,86832529,1988.07.21,0,Rololandia,Pablito Escobar,60569943,stephenkane@example.net,4.648625,-74.1,Autumn Murphy,1988.07.21,552,Nicholas Mccormick,774,470,Tienda5
+33781880,3,redmi note 9,85696811,1992.04.17,0,Rololandia,Pablito Escobar,40634739,kristina30@example.com,4.648625,-74.1,Jesus Odom,1992.04.17,15,Deanna Bell,28,541,Tienda5
+17623124,6,redmi 8,50433772,2011.03.23,0,La Calor,Pablito Escobar,36507921,markwood@example.org,10.4002813,-75.5,Randy Moreno,2011.03.23,237,Marilyn Stewart,252,241,Tienda5
+17470790,6,redmi 8,34515150,2004.06.23,0,Tierra del aleteo,Pablito Escobar,45872410,caldwellrichard@example.net,6.2441988,-75.6,Michael Kim,2004.06.23,95,Angelica Valencia,660,874,Tienda5
+97685212,2,redmi note 8,79350748,1987.02.15,0,La Calor,Pablito Escobar,96677905,jimmy76@example.org,10.4002813,-75.5,Crystal Ward DDS,1987.02.15,482,Thomas Hurst,13,777,Tienda5
+98815811,1,redmi note 7,17595447,2001.07.20,0,machupichu,Palomas,35876557,elijahwright@example.net,-12.037964,-77.0503238,John Brown,2001.07.20,235,Mrs. Nicole Acosta,889,672,Tienda5
+63258613,5,redmi 7,76492189,1992.04.03,0,machupichu,Palomas,83429469,gallen@example.org,-12.037964,-77.0503238,Jaime Nichols,1992.04.03,709,Elizabeth Young,373,635,Tienda5
+30223615,1,redmi note 7,90179776,1980.11.14,0,Rololandia,Pablito Escobar,66787143,dalewillis@example.org,4.648625,-74.1,Carol Hurley,1980.11.14,287,Tyler Wright,910,876,Tienda5
+22148471,3,redmi note 9,74681170,2000.08.06,0,machupichu,Palomas,83749509,wandafisher@example.com,-12.037964,-77.0503238,Michele Weeks,2000.08.06,991,Nicholas Howard,177,180,Tienda5
+18251750,2,redmi note 8,82660516,1988.08.08,3,Rololandia,Pablito Escobar,80261975,hpena@example.net,4.648625,-74.1,David Thomas,1988.08.08,499,Alyssa Abbott,910,971,Tienda5
+55885121,2,redmi note 8,75428412,1989.05.16,0,machupichu,Palomas,36313157,susanwilliams@example.org,-12.037964,-77.0503238,April Martin,1989.05.16,652,Lindsay Brown,666,420,Tienda5
+78045468,7,redmi 9,69762041,1990.10.13,0,Tierra del aleteo,Pablito Escobar,4861042,margaret08@example.com,6.2441988,-75.6,Nicole Atkinson,1990.10.13,52,Lauren Skinner,902,34,Tienda5
+92029050,3,redmi note 9,48405553,2005.12.01,0,Rololandia,Pablito Escobar,35814973,brownjennifer@example.com,4.648625,-74.1,Erik Campbell,2005.12.01,964,Bobby Berg,328,146,Tienda5
+88123757,2,redmi note 8,97885505,1989.06.30,0,machupichu,Palomas,41590271,tiffanybarrett@example.org,-12.037964,-77.0503238,Erica Johnson,1989.06.30,751,Linda Roman,643,102,Tienda5
+36319662,3,redmi note 9,6020994,2005.12.29,0,La Calor,Pablito Escobar,48614612,lchaney@example.com,10.4002813,-75.5,Robert Pena,2005.12.29,873,Denise Ellis,388,525,Tienda5
+9432455,3,redmi note 9,51272077,1989.06.07,0,Tierra del aleteo,Pablito Escobar,38601246,veronica21@example.com,6.2441988,-75.6,Gregory White,1989.06.07,860,Stacey White,338,894,Tienda5
+93209594,4,redmie note 9s,22189738,1970.09.16,4,Rololandia,Pablito Escobar,46946164,andrewcampbell@example.com,4.648625,-74.1,Alexis Rodriguez,1970.09.16,194,Keith Ramirez,298,423,Tienda5
+30258089,6,redmi 8,84199059,2015.06.10,0,La Calor,Pablito Escobar,73322054,fieldsjames@example.net,10.4002813,-75.5,Ashley Moyer,2015.06.10,532,James Hill,197,131,Tienda5
+75813074,3,redmi note 9,27813641,2004.10.11,0,La Calor,Pablito Escobar,16320498,oschultz@example.net,10.4002813,-75.5,Jason Hamilton,2004.10.11,579,Steven Brooks,22,814,Tienda5
+93174616,3,redmi note 9,66866082,2009.09.18,0,Tierra del aleteo,Pablito Escobar,80556631,smithshannon@example.com,6.2441988,-75.6,Victor Pearson Jr.,2009.09.18,183,Mr. Justin Young,833,970,Tienda5
+73315710,5,redmi 7,52605946,1977.12.24,0,La Calor,Pablito Escobar,86379576,yjefferson@example.com,10.4002813,-75.5,Thomas Hines,1977.12.24,832,Stephen Thomas,297,638,Tienda5
+85364580,7,redmi 9,81988114,1993.07.04,0,Tierra del aleteo,Pablito Escobar,75215884,rayangela@example.net,6.2441988,-75.6,Ryan Charles,1993.07.04,196,Anthony Dickson,966,858,Tienda5
+12229503,7,redmi 9,78313108,2008.04.05,3,machupichu,Palomas,23864052,umiller@example.org,-12.037964,-77.0503238,Brenda Ashley,2008.04.05,312,Gregory Huffman,362,457,Tienda5
+11838883,4,redmie note 9s,94326481,1994.08.18,0,machupichu,Palomas,44290216,brendakennedy@example.org,-12.037964,-77.0503238,Amanda Vargas,1994.08.18,21,Erica Velez,666,124,Tienda5
+15914159,6,redmi 8,75464403,2015.01.20,0,La Calor,Pablito Escobar,67764983,ronaldmiller@example.org,10.4002813,-75.5,William Clark,2015.01.20,262,Katherine Mason,520,747,Tienda5
+83622721,7,redmi 9,57756822,2005.05.16,2,La Calor,Pablito Escobar,26582081,emily36@example.org,10.4002813,-75.5,Daniel Good,2005.05.16,819,Kelly Salazar,235,787,Tienda5
+2455194,2,redmi note 8,8526659,1991.01.18,0,Tierra del aleteo,Pablito Escobar,7270955,lunasteven@example.com,6.2441988,-75.6,Timothy Gomez,1991.01.18,378,Diana Grant,349,737,Tienda5
+58803450,4,redmie note 9s,30540557,1980.06.18,0,La Calor,Pablito Escobar,80274608,ithompson@example.org,10.4002813,-75.5,Amanda Wyatt,1980.06.18,120,Joshua Ramos,198,351,Tienda5
+31644298,3,redmi note 9,28882424,1975.12.03,0,machupichu,Palomas,80489306,torressamantha@example.net,-12.037964,-77.0503238,Traci Brooks,1975.12.03,922,Michaela Bates,700,620,Tienda5
+91897826,3,redmi note 9,52434535,1983.01.06,0,Rololandia,Pablito Escobar,21715838,travisperry@example.org,4.648625,-74.1,Anthony Conley,1983.01.06,486,Jessica Elliott,504,36,Tienda5
+45013380,4,redmie note 9s,46560523,1993.03.07,0,Rololandia,Pablito Escobar,9964604,sharon57@example.org,4.648625,-74.1,Renee Maddox,1993.03.07,57,Kathy Hess,95,956,Tienda5
+77652248,3,redmi note 9,36397388,2009.04.23,0,Rololandia,Pablito Escobar,8735618,barnettrobert@example.org,4.648625,-74.1,Cathy Galloway,2009.04.23,349,Cathy Peterson,355,628,Tienda5
+42828871,6,redmi 8,51177703,2014.08.14,0,La Calor,Pablito Escobar,74573602,wmcdaniel@example.org,10.4002813,-75.5,Theresa Hunt,2014.08.14,753,Judy Stephens,838,451,Tienda5
+99164846,6,redmi 8,95760163,2016.07.05,0,Tierra del aleteo,Pablito Escobar,88699700,theresa33@example.com,6.2441988,-75.6,Wanda Sanchez,2016.07.05,465,Jay Obrien,243,343,Tienda5
+93412969,3,redmi note 9,38597187,2011.10.11,0,Tierra del aleteo,Pablito Escobar,46092203,afreeman@example.org,6.2441988,-75.6,Steven Santiago,2011.10.11,908,Karen Thomas,422,460,Tienda5
+39259451,2,redmi note 8,97520033,1991.06.29,0,machupichu,Palomas,9385916,erik14@example.net,-12.037964,-77.0503238,John Daniel,1991.06.29,207,Ernest Lee,610,781,Tienda5
+11238122,1,redmi note 7,89966950,1980.04.15,0,La Calor,Pablito Escobar,57498480,csmith@example.com,10.4002813,-75.5,Stephanie Rogers,1980.04.15,154,Melissa Rivera,244,90,Tienda5
+54443369,4,redmie note 9s,30388386,2000.12.04,5,Rololandia,Pablito Escobar,68117193,charlene71@example.net,4.648625,-74.1,Clinton Baldwin,2000.12.04,317,Joshua Anderson,139,158,Tienda5
+72653916,1,redmi note 7,29527876,2020.03.05,0,machupichu,Palomas,39799461,jonesronald@example.com,-12.037964,-77.0503238,Clarence Foster,2020.03.05,251,Maria White,789,885,Tienda5
+32153022,1,redmi note 7,89090873,1984.03.12,0,La Calor,Pablito Escobar,94674545,baileyjimenez@example.com,10.4002813,-75.5,Courtney Kelly,1984.03.12,276,Jeffery Burgess,374,260,Tienda5
+30829091,5,redmi 7,8823792,1980.02.15,0,Tierra del aleteo,Pablito Escobar,78297525,hbarry@example.com,6.2441988,-75.6,Eric Marquez,1980.02.15,2,Ashley Taylor,125,636,Tienda5
+34067772,3,redmi note 9,96497025,2008.05.10,0,machupichu,Palomas,18133348,hartjulie@example.org,-12.037964,-77.0503238,Isabel Baker,2008.05.10,422,Jonathan Santos,487,713,Tienda5
+74208922,2,redmi note 8,44485227,2002.01.17,0,La Calor,Pablito Escobar,68934675,allison96@example.com,10.4002813,-75.5,William Martin,2002.01.17,163,Andrew Jones,935,123,Tienda5
+88592205,7,redmi 9,4359871,2004.01.17,0,machupichu,Palomas,24556252,david27@example.net,-12.037964,-77.0503238,Lawrence Mitchell,2004.01.17,492,Jeanne Mcgee,66,45,Tienda5
+56238280,6,redmi 8,68455505,2016.03.19,0,La Calor,Pablito Escobar,30576119,mwilliams@example.org,10.4002813,-75.5,Julie White,2016.03.19,868,Shawn Davis,834,264,Tienda5
+54330235,3,redmi note 9,62519254,1998.03.31,0,Rololandia,Pablito Escobar,87715210,hilllarry@example.org,4.648625,-74.1,Joe Proctor,1998.03.31,50,Andrea Bell,924,144,Tienda5
+90923270,2,redmi note 8,71268392,2019.02.19,0,Rololandia,Pablito Escobar,82091879,karen21@example.com,4.648625,-74.1,Andrew Morales,2019.02.19,19,Tyler Vargas,35,1000,Tienda5
+18850591,2,redmi note 8,11867912,1997.08.09,0,La Calor,Pablito Escobar,14839620,gonzalezian@example.net,10.4002813,-75.5,Shannon Rhodes,1997.08.09,376,Michael Brady,282,156,Tienda5
+22623868,6,redmi 8,47506000,1973.04.26,0,machupichu,Palomas,30650630,phillipstammie@example.com,-12.037964,-77.0503238,Vicki Cook,1973.04.26,520,Dana White,205,410,Tienda5
+64460249,3,redmi note 9,3932876,1979.12.21,0,Tierra del aleteo,Pablito Escobar,47458126,meganmcmillan@example.net,6.2441988,-75.6,Danny Sanchez,1979.12.21,365,Brandi Bell,800,344,Tienda5
+73304084,6,redmi 8,41087346,2003.10.07,0,Rololandia,Pablito Escobar,5583165,richardboyd@example.com,4.648625,-74.1,Annette Wade,2003.10.07,591,Patricia Mcclure,202,764,Tienda5
+73435428,5,redmi 7,2399586,2003.09.02,0,Tierra del aleteo,Pablito Escobar,41100747,susansloan@example.com,6.2441988,-75.6,Michael Stevenson,2003.09.02,305,Alan Davis,766,586,Tienda5
+87977674,1,redmi note 7,91533151,2018.03.13,0,Rololandia,Pablito Escobar,88704176,lauren50@example.com,4.648625,-74.1,Miss Emily Lopez,2018.03.13,189,Linda Weaver,306,213,Tienda5
+97040075,6,redmi 8,77083633,1999.10.24,0,La Calor,Pablito Escobar,71559763,dustin07@example.org,10.4002813,-75.5,Steven Stone,1999.10.24,946,Frank Knox,464,402,Tienda5
+54032613,1,redmi note 7,82463551,2020.12.16,0,Tierra del aleteo,Pablito Escobar,75653116,denise50@example.com,6.2441988,-75.6,Sheri Vaughan,2020.12.16,415,Sean Diaz,897,606,Tienda5
+61730967,1,redmi note 7,72462034,2013.06.13,0,Tierra del aleteo,Pablito Escobar,98752378,kingbenjamin@example.com,6.2441988,-75.6,Jorge Henry,2013.06.13,387,Amanda Anderson,441,527,Tienda5
+16985631,7,redmi 9,62442072,2013.04.12,0,Tierra del aleteo,Pablito Escobar,94550027,staffordbobby@example.com,6.2441988,-75.6,Darrell Mendoza,2013.04.12,132,Edward Carlson,996,820,Tienda5
+38462013,6,redmi 8,27448318,2008.01.20,0,Tierra del aleteo,Pablito Escobar,72626461,toddgonzalez@example.net,6.2441988,-75.6,Jon Petersen,2008.01.20,682,Jason Ward,830,743,Tienda5
+6901031,1,redmi note 7,59371662,1975.04.27,0,La Calor,Pablito Escobar,65125764,johnny22@example.org,10.4002813,-75.5,Emily Garza,1975.04.27,947,William Reyes,614,303,Tienda5
+32538202,7,redmi 9,71365363,2016.07.04,0,Tierra del aleteo,Pablito Escobar,71493205,davisann@example.org,6.2441988,-75.6,Tiffany Morrison,2016.07.04,783,Anthony Shaffer,533,139,Tienda5
+93169725,3,redmi note 9,49886693,2017.09.13,0,La Calor,Pablito Escobar,42225480,daniel68@example.net,10.4002813,-75.5,James Cooper,2017.09.13,412,Kenneth Mcguire,711,767,Tienda5
+11890494,2,redmi note 8,13774539,1980.06.27,0,Rololandia,Pablito Escobar,86188812,jeremyrogers@example.org,4.648625,-74.1,Jasmin Robinson,1980.06.27,346,Johnny Wilson,959,71,Tienda5
+68736811,4,redmie note 9s,33720962,2004.08.04,2,Tierra del aleteo,Pablito Escobar,47109336,joan53@example.net,6.2441988,-75.6,Brenda Rodriguez,2004.08.04,742,Wendy Pace,433,386,Tienda5
+29737641,5,redmi 7,3003238,2003.07.08,4,machupichu,Palomas,92691261,mark39@example.com,-12.037964,-77.0503238,Lindsey Pugh,2003.07.08,366,Joseph Williams,528,20,Tienda5
+18421935,1,redmi note 7,42486515,2007.09.23,0,Rololandia,Pablito Escobar,28446320,brian72@example.net,4.648625,-74.1,Megan Moore,2007.09.23,627,Anne Gilbert,478,667,Tienda5
+54953310,7,redmi 9,56354208,1974.02.15,0,Rololandia,Pablito Escobar,45503007,michael95@example.com,4.648625,-74.1,David Vance,1974.02.15,710,Steven Garcia,538,545,Tienda5
+69873114,3,redmi note 9,33935194,1995.05.27,0,Tierra del aleteo,Pablito Escobar,85275023,travischristopher@example.org,6.2441988,-75.6,Sarah Burns,1995.05.27,829,Joanne Edwards,567,709,Tienda5
+47150347,5,redmi 7,43142730,2002.12.05,0,Tierra del aleteo,Pablito Escobar,32240171,mlee@example.com,6.2441988,-75.6,Steven Wilkins,2002.12.05,155,Rebecca Johnson,60,482,Tienda5
+85924383,7,redmi 9,54934237,1995.01.09,0,Rololandia,Pablito Escobar,18338238,shawnsnyder@example.com,4.648625,-74.1,Gloria Kelly,1995.01.09,274,Christina Wilson,789,151,Tienda5
+32580103,1,redmi note 7,43787500,1995.10.29,0,Tierra del aleteo,Pablito Escobar,83634124,michael60@example.net,6.2441988,-75.6,Scott Kennedy,1995.10.29,388,Christina Williams,466,634,Tienda5
+67355633,7,redmi 9,99552215,2003.12.21,0,machupichu,Palomas,56401538,jeremy33@example.com,-12.037964,-77.0503238,Monique Spencer,2003.12.21,796,Amy Jones,906,629,Tienda5
+12711761,6,redmi 8,34318404,2005.03.08,0,Tierra del aleteo,Pablito Escobar,44430802,duncankristen@example.org,6.2441988,-75.6,Janet Miller,2005.03.08,344,Jacob Johnson,244,28,Tienda5
+6751108,7,redmi 9,33882846,1980.08.08,0,Rololandia,Pablito Escobar,16700474,jessicakirby@example.com,4.648625,-74.1,Terrance Chapman,1980.08.08,85,Mr. David Morris,494,974,Tienda5
+89752883,7,redmi 9,3503618,1970.08.08,0,machupichu,Palomas,14939983,valeriejohnston@example.org,-12.037964,-77.0503238,David Hartman,1970.08.08,613,Alex Carter,703,662,Tienda5
+29310662,1,redmi note 7,35823468,1986.03.19,4,La Calor,Pablito Escobar,54140934,hernandezcrystal@example.com,10.4002813,-75.5,Matthew Perez,1986.03.19,366,Cynthia Thomas,521,789,Tienda5
+75344560,7,redmi 9,50593425,2004.03.08,0,machupichu,Palomas,45872118,madisonnash@example.net,-12.037964,-77.0503238,Frank Leblanc,2004.03.08,666,Miranda Robinson,793,327,Tienda5
+2679837,7,redmi 9,58344513,1979.08.31,4,Tierra del aleteo,Pablito Escobar,31468815,sherry16@example.com,6.2441988,-75.6,Jeffery Roberts,1979.08.31,180,Mary Bennett,705,909,Tienda5
+97859185,7,redmi 9,49407147,2002.09.03,0,La Calor,Pablito Escobar,73748044,garrettmaria@example.org,10.4002813,-75.5,Keith Galloway,2002.09.03,209,Nicole Koch,237,168,Tienda5
+25755062,7,redmi 9,24954518,2008.05.07,0,Rololandia,Pablito Escobar,27396813,jessicacruz@example.org,4.648625,-74.1,Daniel Love,2008.05.07,419,Lori Garcia,70,209,Tienda5
+20573841,2,redmi note 8,12595404,1983.11.22,0,La Calor,Pablito Escobar,44250282,morrismichael@example.com,10.4002813,-75.5,Monica Cook PhD,1983.11.22,999,Elizabeth Cervantes,401,439,Tienda5
+58654971,2,redmi note 8,86350468,1978.05.04,0,Tierra del aleteo,Pablito Escobar,24459226,amandalloyd@example.org,6.2441988,-75.6,Marc Davis,1978.05.04,377,Robert Martinez,577,27,Tienda5
+9234604,3,redmi note 9,50391391,2013.07.11,0,Tierra del aleteo,Pablito Escobar,60465445,john27@example.org,6.2441988,-75.6,Christopher Phillips,2013.07.11,208,Stephanie Bullock,741,370,Tienda5
+81983717,2,redmi note 8,1858450,2008.11.20,5,Rololandia,Pablito Escobar,63598403,plawson@example.com,4.648625,-74.1,Sarah Davis,2008.11.20,248,Christina Bryant,210,684,Tienda5
+70761291,4,redmie note 9s,69759128,2020.01.08,0,Tierra del aleteo,Pablito Escobar,89414422,angela38@example.net,6.2441988,-75.6,Jennifer Conner,2020.01.08,472,Heather Hogan,608,382,Tienda5
+17970725,3,redmi note 9,95336767,2020.06.29,0,La Calor,Pablito Escobar,2341690,joel60@example.org,10.4002813,-75.5,Eric Thompson,2020.06.29,325,Mckenzie Vega,728,195,Tienda5
+21265266,1,redmi note 7,32164507,1995.01.10,0,Tierra del aleteo,Pablito Escobar,22943870,mreynolds@example.com,6.2441988,-75.6,Joseph Gardner,1995.01.10,887,Lisa Collins,248,346,Tienda5
+6123040,3,redmi note 9,33929813,2005.05.25,0,La Calor,Pablito Escobar,99588831,ashley82@example.com,10.4002813,-75.5,Rachel Jordan,2005.05.25,182,Karen Frazier,522,874,Tienda5
+92650231,5,redmi 7,98170046,1980.01.24,0,La Calor,Pablito Escobar,610776,stephen92@example.net,10.4002813,-75.5,Nathan Lewis,1980.01.24,627,Haley Conley,174,601,Tienda5
+92637795,7,redmi 9,8669381,2021.02.28,0,Tierra del aleteo,Pablito Escobar,74273801,masonrobert@example.org,6.2441988,-75.6,Tara Long,2021.02.28,123,Jay Johnson,602,55,Tienda5
+25510043,4,redmie note 9s,14352359,1994.08.15,0,Tierra del aleteo,Pablito Escobar,39392871,amyhart@example.org,6.2441988,-75.6,Erica Riggs,1994.08.15,668,Vanessa Bullock,242,206,Tienda5
+18580345,4,redmie note 9s,76892495,2007.11.06,0,machupichu,Palomas,43911965,dreed@example.net,-12.037964,-77.0503238,Jennifer Humphrey,2007.11.06,37,Eugene Ramirez DDS,980,773,Tienda5
+35885350,5,redmi 7,53522983,2011.03.12,0,La Calor,Pablito Escobar,70831408,yguerrero@example.net,10.4002813,-75.5,David Gamble,2011.03.12,814,Ashley Wheeler,881,419,Tienda5
+12351638,2,redmi note 8,11897111,1999.04.20,0,La Calor,Pablito Escobar,58946272,shirleydrake@example.org,10.4002813,-75.5,Joe Vasquez,1999.04.20,30,Brittany Kelley,914,704,Tienda5
+66553859,5,redmi 7,30125032,2011.11.10,0,La Calor,Pablito Escobar,93648464,belindarhodes@example.net,10.4002813,-75.5,Kathy Murray,2011.11.10,581,Jeffrey Johnson,548,417,Tienda5
+82580001,7,redmi 9,48254892,1975.05.23,0,Rololandia,Pablito Escobar,98914901,jessebriggs@example.net,4.648625,-74.1,Michael Dunn,1975.05.23,493,Bryan Mcclure,96,905,Tienda5
+88294599,5,redmi 7,45377599,2004.01.16,0,machupichu,Palomas,57625201,christopherreid@example.com,-12.037964,-77.0503238,Henry Smith MD,2004.01.16,960,Emily Burke,69,568,Tienda5
+3263174,5,redmi 7,19759521,1990.11.12,0,Tierra del aleteo,Pablito Escobar,19355536,tonya82@example.net,6.2441988,-75.6,Justin Goodman,1990.11.12,727,Shannon Santos,305,463,Tienda5
+24610015,4,redmie note 9s,68089478,1985.06.12,3,Tierra del aleteo,Pablito Escobar,84951505,nkelly@example.org,6.2441988,-75.6,Briana Rivas,1985.06.12,387,James Williams,445,971,Tienda5
+57976983,2,redmi note 8,66500,2004.01.19,0,Tierra del aleteo,Pablito Escobar,8769371,powellshawn@example.net,6.2441988,-75.6,David Allen,2004.01.19,943,Carla Wheeler,597,756,Tienda5
+68393506,5,redmi 7,75121576,1971.04.13,0,machupichu,Palomas,53519845,josenelson@example.com,-12.037964,-77.0503238,Michael Lee,1971.04.13,645,Stephen Soto,446,245,Tienda5
+70826568,6,redmi 8,47576543,1999.02.27,0,Rololandia,Pablito Escobar,72383483,aprilkline@example.net,4.648625,-74.1,Jeanette Holmes,1999.02.27,745,Anthony Allison,14,624,Tienda5
+8937914,1,redmi note 7,26415754,2005.12.12,2,machupichu,Palomas,44379114,rhondajohnson@example.org,-12.037964,-77.0503238,Dawn Bryan,2005.12.12,680,Thomas Thompson,336,2,Tienda5
+67797940,2,redmi note 8,98877110,2002.07.21,0,La Calor,Pablito Escobar,89421159,jamesedwards@example.org,10.4002813,-75.5,Mary Hamilton,2002.07.21,589,Marvin Nelson,790,942,Tienda5
+77727099,6,redmi 8,83857950,1972.10.27,3,Tierra del aleteo,Pablito Escobar,88932892,kerrihampton@example.org,6.2441988,-75.6,Jennifer Williams,1972.10.27,873,Mario Warner,104,797,Tienda5
+6847080,5,redmi 7,37404382,2010.10.26,0,Tierra del aleteo,Pablito Escobar,96409989,longderrick@example.net,6.2441988,-75.6,Ashley Padilla,2010.10.26,907,Katrina Stanley,859,102,Tienda5
+21839687,6,redmi 8,2068106,2011.08.27,0,machupichu,Palomas,38048559,patricia16@example.org,-12.037964,-77.0503238,Kathleen Santiago,2011.08.27,933,Jessica Strong,437,708,Tienda5
+97424447,2,redmi note 8,2389583,1984.02.02,0,machupichu,Palomas,72332717,karenmolina@example.org,-12.037964,-77.0503238,Sandra Sanders,1984.02.02,630,Michael Mcfarland,332,548,Tienda5
+57391900,3,redmi note 9,24295951,1976.12.07,0,machupichu,Palomas,5294111,laurenbyrd@example.org,-12.037964,-77.0503238,Christine Perez,1976.12.07,893,Michael Guzman,433,776,Tienda5
+11469686,4,redmie note 9s,24990798,1995.05.10,0,Rololandia,Pablito Escobar,52562044,heather98@example.com,4.648625,-74.1,Michael Thompson,1995.05.10,792,Erika Kelly,638,162,Tienda5
+83428284,4,redmie note 9s,8780610,1979.08.07,0,machupichu,Palomas,29883752,jamesjohnson@example.com,-12.037964,-77.0503238,Kelly Carter,1979.08.07,913,Julie Smith,488,141,Tienda5
+46476419,7,redmi 9,8487821,2003.01.17,0,machupichu,Palomas,50793596,larryochoa@example.com,-12.037964,-77.0503238,Rachel Robinson,2003.01.17,813,Brandon Bailey,503,40,Tienda5
+46738128,3,redmi note 9,60257088,1976.01.25,0,Tierra del aleteo,Pablito Escobar,31739203,sabrina12@example.com,6.2441988,-75.6,Douglas Jenkins,1976.01.25,624,Tammy Richardson,43,845,Tienda5
+53592752,4,redmie note 9s,62149158,1972.03.07,0,machupichu,Palomas,52892492,yangdawn@example.com,-12.037964,-77.0503238,Nicole Miller,1972.03.07,221,Vanessa Aguirre,846,140,Tienda5
+88911292,5,redmi 7,33210421,1974.03.30,0,machupichu,Palomas,68684720,deanveronica@example.com,-12.037964,-77.0503238,Joseph Young,1974.03.30,877,Patricia Fletcher,744,778,Tienda5
+9147175,2,redmi note 8,85544292,1976.10.23,0,Tierra del aleteo,Pablito Escobar,2996802,castilloanthony@example.org,6.2441988,-75.6,Ryan Turner,1976.10.23,395,Joseph Johnson,552,232,Tienda5
+29626713,2,redmi note 8,95295344,2003.01.30,0,Tierra del aleteo,Pablito Escobar,92027329,riggslance@example.net,6.2441988,-75.6,Joanna Mullins,2003.01.30,649,Matthew Parrish,352,641,Tienda5
+96948072,4,redmie note 9s,82136872,2012.06.23,0,machupichu,Palomas,88110188,michaelvazquez@example.org,-12.037964,-77.0503238,Kenneth Fitzgerald,2012.06.23,276,Samantha Meadows,143,602,Tienda5
+2463666,6,redmi 8,31492419,1994.05.14,0,machupichu,Palomas,77965111,sharonsims@example.org,-12.037964,-77.0503238,Deborah Wheeler,1994.05.14,345,Michael Burke,398,298,Tienda5
+22323607,7,redmi 9,84472080,2020.03.02,0,Rololandia,Pablito Escobar,33236010,mallen@example.org,4.648625,-74.1,Jacob Wang,2020.03.02,539,Raymond Thompson,128,769,Tienda5
+82716025,7,redmi 9,91871101,1976.01.05,0,La Calor,Pablito Escobar,34352386,david26@example.org,10.4002813,-75.5,Rachel Wilson,1976.01.05,851,Luke Smith,784,652,Tienda5
+60561501,7,redmi 9,16342176,2002.04.27,0,Rololandia,Pablito Escobar,19195511,andrea37@example.net,4.648625,-74.1,Tyler Hughes,2002.04.27,3,Patricia Ramos,867,389,Tienda5
+13162674,4,redmie note 9s,11978461,2016.09.24,0,La Calor,Pablito Escobar,41352995,jose40@example.org,10.4002813,-75.5,Robert Hudson,2016.09.24,43,Jacob Moon,303,879,Tienda5
+40266129,5,redmi 7,95906674,1980.03.25,0,Rololandia,Pablito Escobar,31838732,krystalcampbell@example.org,4.648625,-74.1,Christy Perez,1980.03.25,224,Robert Carr,484,311,Tienda5
+14209808,7,redmi 9,75707961,1970.09.22,0,machupichu,Palomas,47020644,dwalker@example.com,-12.037964,-77.0503238,Anthony Robinson,1970.09.22,124,Pamela Johnson,266,145,Tienda5
+74301751,5,redmi 7,36400265,1988.06.25,0,machupichu,Palomas,36768540,framos@example.org,-12.037964,-77.0503238,Patricia Brown,1988.06.25,39,Elizabeth Jordan,957,630,Tienda5
+55367497,5,redmi 7,54692917,2001.06.04,0,Rololandia,Pablito Escobar,3202691,nwhite@example.net,4.648625,-74.1,Theodore Zimmerman,2001.06.04,615,Dale Warner,64,561,Tienda5
+72070804,2,redmi note 8,52432054,2009.04.21,0,La Calor,Pablito Escobar,92127715,btownsend@example.org,10.4002813,-75.5,Natasha Roman,2009.04.21,566,Nicholas Rogers,60,113,Tienda5
+25911811,7,redmi 9,26299971,1998.04.06,3,Tierra del aleteo,Pablito Escobar,74149223,jacob65@example.net,6.2441988,-75.6,Amanda Parrish,1998.04.06,439,Sara Raymond,474,858,Tienda5
+97725406,1,redmi note 7,41957945,2018.09.15,1,La Calor,Pablito Escobar,34075254,jeremiah08@example.net,10.4002813,-75.5,Andrew Bell,2018.09.15,19,David Price,125,41,Tienda5
+6721417,3,redmi note 9,27735626,2012.05.23,0,Rololandia,Pablito Escobar,27217539,alyssaschroeder@example.org,4.648625,-74.1,Hannah Rose,2012.05.23,389,Chris Woodward,551,337,Tienda5
+8139380,1,redmi note 7,50144736,1995.06.11,0,machupichu,Palomas,32208852,xmason@example.org,-12.037964,-77.0503238,Samantha Gordon,1995.06.11,873,Tammy Johnston,908,674,Tienda5
+97703138,4,redmie note 9s,3283529,2003.08.07,0,machupichu,Palomas,50069439,williskaren@example.org,-12.037964,-77.0503238,Gerald Simmons,2003.08.07,820,Jason Terrell,360,653,Tienda5
+60975165,2,redmi note 8,50222476,2000.03.25,0,Rololandia,Pablito Escobar,48881169,ysmith@example.com,4.648625,-74.1,Matthew Garrett,2000.03.25,75,Kellie Ross,546,520,Tienda5
+15784082,7,redmi 9,48924147,1978.01.27,0,Tierra del aleteo,Pablito Escobar,79654812,laurenjimenez@example.com,6.2441988,-75.6,Carly Gutierrez,1978.01.27,65,Alec Flores,559,163,Tienda5
+85778722,6,redmi 8,97390678,1976.07.25,0,Tierra del aleteo,Pablito Escobar,20604537,virginiasanchez@example.net,6.2441988,-75.6,Brianna Carpenter,1976.07.25,248,Brianna Choi,187,560,Tienda5
+13110622,2,redmi note 8,23815827,1982.11.24,0,Rololandia,Pablito Escobar,65734521,eric45@example.net,4.648625,-74.1,Michael Mitchell,1982.11.24,233,Eric Decker,372,498,Tienda5
+77085605,7,redmi 9,17054857,1979.04.09,0,Rololandia,Pablito Escobar,84564625,josehill@example.net,4.648625,-74.1,Shelley Lambert,1979.04.09,24,Adam White,944,809,Tienda5
+21658196,3,redmi note 9,71154708,1984.09.28,0,Rololandia,Pablito Escobar,46534457,brennanchristopher@example.com,4.648625,-74.1,Michael Hardy,1984.09.28,789,Sarah Castaneda,509,526,Tienda5
+98914949,7,redmi 9,90949603,1992.11.07,0,Rololandia,Pablito Escobar,71823845,cindychandler@example.net,4.648625,-74.1,Melanie Lewis,1992.11.07,755,Anne Smith,18,801,Tienda5
+68140359,2,redmi note 8,86614709,1988.09.08,1,Rololandia,Pablito Escobar,97468604,cgraves@example.org,4.648625,-74.1,Brittany Gonzales,1988.09.08,547,Damon Johnson,359,842,Tienda5
+52274632,2,redmi note 8,9274237,2009.12.31,3,La Calor,Pablito Escobar,13759208,brad27@example.net,10.4002813,-75.5,Julie Haas,2009.12.31,555,Kimberly Gutierrez,784,328,Tienda5
+7999173,3,redmi note 9,30772703,2016.03.07,0,Rololandia,Pablito Escobar,92199111,michaelwalsh@example.net,4.648625,-74.1,Elizabeth Woods,2016.03.07,664,Cindy Bennett,388,601,Tienda5
+80468657,6,redmi 8,5046133,1979.04.11,0,La Calor,Pablito Escobar,94419609,tuckeralexander@example.net,10.4002813,-75.5,Nicholas Brown,1979.04.11,551,Latoya Hester,954,236,Tienda5
+43472075,6,redmi 8,71957079,1993.12.28,0,La Calor,Pablito Escobar,90211606,odonnelldaniel@example.org,10.4002813,-75.5,Christina Phillips,1993.12.28,277,Brian Olson,24,664,Tienda5
+74759377,6,redmi 8,67710075,2012.03.30,1,Tierra del aleteo,Pablito Escobar,86377327,greggmcdaniel@example.org,6.2441988,-75.6,Allison Griffin,2012.03.30,561,Charlene Carpenter,525,132,Tienda5
+58387268,1,redmi note 7,2315802,1990.11.09,0,Tierra del aleteo,Pablito Escobar,80147383,qbenton@example.com,6.2441988,-75.6,Rhonda Chandler,1990.11.09,214,Adam Cruz,826,140,Tienda5
+79794801,2,redmi note 8,96893683,1979.06.07,0,Rololandia,Pablito Escobar,13976359,pamelaandrews@example.com,4.648625,-74.1,Jennifer Cameron,1979.06.07,902,Helen Lyons,783,720,Tienda5
+5356461,7,redmi 9,69527181,2008.06.05,0,Tierra del aleteo,Pablito Escobar,43767878,walkersean@example.org,6.2441988,-75.6,Ashley Hayden,2008.06.05,672,Danielle Garrett,995,941,Tienda5
+74823739,7,redmi 9,71233919,1999.01.05,3,Rololandia,Pablito Escobar,53456293,woodkathleen@example.org,4.648625,-74.1,Angela Wilson,1999.01.05,236,Christian Garcia,404,55,Tienda5
+466306,3,redmi note 9,12618806,1990.02.05,0,Rololandia,Pablito Escobar,29560492,john37@example.com,4.648625,-74.1,Stephanie Berry,1990.02.05,533,Erin Bowers,485,28,Tienda5
+67452068,7,redmi 9,87966384,1975.05.05,0,Rololandia,Pablito Escobar,5154352,ucruz@example.org,4.648625,-74.1,Dr. Maria Murray MD,1975.05.05,14,Morgan Bradley,484,486,Tienda5
+85811246,3,redmi note 9,63363710,1994.03.12,0,La Calor,Pablito Escobar,12880555,joylee@example.com,10.4002813,-75.5,Jordan White,1994.03.12,162,Ashley Schroeder,350,626,Tienda5
+57200711,2,redmi note 8,34372344,1981.02.12,0,Rololandia,Pablito Escobar,67501450,valenciaamanda@example.net,4.648625,-74.1,Mary Mann,1981.02.12,728,Elizabeth Freeman,77,202,Tienda5
+50586946,7,redmi 9,86166273,2011.06.14,0,Rololandia,Pablito Escobar,33917863,millersydney@example.org,4.648625,-74.1,Michael Carr,2011.06.14,218,John Harris,938,641,Tienda5
+14114552,1,redmi note 7,70314756,1977.10.30,0,Rololandia,Pablito Escobar,78968239,kgibson@example.com,4.648625,-74.1,Patricia Howard,1977.10.30,155,Lisa Jones,103,608,Tienda5
+68243285,1,redmi note 7,53206262,1992.08.16,0,Rololandia,Pablito Escobar,14281694,kwhite@example.net,4.648625,-74.1,Martin Travis,1992.08.16,562,Mario Hanna,310,444,Tienda5
+35788176,6,redmi 8,83233578,2018.03.10,0,Rololandia,Pablito Escobar,70597191,hdavis@example.net,4.648625,-74.1,Steven Smith,2018.03.10,798,Jessica Holloway,822,726,Tienda5
+66965058,2,redmi note 8,49681210,1992.02.27,0,La Calor,Pablito Escobar,69972898,spowell@example.net,10.4002813,-75.5,Jesse White,1992.02.27,581,Christine Mullins,906,84,Tienda5
+56351630,1,redmi note 7,65533923,2010.08.01,3,Tierra del aleteo,Pablito Escobar,33305029,jonesjames@example.net,6.2441988,-75.6,Denise Jacobson,2010.08.01,398,Hannah Mcneil,44,444,Tienda5
+43213723,7,redmi 9,43011545,1982.11.13,0,La Calor,Pablito Escobar,85060445,khoffman@example.com,10.4002813,-75.5,Wayne Nelson,1982.11.13,568,Lisa Abbott MD,556,253,Tienda5
+64985108,1,redmi note 7,87911998,1991.10.08,0,Tierra del aleteo,Pablito Escobar,19924330,xstone@example.com,6.2441988,-75.6,Eric Davidson,1991.10.08,808,Natalie Torres,370,774,Tienda5
+64335720,5,redmi 7,56744688,1987.12.10,0,Tierra del aleteo,Pablito Escobar,797383,shawn37@example.org,6.2441988,-75.6,Roy Hunter,1987.12.10,356,Emily Mckee,265,719,Tienda5
+92368965,5,redmi 7,77770425,1996.12.23,3,machupichu,Palomas,27497261,zmcdaniel@example.net,-12.037964,-77.0503238,Stacy Parker,1996.12.23,278,Christopher Gonzalez,676,468,Tienda5
+67018623,3,redmi note 9,17131594,2006.12.08,0,machupichu,Palomas,64006744,chadlarson@example.net,-12.037964,-77.0503238,Jeffery Edwards,2006.12.08,599,Anita Walker,9,622,Tienda5
+78267984,1,redmi note 7,34911262,2008.08.30,0,Rololandia,Pablito Escobar,19971426,sreyes@example.com,4.648625,-74.1,Victoria Holder,2008.08.30,405,Lisa Good,538,374,Tienda5
+61778041,5,redmi 7,20953876,1990.03.09,0,machupichu,Palomas,97546812,amclaughlin@example.net,-12.037964,-77.0503238,James Johnson,1990.03.09,886,Mark Rodriguez,498,700,Tienda5
+44929617,5,redmi 7,86781281,1977.12.03,0,Tierra del aleteo,Pablito Escobar,881579,kristacruz@example.org,6.2441988,-75.6,Jose Ingram,1977.12.03,122,Jacqueline Cook,761,952,Tienda5
+53528441,6,redmi 8,18361451,2009.05.13,0,Rololandia,Pablito Escobar,64787900,bryanamanda@example.com,4.648625,-74.1,George Welch,2009.05.13,943,Danielle King,30,620,Tienda5
+16701537,3,redmi note 9,65585878,2018.05.01,0,Rololandia,Pablito Escobar,99662609,nyang@example.org,4.648625,-74.1,Julie Robinson,2018.05.01,843,Megan Owens,181,702,Tienda5
+84029484,5,redmi 7,84135857,1985.10.07,0,Rololandia,Pablito Escobar,76422513,belliott@example.org,4.648625,-74.1,Sean Johnson,1985.10.07,436,Christopher Yang,403,77,Tienda5
+6924880,5,redmi 7,56786445,2020.07.12,0,Tierra del aleteo,Pablito Escobar,24522975,helen64@example.com,6.2441988,-75.6,Tony Poole,2020.07.12,957,Christina Lara,376,801,Tienda5
+32252122,1,redmi note 7,96155463,2007.10.26,0,Rololandia,Pablito Escobar,28140013,alexandergary@example.org,4.648625,-74.1,Betty Blake,2007.10.26,855,Steven Berg,932,201,Tienda5
+80966562,6,redmi 8,69175129,1998.10.27,0,machupichu,Palomas,42049598,ureyes@example.net,-12.037964,-77.0503238,David Smith,1998.10.27,327,Erik Whitaker,901,58,Tienda5
+735233,1,redmi note 7,48369623,2003.01.06,0,Tierra del aleteo,Pablito Escobar,17123678,danielle31@example.com,6.2441988,-75.6,Sara Sherman,2003.01.06,19,Sarah Marshall,549,505,Tienda5
+74790859,7,redmi 9,19093943,2010.07.12,0,Rololandia,Pablito Escobar,98131198,mossrenee@example.com,4.648625,-74.1,Amanda Finley,2010.07.12,195,Kristina Mason,295,174,Tienda5
+28157147,5,redmi 7,63723735,1979.01.19,0,Rololandia,Pablito Escobar,78904955,dominicyates@example.com,4.648625,-74.1,John Wright,1979.01.19,14,Bobby Diaz,149,169,Tienda5
+78012924,1,redmi note 7,1375352,2006.06.20,0,Tierra del aleteo,Pablito Escobar,53046942,rollinstrevor@example.net,6.2441988,-75.6,Erin Carey,2006.06.20,304,Holly Williams,344,995,Tienda5
+49546059,7,redmi 9,2373730,2016.12.16,0,machupichu,Palomas,62174739,acarlson@example.net,-12.037964,-77.0503238,Tonya Fischer,2016.12.16,915,Joseph Butler,142,997,Tienda5
+33418002,2,redmi note 8,20558054,1979.10.04,0,Tierra del aleteo,Pablito Escobar,45204654,karensoto@example.com,6.2441988,-75.6,Jamie Clark,1979.10.04,321,James Bender,421,702,Tienda5
+20918918,4,redmie note 9s,36573014,2014.02.01,0,La Calor,Pablito Escobar,58277168,igreen@example.com,10.4002813,-75.5,Miss Diane Stafford,2014.02.01,937,Michele Hall,6,484,Tienda5
+69851681,6,redmi 8,79734454,1979.04.17,0,Tierra del aleteo,Pablito Escobar,99396655,michelle05@example.net,6.2441988,-75.6,David Murphy,1979.04.17,934,Ann Wood,866,487,Tienda5
+98925173,6,redmi 8,42979190,1978.06.17,0,Tierra del aleteo,Pablito Escobar,30743373,beckrobert@example.org,6.2441988,-75.6,Alyssa Gray,1978.06.17,810,Brooke Davis,683,965,Tienda5
+10935397,6,redmi 8,92694162,2002.07.19,0,Rololandia,Pablito Escobar,42913122,jorge22@example.org,4.648625,-74.1,Jenna Morris,2002.07.19,950,Ryan Johnson,382,286,Tienda5
+59510396,5,redmi 7,20650308,2008.10.13,0,Tierra del aleteo,Pablito Escobar,72681215,jhenderson@example.net,6.2441988,-75.6,Jacob Weaver,2008.10.13,43,Barbara Horton,792,848,Tienda5
+72033694,2,redmi note 8,68765531,1975.07.06,0,La Calor,Pablito Escobar,9299590,hernandezmichael@example.net,10.4002813,-75.5,Taylor Cox,1975.07.06,505,Andrew Woods,786,587,Tienda5
+7457724,6,redmi 8,58881271,1986.11.24,0,La Calor,Pablito Escobar,23088580,bethnelson@example.net,10.4002813,-75.5,David Robinson,1986.11.24,493,Karen Allen,599,606,Tienda5
+24306752,5,redmi 7,81063635,2001.04.20,0,Tierra del aleteo,Pablito Escobar,78600867,rmaldonado@example.org,6.2441988,-75.6,Daniel Greene,2001.04.20,624,Jeremy Lutz,609,554,Tienda5
+96993073,5,redmi 7,95375355,2020.02.07,0,Tierra del aleteo,Pablito Escobar,63885965,brandonburns@example.net,6.2441988,-75.6,Julie Lawrence,2020.02.07,987,Terri Clarke,896,304,Tienda5
+52474440,3,redmi note 9,63820063,2021.01.15,0,La Calor,Pablito Escobar,52639123,clementsrachel@example.com,10.4002813,-75.5,Michael Ortiz,2021.01.15,886,Christina Garza,839,200,Tienda5
+71134994,7,redmi 9,38643419,1990.10.08,0,machupichu,Palomas,47033308,marissacherry@example.com,-12.037964,-77.0503238,Sarah Bailey,1990.10.08,726,William Pace,152,149,Tienda5
+53235014,7,redmi 9,56015155,1993.02.23,1,Tierra del aleteo,Pablito Escobar,79314702,samanthaparker@example.org,6.2441988,-75.6,Nicolas Bartlett,1993.02.23,337,Robert Contreras,362,32,Tienda5
+83684072,2,redmi note 8,38704402,1990.07.15,0,Tierra del aleteo,Pablito Escobar,76251855,landerson@example.com,6.2441988,-75.6,Douglas Smith,1990.07.15,684,Linda Matthews,622,784,Tienda5
+31174644,2,redmi note 8,52209931,1978.01.16,0,Rololandia,Pablito Escobar,31520793,dsnyder@example.org,4.648625,-74.1,Regina Peterson,1978.01.16,234,Jacqueline Harris,958,859,Tienda5
+38397372,6,redmi 8,90596826,2018.04.30,0,machupichu,Palomas,83477399,nicholsdenise@example.com,-12.037964,-77.0503238,Collin Villa,2018.04.30,95,Jonathan Whitaker,216,933,Tienda5
+91056774,6,redmi 8,63860334,1990.03.28,0,Rololandia,Pablito Escobar,94196781,jill67@example.com,4.648625,-74.1,Timothy Palmer,1990.03.28,179,Geoffrey Johnson,252,419,Tienda5
+17653955,7,redmi 9,98182958,2013.04.20,0,Rololandia,Pablito Escobar,73049796,sarahjones@example.com,4.648625,-74.1,Audrey Welch,2013.04.20,140,Mariah Ward,129,102,Tienda5
+57903042,5,redmi 7,84551508,2020.07.20,0,Tierra del aleteo,Pablito Escobar,88897235,stevenbradshaw@example.org,6.2441988,-75.6,Justin Lozano,2020.07.20,812,Kimberly Alexander,941,407,Tienda5
+25592507,4,redmie note 9s,2004306,2010.02.13,0,machupichu,Palomas,28551585,helen69@example.org,-12.037964,-77.0503238,Ashlee Mendez,2010.02.13,13,Barbara Barrett,883,377,Tienda5
+67570424,3,redmi note 9,41672330,1971.07.19,0,La Calor,Pablito Escobar,53613507,xross@example.org,10.4002813,-75.5,Michael Porter,1971.07.19,977,Jeffrey White,601,80,Tienda5
+12001447,1,redmi note 7,66731533,2007.03.30,0,La Calor,Pablito Escobar,28118238,smithmichelle@example.org,10.4002813,-75.5,Tracy Winters,2007.03.30,379,Holly Anderson,948,201,Tienda5
+60813267,6,redmi 8,89381738,2010.06.27,3,La Calor,Pablito Escobar,55517099,idavis@example.com,10.4002813,-75.5,Carlos Hughes,2010.06.27,433,Alexis Sullivan,77,789,Tienda5
+14995695,4,redmie note 9s,59451082,1975.07.01,0,La Calor,Pablito Escobar,43067254,julie99@example.org,10.4002813,-75.5,Stephen Walker,1975.07.01,471,Jordan Lin,244,483,Tienda5
+65324818,4,redmie note 9s,46128879,2003.09.01,0,La Calor,Pablito Escobar,19796850,jwilliams@example.net,10.4002813,-75.5,Rebecca Berry,2003.09.01,29,Helen Walker,630,315,Tienda5
+96102881,5,redmi 7,24066433,1983.06.29,0,machupichu,Palomas,95379837,wchung@example.net,-12.037964,-77.0503238,Linda Williams,1983.06.29,456,Joseph Carter,549,542,Tienda5
+98226275,2,redmi note 8,94320372,2003.08.20,0,La Calor,Pablito Escobar,60614885,mary56@example.com,10.4002813,-75.5,Katie Raymond,2003.08.20,875,Keith Oneill,759,14,Tienda5
+29791484,6,redmi 8,77104874,1979.11.01,0,Rololandia,Pablito Escobar,18928833,omitchell@example.net,4.648625,-74.1,Jimmy Levy,1979.11.01,599,Edward Miller,996,463,Tienda5
+64005048,1,redmi note 7,66717830,2002.02.27,0,La Calor,Pablito Escobar,70334404,nicholas55@example.com,10.4002813,-75.5,Kimberly Stanton,2002.02.27,914,Francis Walker,879,877,Tienda5
+28227952,3,redmi note 9,58242655,2020.07.01,0,machupichu,Palomas,2076873,adamjones@example.com,-12.037964,-77.0503238,Stephanie Steele,2020.07.01,102,Eric Pruitt,164,979,Tienda5
+90099757,3,redmi note 9,44388911,2012.08.11,0,Tierra del aleteo,Pablito Escobar,84743274,wukristin@example.com,6.2441988,-75.6,Kristen Villanueva,2012.08.11,153,Darren Swanson,97,558,Tienda5
+81890313,1,redmi note 7,32402341,1976.06.05,0,Tierra del aleteo,Pablito Escobar,99453878,farmercynthia@example.org,6.2441988,-75.6,Mark Sweeney,1976.06.05,860,Melissa Baker,989,377,Tienda5
+19231287,1,redmi note 7,15966423,1986.04.08,0,machupichu,Palomas,67859554,dianahurst@example.com,-12.037964,-77.0503238,Rebecca Sanchez,1986.04.08,112,Antonio Cooper,479,81,Tienda5
+93332542,2,redmi note 8,29621737,2001.04.12,0,Rololandia,Pablito Escobar,95193750,amanda48@example.org,4.648625,-74.1,Shannon Pacheco,2001.04.12,894,Cynthia Rogers,323,280,Tienda5
+29251249,5,redmi 7,91755669,1989.04.13,0,machupichu,Palomas,47668654,shaungarcia@example.com,-12.037964,-77.0503238,Phillip Orozco,1989.04.13,259,Anna Greer,890,485,Tienda5
+29253553,4,redmie note 9s,21230422,1981.04.02,0,machupichu,Palomas,30775510,amontes@example.org,-12.037964,-77.0503238,Christopher Copeland,1981.04.02,651,Ryan Randolph,315,192,Tienda5
+56585347,7,redmi 9,61890608,1990.09.23,3,Rololandia,Pablito Escobar,71276192,robinsonivan@example.org,4.648625,-74.1,James Bell,1990.09.23,31,Patrick Hernandez,659,473,Tienda5
+54095059,2,redmi note 8,16307198,2011.12.27,0,Tierra del aleteo,Pablito Escobar,8528026,elewis@example.net,6.2441988,-75.6,Steven Gordon,2011.12.27,913,Alyssa Baker,931,805,Tienda5
+65658898,2,redmi note 8,7414573,1987.04.29,0,machupichu,Palomas,10376742,danielmoore@example.com,-12.037964,-77.0503238,Lisa Hernandez,1987.04.29,714,Nicole Case,830,361,Tienda5
+35530396,7,redmi 9,59391904,1995.07.12,0,Rololandia,Pablito Escobar,12216412,jacksoncasey@example.com,4.648625,-74.1,Carol Vasquez,1995.07.12,671,Samuel Pitts Jr.,74,660,Tienda5
+41809335,4,redmie note 9s,15866146,2016.02.26,0,La Calor,Pablito Escobar,48142184,ryanhayes@example.com,10.4002813,-75.5,Christopher Mccullough,2016.02.26,103,Terry Love Jr.,986,142,Tienda5
+2500885,5,redmi 7,53288466,2012.03.15,0,machupichu,Palomas,26562955,derrickjackson@example.net,-12.037964,-77.0503238,Misty Fuller,2012.03.15,109,Alice Allison,842,353,Tienda5
+42629051,1,redmi note 7,89921766,2000.10.20,0,La Calor,Pablito Escobar,35445089,teresa97@example.com,10.4002813,-75.5,John Martinez,2000.10.20,877,Adam Sheppard,222,358,Tienda5
+34340446,7,redmi 9,70033526,1982.10.12,0,La Calor,Pablito Escobar,80839989,imoore@example.com,10.4002813,-75.5,Matthew Smith,1982.10.12,866,Kelly Ruiz,243,411,Tienda5
+84788665,2,redmi note 8,7827769,1988.04.06,0,La Calor,Pablito Escobar,32898057,fmorgan@example.com,10.4002813,-75.5,Lisa Townsend,1988.04.06,645,Brandy Nichols,218,822,Tienda5
+34345792,6,redmi 8,12566277,2016.12.15,0,Tierra del aleteo,Pablito Escobar,69695472,maryhouston@example.net,6.2441988,-75.6,Kristina Wood,2016.12.15,638,Sarah Mason,251,429,Tienda5
+43513021,6,redmi 8,46783848,1996.12.16,0,La Calor,Pablito Escobar,61905806,egreene@example.net,10.4002813,-75.5,Holly Haley,1996.12.16,96,Andrea Berger,363,922,Tienda5
+17602066,7,redmi 9,35007002,2008.04.28,0,Rololandia,Pablito Escobar,71988452,gregory57@example.org,4.648625,-74.1,Linda Deleon,2008.04.28,394,Bradley Clark,449,786,Tienda5
+74435691,4,redmie note 9s,67269585,2000.09.16,0,Tierra del aleteo,Pablito Escobar,83264422,robertwhite@example.com,6.2441988,-75.6,Emily Weber,2000.09.16,36,Mr. Peter Mcneil,254,660,Tienda5
+6749053,1,redmi note 7,36541982,2004.06.24,5,La Calor,Pablito Escobar,32065301,christina26@example.org,10.4002813,-75.5,Thomas Nelson,2004.06.24,825,Sharon Davis,746,254,Tienda5
+65173254,1,redmi note 7,28884497,2012.06.11,0,La Calor,Pablito Escobar,39409729,owensdavid@example.com,10.4002813,-75.5,Jessica Phelps,2012.06.11,998,Justin Martinez,979,25,Tienda5
+13216779,4,redmie note 9s,14246062,1972.07.01,0,Rololandia,Pablito Escobar,31738863,rachel19@example.net,4.648625,-74.1,Dennis Wood,1972.07.01,454,Dave Alvarez,83,42,Tienda5
+25114378,6,redmi 8,33076748,2004.06.12,0,La Calor,Pablito Escobar,4293003,clarkdavid@example.com,10.4002813,-75.5,Susan Lee,2004.06.12,925,Ricardo Davis,716,111,Tienda5
+58554786,3,redmi note 9,13542089,1998.03.28,0,Tierra del aleteo,Pablito Escobar,59531126,sarahcain@example.org,6.2441988,-75.6,Melissa Jones,1998.03.28,282,Laura Bryan,225,115,Tienda5
+99700301,6,redmi 8,82535618,2000.04.02,0,machupichu,Palomas,61174065,dmartin@example.org,-12.037964,-77.0503238,Edward Gomez,2000.04.02,830,Drew Curry,122,516,Tienda5
+82125839,1,redmi note 7,39977729,2014.07.19,0,La Calor,Pablito Escobar,1358824,ianlopez@example.com,10.4002813,-75.5,Amanda Foley,2014.07.19,867,Kathleen King,121,514,Tienda5
+83683903,3,redmi note 9,70834474,1998.12.26,0,Tierra del aleteo,Pablito Escobar,36346735,hjohnson@example.net,6.2441988,-75.6,Theresa Mccarthy,1998.12.26,469,Richard Smith,464,758,Tienda5
+65604305,4,redmie note 9s,53325722,1973.04.22,0,Tierra del aleteo,Pablito Escobar,94694262,sjohnson@example.com,6.2441988,-75.6,Sherry Kim,1973.04.22,335,Connie Larson,784,872,Tienda5
+9831424,2,redmi note 8,7255616,1992.09.25,0,La Calor,Pablito Escobar,97801126,hgray@example.org,10.4002813,-75.5,Brandon Gray,1992.09.25,69,Jacob Sullivan,153,140,Tienda5
+11851152,1,redmi note 7,38331219,2014.12.11,0,machupichu,Palomas,52081810,herrerakyle@example.org,-12.037964,-77.0503238,Danielle Duncan,2014.12.11,162,Jessica Huffman,64,445,Tienda5
+79735145,5,redmi 7,20237491,1986.07.25,0,Tierra del aleteo,Pablito Escobar,63634658,wperez@example.com,6.2441988,-75.6,Allen Hoffman,1986.07.25,76,Jordan Owens,444,673,Tienda5
+52808918,7,redmi 9,96661863,2001.01.08,0,La Calor,Pablito Escobar,56501129,dennis38@example.com,10.4002813,-75.5,Patricia Adams,2001.01.08,462,Dylan Alvarado,928,492,Tienda5
+48209918,3,redmi note 9,62288647,2016.09.14,0,Tierra del aleteo,Pablito Escobar,81732717,willisalex@example.com,6.2441988,-75.6,Rachel Brown,2016.09.14,907,Jonathan Mcbride,548,453,Tienda5
+12452739,7,redmi 9,98448206,1995.02.03,0,La Calor,Pablito Escobar,89501536,tanyafischer@example.com,10.4002813,-75.5,Christopher Smith,1995.02.03,355,Katie Johnson,540,273,Tienda5
+70649733,3,redmi note 9,9111467,2002.07.27,0,La Calor,Pablito Escobar,37419482,zharding@example.org,10.4002813,-75.5,Eric Harris,2002.07.27,342,James Estrada,104,647,Tienda5
+36124600,6,redmi 8,36083681,2012.02.21,0,La Calor,Pablito Escobar,88532214,dayrhonda@example.org,10.4002813,-75.5,Marvin Chavez,2012.02.21,521,Jennifer Johnson,825,938,Tienda5
+65942797,3,redmi note 9,51186447,2020.04.06,0,machupichu,Palomas,79076185,kpeters@example.net,-12.037964,-77.0503238,Russell Crosby,2020.04.06,109,Kevin Grimes,893,271,Tienda5
+45287526,7,redmi 9,7936712,1993.01.29,0,Rololandia,Pablito Escobar,73302557,oraymond@example.com,4.648625,-74.1,Spencer Valentine,1993.01.29,785,Cheryl Webster,861,302,Tienda5
+39689978,6,redmi 8,54837525,1973.09.15,0,Rololandia,Pablito Escobar,27007257,joycehayes@example.net,4.648625,-74.1,Dr. Melvin Perry MD,1973.09.15,131,Charlotte Crosby,998,860,Tienda5
+42874962,1,redmi note 7,48407755,1987.06.28,3,Rololandia,Pablito Escobar,52815265,collinsamanda@example.net,4.648625,-74.1,Marie Hughes,1987.06.28,984,Lawrence Patton,972,820,Tienda5
+96223107,1,redmi note 7,41171764,1979.12.14,0,Tierra del aleteo,Pablito Escobar,18095516,pamela75@example.com,6.2441988,-75.6,Kristen Martin,1979.12.14,354,Valerie Rios,194,616,Tienda5
+97469041,7,redmi 9,93161197,2008.07.07,0,Tierra del aleteo,Pablito Escobar,58385616,howardrobert@example.net,6.2441988,-75.6,Jennifer Jacobs,2008.07.07,640,James Rodriguez,330,95,Tienda5
+69081578,7,redmi 9,70265489,2012.09.04,0,Rololandia,Pablito Escobar,88521661,lindsey69@example.net,4.648625,-74.1,Emma Brady,2012.09.04,444,Phillip Taylor,486,701,Tienda5
+3195323,6,redmi 8,88054297,2004.08.07,0,Tierra del aleteo,Pablito Escobar,35852965,valeriewilliams@example.com,6.2441988,-75.6,Madison Morris,2004.08.07,330,Kristina Russell,460,199,Tienda5
+55796685,7,redmi 9,68680961,1982.04.22,0,Tierra del aleteo,Pablito Escobar,51340647,watsonemily@example.com,6.2441988,-75.6,Vincent Martinez,1982.04.22,563,Amanda Boyle,522,186,Tienda5
+75134945,1,redmi note 7,31355777,1971.10.16,3,La Calor,Pablito Escobar,5421502,nroberts@example.org,10.4002813,-75.5,Mrs. Claudia Smith MD,1971.10.16,246,Shawn Gilbert,670,288,Tienda5
+86845948,2,redmi note 8,13832375,1970.04.28,0,Tierra del aleteo,Pablito Escobar,74231071,kent41@example.org,6.2441988,-75.6,Danielle Curry,1970.04.28,599,Elizabeth Ayala,481,803,Tienda5
+90010220,6,redmi 8,99778862,1980.08.03,0,Tierra del aleteo,Pablito Escobar,81372571,emily90@example.org,6.2441988,-75.6,Holly Rose,1980.08.03,386,Catherine Jackson,666,723,Tienda5
+5013390,7,redmi 9,35095760,1999.07.13,0,Tierra del aleteo,Pablito Escobar,22644133,brandon93@example.com,6.2441988,-75.6,James Mitchell,1999.07.13,546,Emily Graves,367,660,Tienda5
+75718691,7,redmi 9,68644459,2007.07.23,0,La Calor,Pablito Escobar,64983209,plopez@example.org,10.4002813,-75.5,Nancy Johnson,2007.07.23,114,Samuel Barnett,448,690,Tienda5
+15221561,6,redmi 8,85526419,1986.10.26,0,Rololandia,Pablito Escobar,67294749,collinsjeffery@example.com,4.648625,-74.1,Ashley Beltran,1986.10.26,7,Kerry Smith,82,992,Tienda5
+27579201,2,redmi note 8,63537700,2009.06.02,3,La Calor,Pablito Escobar,87191169,johnklein@example.net,10.4002813,-75.5,Adam Glenn,2009.06.02,816,Mary Murphy,101,230,Tienda5
+96778700,1,redmi note 7,5944029,1971.03.22,0,Rololandia,Pablito Escobar,24509629,kelli49@example.com,4.648625,-74.1,Brian Curry,1971.03.22,477,Paula Powell,641,682,Tienda5
+88416279,7,redmi 9,82458359,1988.09.21,0,Rololandia,Pablito Escobar,92380317,jacksonbecky@example.net,4.648625,-74.1,Phillip Johnson,1988.09.21,426,Michelle Taylor,140,844,Tienda5
+87891763,7,redmi 9,91658639,2007.10.11,0,Rololandia,Pablito Escobar,85141128,nbishop@example.com,4.648625,-74.1,Kaylee Morgan,2007.10.11,621,Rebecca Zimmerman,699,858,Tienda5
+77013067,5,redmi 7,29139844,2012.12.09,0,La Calor,Pablito Escobar,27257407,pwashington@example.org,10.4002813,-75.5,Jacob Best,2012.12.09,206,Sean Mcneil,922,607,Tienda5
+96215077,5,redmi 7,13499634,1990.03.31,0,La Calor,Pablito Escobar,45876560,ortizcameron@example.org,10.4002813,-75.5,Karl Bailey,1990.03.31,85,Mike Price,97,726,Tienda5
+72032288,2,redmi note 8,64349970,1989.08.29,0,La Calor,Pablito Escobar,8773690,arellanomichelle@example.org,10.4002813,-75.5,Amanda Henderson,1989.08.29,326,Travis Williams,878,585,Tienda5
+88967159,3,redmi note 9,7594851,1981.04.30,0,Rololandia,Pablito Escobar,54393450,vmoreno@example.org,4.648625,-74.1,Timothy Walton,1981.04.30,194,Emily Rodriguez,670,404,Tienda5
+80116699,1,redmi note 7,15286498,1974.07.24,0,La Calor,Pablito Escobar,1221386,reyesmichael@example.net,10.4002813,-75.5,Sharon Jimenez,1974.07.24,103,Joyce Higgins,798,989,Tienda5
+22957499,7,redmi 9,48671292,1975.08.16,0,machupichu,Palomas,55245323,paulphelps@example.org,-12.037964,-77.0503238,Dale Jensen,1975.08.16,886,Mitchell Nielsen,832,608,Tienda5
+63308162,3,redmi note 9,68371490,1991.08.06,0,Tierra del aleteo,Pablito Escobar,26558640,johnsonian@example.org,6.2441988,-75.6,Todd Berry,1991.08.06,499,Thomas Austin,698,184,Tienda5
+65920241,3,redmi note 9,73928155,1972.02.29,0,machupichu,Palomas,8980841,edward84@example.com,-12.037964,-77.0503238,Christopher Allen,1972.02.29,386,Brian Hubbard,113,386,Tienda5
+30680155,3,redmi note 9,37770135,1992.10.31,0,machupichu,Palomas,26868168,jacksonbrian@example.com,-12.037964,-77.0503238,Jessica Rhodes,1992.10.31,649,Cynthia Garrett,625,450,Tienda5
+97962014,4,redmie note 9s,74532362,1992.04.13,0,Tierra del aleteo,Pablito Escobar,58966202,garyturner@example.net,6.2441988,-75.6,Heidi Duran,1992.04.13,579,Kyle Williams,931,728,Tienda5
+24163561,4,redmie note 9s,50125173,1982.05.14,0,machupichu,Palomas,75548328,rebeccalevine@example.com,-12.037964,-77.0503238,Scott Eaton,1982.05.14,630,Tracy Schwartz,942,797,Tienda5
+77913502,3,redmi note 9,10529682,1993.08.28,0,machupichu,Palomas,9862857,hgallegos@example.net,-12.037964,-77.0503238,Sonia Brown,1993.08.28,439,George Rogers,850,947,Tienda5
+48512457,7,redmi 9,32435051,2012.04.17,0,Rololandia,Pablito Escobar,48768379,waltersholly@example.org,4.648625,-74.1,Jack Jordan,2012.04.17,872,James Harrison,878,885,Tienda5
+6679080,4,redmie note 9s,21696924,2012.05.15,0,La Calor,Pablito Escobar,27669072,lorivelasquez@example.com,10.4002813,-75.5,Joshua Melton,2012.05.15,972,Joseph Hughes,755,200,Tienda5
+28521227,5,redmi 7,91395935,2006.11.20,0,Rololandia,Pablito Escobar,14886617,coltonrichard@example.org,4.648625,-74.1,Michael Howard,2006.11.20,377,Sharon Perez DVM,205,793,Tienda5
+32892287,1,redmi note 7,34194463,2021.05.15,0,machupichu,Palomas,43428778,thomasronald@example.net,-12.037964,-77.0503238,Evelyn Schroeder,2021.05.15,520,Veronica Williams,778,541,Tienda5
+65357454,5,redmi 7,73543605,2006.07.09,0,machupichu,Palomas,96535657,andre21@example.org,-12.037964,-77.0503238,Jeffrey Johnson,2006.07.09,891,Jason Ortega,572,835,Tienda5
+48677348,3,redmi note 9,20000408,2009.09.19,4,machupichu,Palomas,13454134,wsutton@example.com,-12.037964,-77.0503238,Danny Peterson,2009.09.19,187,Melissa Moore,302,915,Tienda5
+81378690,3,redmi note 9,38866386,1977.01.05,0,machupichu,Palomas,61402268,kbarron@example.org,-12.037964,-77.0503238,Shannon Gibson,1977.01.05,760,Karen Lawrence,67,730,Tienda5
+47847801,7,redmi 9,97501742,2015.10.02,0,machupichu,Palomas,69747999,kimberly22@example.com,-12.037964,-77.0503238,Kevin Jordan,2015.10.02,896,Katrina Rodriguez,304,867,Tienda5
+17311927,7,redmi 9,13342785,2003.01.21,0,Rololandia,Pablito Escobar,88513385,xoliver@example.net,4.648625,-74.1,Richard Sims,2003.01.21,950,James Clark,980,897,Tienda5
+80067444,4,redmie note 9s,31626709,2013.09.22,0,machupichu,Palomas,66762366,hannahsingh@example.net,-12.037964,-77.0503238,Susan Gonzales,2013.09.22,633,Cheryl Jones,635,633,Tienda5
+18233712,2,redmi note 8,22673577,1992.08.03,0,Rololandia,Pablito Escobar,41387287,xbarker@example.org,4.648625,-74.1,Jesse Graham,1992.08.03,242,Susan Phillips,592,907,Tienda5
+12124588,3,redmi note 9,82863554,1993.09.06,0,machupichu,Palomas,29985065,sochoa@example.net,-12.037964,-77.0503238,Andrew Baker,1993.09.06,625,Amanda Terrell,892,480,Tienda5
+78470316,6,redmi 8,29253704,2003.03.25,0,La Calor,Pablito Escobar,45629977,hopkinschristopher@example.net,10.4002813,-75.5,Brian Torres,2003.03.25,435,Barbara Stephens,381,371,Tienda5
+32947677,2,redmi note 8,1338243,2010.04.27,0,La Calor,Pablito Escobar,89440607,dlopez@example.com,10.4002813,-75.5,Kevin Morrison,2010.04.27,833,Lacey Reynolds,441,956,Tienda5
+43831984,3,redmi note 9,80719707,1998.12.06,0,Rololandia,Pablito Escobar,17652385,rodriguezcynthia@example.org,4.648625,-74.1,Laurie Sanchez,1998.12.06,860,James Sims,300,689,Tienda5
+16410994,1,redmi note 7,74114015,2019.11.20,0,Rololandia,Pablito Escobar,48889401,wfranklin@example.net,4.648625,-74.1,Emily Smith,2019.11.20,790,Brooke Sosa,758,923,Tienda5
+24532963,7,redmi 9,49908449,2000.11.21,0,machupichu,Palomas,83395072,lanealexander@example.net,-12.037964,-77.0503238,Stephanie Sanchez,2000.11.21,288,Tammy Williams,344,505,Tienda5
+23462894,5,redmi 7,86602840,2018.01.07,0,machupichu,Palomas,99487702,angela10@example.com,-12.037964,-77.0503238,Lisa Jacobs,2018.01.07,475,Nathan Morgan,866,190,Tienda5
+16635784,2,redmi note 8,97891709,1983.05.17,0,Tierra del aleteo,Pablito Escobar,24583251,sarahcarr@example.org,6.2441988,-75.6,Elizabeth Brandt,1983.05.17,26,Ashley Green,912,82,Tienda5
+98900334,5,redmi 7,963656,1977.07.04,0,Rololandia,Pablito Escobar,1500563,millerjessica@example.com,4.648625,-74.1,Karen Knight,1977.07.04,960,Kristina Stanley,592,182,Tienda5
+47829789,1,redmi note 7,21743358,1976.06.12,0,Rololandia,Pablito Escobar,55477821,robert07@example.org,4.648625,-74.1,Mr. Adam Ramos,1976.06.12,553,Leslie Martinez,949,261,Tienda5
+25715944,5,redmi 7,86260912,1978.04.16,0,Rololandia,Pablito Escobar,43116414,jmartinez@example.net,4.648625,-74.1,Stephanie Montgomery,1978.04.16,412,Daniel Miller,235,881,Tienda5
+91902615,4,redmie note 9s,54598374,1992.07.06,0,machupichu,Palomas,8867600,amy94@example.org,-12.037964,-77.0503238,Kevin Mendez,1992.07.06,215,Thomas Holmes,417,448,Tienda5
+98539768,6,redmi 8,95833083,2001.11.20,0,Tierra del aleteo,Pablito Escobar,63974357,latoyawarner@example.com,6.2441988,-75.6,Brent Craig,2001.11.20,164,Sherri Pace,865,146,Tienda5
+56324457,1,redmi note 7,43078085,1984.08.06,0,La Calor,Pablito Escobar,50397325,jenniferguerra@example.org,10.4002813,-75.5,Lauren Chambers,1984.08.06,985,Melissa Allen,201,390,Tienda5
+82765904,5,redmi 7,90533224,2011.03.06,5,machupichu,Palomas,16865210,castillojennifer@example.org,-12.037964,-77.0503238,Kathleen Campbell,2011.03.06,685,Zachary Caldwell,660,42,Tienda5
+37888715,5,redmi 7,22673028,2006.04.21,0,La Calor,Pablito Escobar,13079255,williamsgary@example.net,10.4002813,-75.5,Taylor Grant,2006.04.21,668,Catherine Valentine,127,918,Tienda5
+81790628,7,redmi 9,46665877,1979.04.02,0,Tierra del aleteo,Pablito Escobar,14773729,jonesashley@example.org,6.2441988,-75.6,Randall Atkins,1979.04.02,253,Corey Marshall,457,594,Tienda5
+51206803,1,redmi note 7,94351108,2013.10.03,0,Rololandia,Pablito Escobar,83229,pford@example.org,4.648625,-74.1,Paul Martinez,2013.10.03,26,Nancy Gordon,975,593,Tienda5
+18885044,3,redmi note 9,99817209,1980.12.04,0,La Calor,Pablito Escobar,37077084,nelsonpamela@example.net,10.4002813,-75.5,Rachel Martin,1980.12.04,634,Mrs. Alison Powell,697,479,Tienda5
+13600870,1,redmi note 7,4595893,2005.05.31,0,Rololandia,Pablito Escobar,13200319,fschultz@example.com,4.648625,-74.1,Bryan Choi,2005.05.31,949,Benjamin Williams,498,910,Tienda5
+91474008,2,redmi note 8,31676158,1985.03.13,0,Rololandia,Pablito Escobar,48043853,austinsherry@example.com,4.648625,-74.1,Todd Kerr,1985.03.13,787,Elizabeth Moyer,629,763,Tienda5
+74657549,4,redmie note 9s,41315768,2007.12.31,0,machupichu,Palomas,16161115,simmonsjoshua@example.net,-12.037964,-77.0503238,Shane Bush,2007.12.31,283,Jessica Black,998,62,Tienda5
+2756805,7,redmi 9,20430077,2005.06.17,2,machupichu,Palomas,32305840,hardinsusan@example.net,-12.037964,-77.0503238,Scott Diaz,2005.06.17,458,Sandra Warner,780,558,Tienda5
+23880063,2,redmi note 8,46223588,2018.03.05,0,machupichu,Palomas,57339897,mbooth@example.com,-12.037964,-77.0503238,Audrey Shepherd,2018.03.05,10,Jessica Hayes,242,444,Tienda5
+64032414,1,redmi note 7,83346010,1977.06.07,1,Rololandia,Pablito Escobar,69560571,katiemiller@example.org,4.648625,-74.1,James Mitchell,1977.06.07,210,Richard Walker,46,470,Tienda5
+44223962,4,redmie note 9s,83969642,1999.06.30,0,La Calor,Pablito Escobar,15210929,kreed@example.org,10.4002813,-75.5,Shelley Knox,1999.06.30,835,Jonathon Ramsey,430,790,Tienda5
+97660308,7,redmi 9,61833887,2017.09.09,0,machupichu,Palomas,90473209,andrearoy@example.com,-12.037964,-77.0503238,Adam Crawford,2017.09.09,889,Angela Anderson,996,240,Tienda5
+26175606,4,redmie note 9s,74709486,1986.04.08,0,machupichu,Palomas,15595424,regina96@example.net,-12.037964,-77.0503238,Lori Palmer,1986.04.08,969,Samantha Gutierrez,556,4,Tienda5
+80657396,5,redmi 7,54463077,1999.12.30,0,Tierra del aleteo,Pablito Escobar,24408552,kristengonzalez@example.org,6.2441988,-75.6,Pamela Barton,1999.12.30,751,Garrett Johnson,659,674,Tienda5
+22290424,7,redmi 9,1267111,2018.02.20,0,Tierra del aleteo,Pablito Escobar,96272944,zhendricks@example.net,6.2441988,-75.6,Kelsey Burns,2018.02.20,216,Jose Thornton,344,193,Tienda5
+48767748,4,redmie note 9s,70470556,1990.07.03,0,Tierra del aleteo,Pablito Escobar,25548798,nicolesoto@example.org,6.2441988,-75.6,Ashley Kim,1990.07.03,10,Thomas Hammond,510,315,Tienda5
+23562419,7,redmi 9,23837455,1974.12.06,0,machupichu,Palomas,42008779,jeffreypeck@example.com,-12.037964,-77.0503238,Peter Gordon,1974.12.06,145,Kevin Allen,258,276,Tienda5
+44517735,6,redmi 8,76603173,2020.12.27,0,Rololandia,Pablito Escobar,97982694,gregorycollins@example.net,4.648625,-74.1,Krista Johnson,2020.12.27,454,Steven Gomez,462,193,Tienda5
+45722919,6,redmi 8,5346103,1981.08.17,0,Rololandia,Pablito Escobar,41392785,samueljones@example.com,4.648625,-74.1,Ryan Greene,1981.08.17,947,Lori Craig,490,893,Tienda5
+59797799,6,redmi 8,75897192,2017.08.19,0,La Calor,Pablito Escobar,44692580,david07@example.net,10.4002813,-75.5,Richard Anderson,2017.08.19,128,Kyle Harris,155,587,Tienda5
+65995500,5,redmi 7,90322007,2011.12.06,4,Tierra del aleteo,Pablito Escobar,64201991,michael32@example.com,6.2441988,-75.6,Pamela Reid,2011.12.06,689,Joel Watson,696,12,Tienda5
+16130103,1,redmi note 7,39219814,1998.07.21,0,Tierra del aleteo,Pablito Escobar,4763575,jrowland@example.com,6.2441988,-75.6,Rachael Greene,1998.07.21,632,Sheila Harmon,924,608,Tienda5
+58345671,6,redmi 8,38048032,1970.04.02,0,La Calor,Pablito Escobar,64663373,campbellsheila@example.net,10.4002813,-75.5,Judy Clay,1970.04.02,562,Travis Matthews,992,696,Tienda5
+21637597,1,redmi note 7,43215942,1992.08.13,2,Tierra del aleteo,Pablito Escobar,75715341,charleskey@example.com,6.2441988,-75.6,Anthony Martinez,1992.08.13,41,Brenda Evans,404,310,Tienda5
+93918616,7,redmi 9,5663130,2013.01.29,5,Rololandia,Pablito Escobar,81477812,william65@example.com,4.648625,-74.1,Ashley Harrison,2013.01.29,33,Patricia Hall,684,711,Tienda5
+18412016,7,redmi 9,38075719,2020.07.13,0,La Calor,Pablito Escobar,33525632,josephanderson@example.net,10.4002813,-75.5,Laurie Galvan,2020.07.13,289,Richard Taylor,303,246,Tienda5
+49603304,1,redmi note 7,1646334,1979.04.26,0,La Calor,Pablito Escobar,63172966,ychaney@example.org,10.4002813,-75.5,Jeffrey Williams,1979.04.26,250,Jonathon Walsh,309,225,Tienda5
+26593474,6,redmi 8,55142494,2007.04.21,0,Tierra del aleteo,Pablito Escobar,42418663,rking@example.net,6.2441988,-75.6,Mark Lambert,2007.04.21,390,Michael Shepard,993,817,Tienda5
+26444978,1,redmi note 7,90362175,2004.10.11,0,Tierra del aleteo,Pablito Escobar,86803328,mccoyjoy@example.org,6.2441988,-75.6,Robert Aguirre DVM,2004.10.11,134,Kathryn May,102,316,Tienda5
+68484774,2,redmi note 8,14546888,1970.05.25,0,Rololandia,Pablito Escobar,49483134,halljennifer@example.net,4.648625,-74.1,Traci Parrish,1970.05.25,473,Maria Paul,674,425,Tienda5
+90040979,5,redmi 7,87019880,2021.09.09,0,machupichu,Palomas,56854822,ythomas@example.org,-12.037964,-77.0503238,Samantha Doyle,2021.09.09,684,Jason Shepard,95,177,Tienda5
+48240578,7,redmi 9,80400992,2014.01.15,0,La Calor,Pablito Escobar,19061977,rclark@example.com,10.4002813,-75.5,Walter Nelson,2014.01.15,267,Kenneth Allen,112,536,Tienda5
+34400756,5,redmi 7,74865537,2007.04.28,3,La Calor,Pablito Escobar,31529513,rlee@example.com,10.4002813,-75.5,David Cantu,2007.04.28,978,Steven Daniels,340,969,Tienda5
+54515015,7,redmi 9,50898964,2014.11.17,0,Tierra del aleteo,Pablito Escobar,2984557,james19@example.com,6.2441988,-75.6,Donna Quinn,2014.11.17,98,Brandon Torres,927,355,Tienda5
+63022408,6,redmi 8,80491519,2001.11.01,0,Tierra del aleteo,Pablito Escobar,89179349,uharrington@example.net,6.2441988,-75.6,Amanda Smith,2001.11.01,194,Kristen Moore,380,126,Tienda5
+87164712,1,redmi note 7,48931447,2013.08.02,0,machupichu,Palomas,57699656,sellerschristine@example.net,-12.037964,-77.0503238,Kyle Whitaker,2013.08.02,728,Miss Brenda Turner,448,166,Tienda5
+63007040,2,redmi note 8,11999843,1989.09.08,0,Rololandia,Pablito Escobar,84894617,thomas52@example.com,4.648625,-74.1,Isaiah Williams,1989.09.08,935,Jennifer Chapman,152,650,Tienda5
+61572093,3,redmi note 9,36702262,1987.04.18,0,La Calor,Pablito Escobar,92284731,randerson@example.org,10.4002813,-75.5,Sharon Kelley,1987.04.18,517,Christy Wall,125,108,Tienda5
+82084285,3,redmi note 9,56598253,1993.07.25,1,Tierra del aleteo,Pablito Escobar,18652876,jessicaparker@example.net,6.2441988,-75.6,Diane Ferguson,1993.07.25,259,Brianna Ruiz,886,815,Tienda5
+68801363,5,redmi 7,78195844,1998.05.05,0,La Calor,Pablito Escobar,62179675,eharmon@example.net,10.4002813,-75.5,Mason Fox,1998.05.05,457,Jeffrey Bender,678,674,Tienda5
+38453571,4,redmie note 9s,52045117,1989.04.14,0,machupichu,Palomas,15648336,michaelnelson@example.net,-12.037964,-77.0503238,Breanna Mitchell,1989.04.14,544,Laura Smith,645,773,Tienda5
+22740582,7,redmi 9,32476412,2005.05.12,2,Rololandia,Pablito Escobar,56271131,yanderson@example.net,4.648625,-74.1,Leslie Fowler,2005.05.12,693,Michael Bernard,625,479,Tienda5
+94269893,3,redmi note 9,96331447,2004.04.07,0,Tierra del aleteo,Pablito Escobar,31926636,qstone@example.net,6.2441988,-75.6,Amanda Trujillo,2004.04.07,672,Virginia Williams,991,766,Tienda5
+12938239,3,redmi note 9,73701153,2020.06.15,0,La Calor,Pablito Escobar,43743056,gonzaleztroy@example.com,10.4002813,-75.5,Joshua Williams,2020.06.15,219,Gary Lopez,23,239,Tienda5
+3267413,6,redmi 8,82248243,2010.02.27,0,machupichu,Palomas,81989973,jasonolson@example.com,-12.037964,-77.0503238,Ashley Butler,2010.02.27,361,Amanda Mitchell,516,346,Tienda5
+3327920,2,redmi note 8,17448031,1982.05.09,0,Tierra del aleteo,Pablito Escobar,35675216,lisasutton@example.com,6.2441988,-75.6,Molly Townsend,1982.05.09,37,Bryan Swanson,797,615,Tienda5
+10923837,4,redmie note 9s,23313217,1973.01.21,0,La Calor,Pablito Escobar,36871268,oolson@example.org,10.4002813,-75.5,Scott Woods,1973.01.21,281,Samantha Ellis,505,901,Tienda5
+41627737,3,redmi note 9,57938577,2015.05.11,0,La Calor,Pablito Escobar,20120745,belinda52@example.org,10.4002813,-75.5,Luis Gray,2015.05.11,928,Tonya Branch,86,783,Tienda5
+86912659,2,redmi note 8,64559469,2021.09.17,0,Rololandia,Pablito Escobar,4723681,fosterkevin@example.net,4.648625,-74.1,Robert Riley,2021.09.17,708,Emily Gibson,851,260,Tienda5
+26037579,7,redmi 9,2303997,1980.01.11,0,Tierra del aleteo,Pablito Escobar,70597213,sarahanderson@example.org,6.2441988,-75.6,Willie Wilson,1980.01.11,754,Angela Smith,29,119,Tienda5
+595916,5,redmi 7,60929964,1970.06.09,0,machupichu,Palomas,18265592,sheltonrichard@example.com,-12.037964,-77.0503238,Brian Jones,1970.06.09,36,Amy Mason,27,267,Tienda5
+58357631,1,redmi note 7,32890090,1982.06.02,0,Rololandia,Pablito Escobar,24836095,kellywang@example.net,4.648625,-74.1,Gina Stevens,1982.06.02,782,Charles Ellis,455,590,Tienda5
+32409455,3,redmi note 9,18934377,1971.09.23,1,Rololandia,Pablito Escobar,72861062,timothylewis@example.com,4.648625,-74.1,Joshua James,1971.09.23,734,Shelby Reyes,937,989,Tienda5
+35047718,7,redmi 9,14428379,1982.10.29,0,Rololandia,Pablito Escobar,16320706,briannahahn@example.org,4.648625,-74.1,Ryan Watson,1982.10.29,386,Renee Nguyen,354,552,Tienda5
+58730188,4,redmie note 9s,83088925,1982.10.16,0,Rololandia,Pablito Escobar,60609954,thomasderek@example.com,4.648625,-74.1,Richard Castillo DDS,1982.10.16,874,Madeline Vaughan,31,347,Tienda5
+71574533,4,redmie note 9s,57653106,1990.04.13,0,Rololandia,Pablito Escobar,36625594,devon14@example.net,4.648625,-74.1,Kyle Keller,1990.04.13,392,Edward Lewis,791,369,Tienda5
+95231698,7,redmi 9,455430,2019.02.22,0,La Calor,Pablito Escobar,89727171,willisshelby@example.net,10.4002813,-75.5,Traci Valencia,2019.02.22,956,Michael May,578,106,Tienda5
+46048968,6,redmi 8,46008807,2007.02.02,0,machupichu,Palomas,45008551,sarahosborn@example.org,-12.037964,-77.0503238,Bethany Brown,2007.02.02,450,Joseph Smith,655,610,Tienda5
+3383513,7,redmi 9,32582799,2015.02.21,2,Tierra del aleteo,Pablito Escobar,6898649,dbrown@example.org,6.2441988,-75.6,Michelle Hartman,2015.02.21,297,Melissa Pope,63,138,Tienda5
+35608361,7,redmi 9,30413875,1984.10.19,0,Tierra del aleteo,Pablito Escobar,30932317,meganedwards@example.net,6.2441988,-75.6,Jade Hardin,1984.10.19,789,Danielle Hansen,695,745,Tienda5
+774517,7,redmi 9,21022737,1983.08.01,0,La Calor,Pablito Escobar,82645894,claudiahickman@example.net,10.4002813,-75.5,Hannah Warren,1983.08.01,459,Claudia Perkins,966,765,Tienda5
+83023735,2,redmi note 8,2201643,2014.05.21,0,Rololandia,Pablito Escobar,99927762,ymartin@example.org,4.648625,-74.1,Alfred Anderson,2014.05.21,167,John Hicks,164,538,Tienda5
+13764633,3,redmi note 9,22739991,2010.10.21,0,La Calor,Pablito Escobar,27132710,melissaperkins@example.com,10.4002813,-75.5,Dorothy Norton,2010.10.21,958,Steven Hurst,32,808,Tienda5
+98127864,4,redmie note 9s,32962571,2011.03.16,0,machupichu,Palomas,47886461,triciagomez@example.com,-12.037964,-77.0503238,Crystal Burton,2011.03.16,319,Jeremy Vaughn,853,228,Tienda5
+81588946,1,redmi note 7,47617843,2006.04.28,0,Tierra del aleteo,Pablito Escobar,96990742,vanessaadams@example.org,6.2441988,-75.6,James Castillo,2006.04.28,378,Andrew Watson,579,103,Tienda5
+19606770,6,redmi 8,73668730,1972.06.27,0,La Calor,Pablito Escobar,1990216,andrewvega@example.net,10.4002813,-75.5,Brenda Reyes,1972.06.27,622,Ronald Schwartz,370,253,Tienda5
+74114021,2,redmi note 8,49684062,2014.02.17,0,machupichu,Palomas,4921684,corey24@example.org,-12.037964,-77.0503238,Shelly Stewart,2014.02.17,479,Angela Joseph,23,477,Tienda5
+47072116,2,redmi note 8,5485168,2009.02.09,0,machupichu,Palomas,25284393,natalie43@example.com,-12.037964,-77.0503238,John Booker,2009.02.09,389,Jamie Potts,96,978,Tienda5
+3517456,4,redmie note 9s,49745217,2015.01.09,0,La Calor,Pablito Escobar,99661245,allisonmorales@example.net,10.4002813,-75.5,Ryan Snow,2015.01.09,37,Miranda Flores,592,917,Tienda5
+28111133,7,redmi 9,32550777,2000.11.13,0,Rololandia,Pablito Escobar,77094557,murraylance@example.org,4.648625,-74.1,Kimberly Huffman,2000.11.13,558,Jason King,39,225,Tienda5
+21809622,7,redmi 9,40747023,2008.07.26,0,Rololandia,Pablito Escobar,18110749,williamdavis@example.net,4.648625,-74.1,Corey Wheeler,2008.07.26,856,Donald Shaw,648,966,Tienda5
+78541459,7,redmi 9,85498253,1989.10.13,0,Rololandia,Pablito Escobar,36836042,bschneider@example.net,4.648625,-74.1,Robert Moore,1989.10.13,469,Jamie Carson,353,250,Tienda5
+43542104,5,redmi 7,16278745,2020.06.28,0,machupichu,Palomas,12053170,christopherfoley@example.net,-12.037964,-77.0503238,Dana Combs,2020.06.28,515,Robert Buck,218,301,Tienda5
+86367615,6,redmi 8,79787908,2006.12.31,0,Rololandia,Pablito Escobar,2916461,hblack@example.com,4.648625,-74.1,Tina George,2006.12.31,25,David Gonzales,746,219,Tienda5
+71510701,1,redmi note 7,89960094,1977.09.30,0,machupichu,Palomas,70756669,leevanessa@example.net,-12.037964,-77.0503238,Taylor Moreno,1977.09.30,506,Bruce Buck,886,794,Tienda5
+3419729,5,redmi 7,98191641,2007.08.09,0,Tierra del aleteo,Pablito Escobar,26613294,mariathompson@example.com,6.2441988,-75.6,Jessica Henry,2007.08.09,9,Margaret Hill,1,464,Tienda5
+39379331,7,redmi 9,75514840,1994.06.09,0,machupichu,Palomas,26986450,thompsonmolly@example.com,-12.037964,-77.0503238,Mike Morrow,1994.06.09,653,David Mccoy,367,921,Tienda5
+87828631,5,redmi 7,62224053,1974.11.25,0,Tierra del aleteo,Pablito Escobar,36241595,crawfordedward@example.org,6.2441988,-75.6,Brian Brown,1974.11.25,350,William Simmons,111,309,Tienda5
+50041104,2,redmi note 8,2377568,1984.10.17,0,machupichu,Palomas,63293643,robertsjose@example.net,-12.037964,-77.0503238,Diana Williams,1984.10.17,479,Molly Bates,255,202,Tienda5
+76756724,4,redmie note 9s,8780306,1989.01.20,0,machupichu,Palomas,39308538,miranda31@example.com,-12.037964,-77.0503238,Christopher Miranda,1989.01.20,176,Kristina Hicks,410,789,Tienda5
+94584538,5,redmi 7,26483568,2012.04.22,0,machupichu,Palomas,76459179,pjohnson@example.org,-12.037964,-77.0503238,Mr. Luke Fox,2012.04.22,464,Rebecca Smith,501,690,Tienda5
+79433778,3,redmi note 9,19189835,1990.01.20,0,La Calor,Pablito Escobar,97800595,tarabell@example.org,10.4002813,-75.5,Dr. Patrick Carroll,1990.01.20,725,April Gibbs,765,473,Tienda5
+45731966,3,redmi note 9,57642340,1996.09.13,0,Rololandia,Pablito Escobar,66109940,qphillips@example.org,4.648625,-74.1,Patricia Hicks,1996.09.13,818,Martin Farmer,672,404,Tienda5
+55704245,7,redmi 9,41544066,1984.07.19,0,Rololandia,Pablito Escobar,84035125,craig78@example.net,4.648625,-74.1,William Barnes MD,1984.07.19,393,Jeff Zamora,595,913,Tienda5
+87283890,4,redmie note 9s,46028491,1976.09.03,0,Tierra del aleteo,Pablito Escobar,53511729,fritzrandy@example.org,6.2441988,-75.6,Christina Johnston,1976.09.03,845,Michael Williams,848,673,Tienda5
+51247135,6,redmi 8,72104244,1973.04.11,0,Tierra del aleteo,Pablito Escobar,57853544,jeffrey94@example.com,6.2441988,-75.6,Martha Austin,1973.04.11,134,Theresa Gibson,476,864,Tienda5
+76607977,7,redmi 9,43629170,2010.11.07,0,Tierra del aleteo,Pablito Escobar,64990261,brendaanthony@example.net,6.2441988,-75.6,Tina Wright,2010.11.07,128,Melissa Stokes,816,239,Tienda5
+59746367,2,redmi note 8,72168793,1991.11.20,5,Tierra del aleteo,Pablito Escobar,43082331,brownwilliam@example.org,6.2441988,-75.6,David Oconnell,1991.11.20,735,Nathan Brown,717,928,Tienda5
+75331662,6,redmi 8,22214874,1973.03.12,5,La Calor,Pablito Escobar,55490339,david40@example.net,10.4002813,-75.5,Danielle Hodges,1973.03.12,587,Tyler Perez,670,261,Tienda5
+10400130,1,redmi note 7,76508206,1990.11.23,0,La Calor,Pablito Escobar,4931972,jclark@example.org,10.4002813,-75.5,Christopher Marquez,1990.11.23,57,Andrew Brooks,704,549,Tienda5
+86553885,2,redmi note 8,22996971,1988.01.24,0,Tierra del aleteo,Pablito Escobar,94879014,alexismoore@example.com,6.2441988,-75.6,Courtney Brown,1988.01.24,506,Dominic Boone,701,133,Tienda5
+77025131,3,redmi note 9,33377949,1973.11.16,2,machupichu,Palomas,22302394,christina17@example.net,-12.037964,-77.0503238,Jessica Jimenez,1973.11.16,601,Paula Owens,335,493,Tienda5
+99006803,5,redmi 7,73159735,2019.07.25,0,Rololandia,Pablito Escobar,94845140,lewisjennifer@example.org,4.648625,-74.1,Derek Norman,2019.07.25,264,Allison Massey,780,1,Tienda5
+91896594,5,redmi 7,76573035,1991.04.10,0,Rololandia,Pablito Escobar,33633309,andre71@example.org,4.648625,-74.1,Rachel Thomas,1991.04.10,904,Jimmy Leon,6,462,Tienda5
+45084701,6,redmi 8,12739678,1971.11.20,0,Tierra del aleteo,Pablito Escobar,79215473,hicksbilly@example.com,6.2441988,-75.6,Kathryn Russo,1971.11.20,985,Luis Garcia,153,252,Tienda5
+44928914,6,redmi 8,95596439,1992.09.30,0,La Calor,Pablito Escobar,70445607,erica87@example.com,10.4002813,-75.5,Brady Lee,1992.09.30,932,James Dodson,367,594,Tienda5
+20508268,6,redmi 8,53304316,1977.08.21,0,Tierra del aleteo,Pablito Escobar,43203834,amanda16@example.org,6.2441988,-75.6,Joseph Thompson,1977.08.21,718,Mary Ortiz,654,583,Tienda5
+10379974,4,redmie note 9s,92442959,2006.12.08,0,La Calor,Pablito Escobar,59953401,mark46@example.org,10.4002813,-75.5,Jennifer Johnson,2006.12.08,64,William Mason,401,599,Tienda5
+56203640,3,redmi note 9,8592010,2009.04.24,0,Rololandia,Pablito Escobar,57783898,charlesrussell@example.net,4.648625,-74.1,Anthony Baker,2009.04.24,534,Thomas Parks MD,52,31,Tienda5
+27923265,2,redmi note 8,80028001,1998.05.29,0,machupichu,Palomas,3883547,lcampbell@example.com,-12.037964,-77.0503238,Jason Fields,1998.05.29,31,Connor Landry,943,719,Tienda5
+62500517,6,redmi 8,77041492,1978.11.30,0,La Calor,Pablito Escobar,6206152,johnsonbrian@example.com,10.4002813,-75.5,Christina Bryan,1978.11.30,534,James Erickson,273,536,Tienda5
+47282805,3,redmi note 9,65174843,2006.06.29,0,Tierra del aleteo,Pablito Escobar,70498594,patrickayala@example.net,6.2441988,-75.6,Alicia Browning,2006.06.29,215,Louis Stewart,599,899,Tienda5
+94849396,3,redmi note 9,89126500,1986.06.17,0,Rololandia,Pablito Escobar,56550732,joshua03@example.org,4.648625,-74.1,John Holloway,1986.06.17,135,Bridget Williams,263,309,Tienda5
+53896855,4,redmie note 9s,4556415,2019.08.04,0,La Calor,Pablito Escobar,32464879,susan16@example.com,10.4002813,-75.5,Denise Garcia,2019.08.04,544,Michael Smith,46,635,Tienda5
+17283032,2,redmi note 8,49855099,2012.09.13,0,machupichu,Palomas,8842915,tonyawilliams@example.org,-12.037964,-77.0503238,Matthew Pena,2012.09.13,77,Kim Gonzalez,339,923,Tienda5
+84231943,4,redmie note 9s,43013350,2017.01.26,0,machupichu,Palomas,70992944,hernandezjeffrey@example.net,-12.037964,-77.0503238,Meredith Hart,2017.01.26,813,Mr. Dustin Bell PhD,677,48,Tienda5
+58573747,6,redmi 8,49503659,2018.11.07,0,Tierra del aleteo,Pablito Escobar,54678535,allen29@example.com,6.2441988,-75.6,Matthew Dalton,2018.11.07,573,Victoria Smith,165,549,Tienda5
+33767561,2,redmi note 8,98482191,2000.01.21,1,Tierra del aleteo,Pablito Escobar,53848691,thomaspittman@example.net,6.2441988,-75.6,Jane Gonzalez,2000.01.21,68,Courtney Snyder,558,349,Tienda5
+84242385,2,redmi note 8,10529750,1993.08.30,0,Rololandia,Pablito Escobar,58566174,richard59@example.com,4.648625,-74.1,Mallory Dixon,1993.08.30,232,Kyle Taylor,47,410,Tienda5
+31683748,2,redmi note 8,12672158,1979.01.22,0,La Calor,Pablito Escobar,21866701,michaelgarcia@example.net,10.4002813,-75.5,Jonathan Austin,1979.01.22,47,Beth Chandler,761,459,Tienda5
+21393815,1,redmi note 7,13926874,1974.04.22,0,Rololandia,Pablito Escobar,39102689,carl37@example.net,4.648625,-74.1,Alexis Nixon,1974.04.22,323,Lisa Durham,455,109,Tienda5
+34506978,3,redmi note 9,54743292,1972.05.03,0,machupichu,Palomas,30767831,briana81@example.org,-12.037964,-77.0503238,Richard Dixon,1972.05.03,474,Michael White,487,856,Tienda5
+47146327,4,redmie note 9s,71191404,2004.06.22,0,machupichu,Palomas,43309060,franciscohawkins@example.net,-12.037964,-77.0503238,Anthony West,2004.06.22,110,Jason Payne,278,368,Tienda5
+34381135,2,redmi note 8,48421918,2007.05.23,0,Rololandia,Pablito Escobar,89116019,kevindavis@example.com,4.648625,-74.1,Ashley Sandoval,2007.05.23,264,Joseph Floyd,143,611,Tienda5
+13399616,4,redmie note 9s,97098594,2012.06.26,0,Rololandia,Pablito Escobar,4859786,terrijohnson@example.net,4.648625,-74.1,Joshua Peterson,2012.06.26,751,Kayla Cooper,469,525,Tienda5
+1497630,5,redmi 7,64553414,2016.03.13,0,Tierra del aleteo,Pablito Escobar,76621225,xperez@example.org,6.2441988,-75.6,Marc Atkinson,2016.03.13,183,Sara Wolfe,780,525,Tienda5
+84570411,5,redmi 7,38339132,2003.01.23,0,Tierra del aleteo,Pablito Escobar,10248587,pamelamoore@example.net,6.2441988,-75.6,Sean Mckenzie,2003.01.23,841,Nancy Watkins,924,701,Tienda5
+34581986,4,redmie note 9s,75056522,1990.02.27,0,Rololandia,Pablito Escobar,63275995,dstewart@example.com,4.648625,-74.1,Robert Cross,1990.02.27,933,Margaret Mcdonald,693,431,Tienda5
+36226543,5,redmi 7,39679818,1979.05.20,0,Rololandia,Pablito Escobar,76026240,aaron46@example.org,4.648625,-74.1,Jared Hahn,1979.05.20,375,Crystal Norris,376,860,Tienda5
+62702596,5,redmi 7,74346020,1978.10.13,0,machupichu,Palomas,49057745,sandersjacob@example.com,-12.037964,-77.0503238,Brent Turner,1978.10.13,619,Jennifer Conley,86,639,Tienda5
+40428093,2,redmi note 8,15645631,1977.04.02,0,Rololandia,Pablito Escobar,21665419,lpierce@example.org,4.648625,-74.1,Jeremy Harris,1977.04.02,708,Joseph Moore,678,323,Tienda5
+14860150,5,redmi 7,85068914,1985.08.03,0,La Calor,Pablito Escobar,65298540,karenschmidt@example.com,10.4002813,-75.5,Derek Conrad,1985.08.03,537,Gregory Pearson,941,964,Tienda5
