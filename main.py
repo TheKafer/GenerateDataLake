@@ -141,15 +141,15 @@ def generate_market_batch(market):
             idClient = str(random.randint(1000000, 99999999))
 
         if market == 1:
-            marketName = 'Tiendita 1'
+            marketName = 'Tienda1'
         if market == 2:
-            marketName = 'Tiendita 2'
+            marketName = 'Tienda2'
         if market == 3:
-            marketName = 'Tiendita 3'
+            marketName = 'Tienda3'
         if market == 4:
-            marketName = 'Tiendita 4'
+            marketName = 'Tienda4'
         if market == 5:
-            marketName = 'Tiendita 5'
+            marketName = 'Tienda5'
         data.append([
             random.randint(1, 100000000),
             getProductId(product),
@@ -169,7 +169,7 @@ def generate_market_batch(market):
             fake.name(),
             random.randint(1, 1000),
             random.randint(1, 1000),
-            # marketName
+            marketName
         ]
         )
 
@@ -192,7 +192,7 @@ def generate_market_batch(market):
         'Name_Deliver_Man',
         'Product_Cost',
         'Product_Value',
-        # 'Market_Name'
+        'Market_Name'
     ])
 
     now = str(datetime.now())
@@ -205,7 +205,8 @@ def generate_market_batch(market):
     df.to_csv(f'market{market}_{now}.csv', index=False)
 
 
-generate_market_batch(1)
+# generate_market_batch(1)
+
 generate_market_batch(2)
 generate_market_batch(3)
 generate_market_batch(4)
