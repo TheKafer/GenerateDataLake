@@ -4,6 +4,11 @@ from faker import Faker
 import random
 from faker.providers import internet
 from datetime import datetime
+import os
+import logging
+import json 
+from google.cloud import storage
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"]="creds.json"
 
 
 market1 = ['hammer', 'saw', 'clove', 'paste', 'drill',
@@ -201,11 +206,14 @@ def generate_market_batch(market):
     now = now.replace('.', '_')
     now = now.replace('-', '_')
     print("now =", now)
+    pathh = f'market{market}_{now}.csv'
 
-    df.to_csv(f'market{market}_{now}.csv', index=False)
-
-
-# generate_market_batch(1)
+    df.to_csv(pathh, index=False)
+    blob = bucket.blob(pathh)
+    blob.upload_from_filename(pathh)
+    
+client = storage.Client()
+bucket = client.get_bucket('dollarcity-distribuida2021-desarrollo-transporte-bucket1-gs')
 
 generate_market_batch(2)
 generate_market_batch(3)
