@@ -155,6 +155,7 @@ def generate_market_batch(market):
             marketName = 'Tienda4'
         if market == 5:
             marketName = 'Tienda5'
+        productValue = random.randint(1, 1000)
         data.append([
             random.randint(1, 100000000),
             getProductId(product),
@@ -172,8 +173,8 @@ def generate_market_batch(market):
             birthDate,
             random.randint(1, 1000),
             fake.name(),
-            random.randint(1, 1000),
-            random.randint(1, 1000),
+            round(productValue*(random.uniform(0.1, 0.8))),
+            productValue,
             marketName
         ]
         )
