@@ -5,15 +5,15 @@ import random
 from faker.providers import internet
 from datetime import datetime
 
-
 market1 = ['hammer', 'saw', 'clove', 'paste', 'drill',
            'circular saw', 'screw', 'rope', 'cement']
 market2 = ['shoes', 'skirt', 'underwear', 'scarf',
            'socks', 'hat', 'T-Shirt', 'gloves', 'bikini']
-market3 = ['dirt', 'flower', 'carrot seeds',
+market3 = ['dirt', 'flower', 'carrot seeds', 'Clove', 'Rope', 'Drill',
            'apple seeds', 'shovel', 'fertilizer', 'onion seeds']
-market4 = ['PC', 'charger smartphone', 'headphones', 'cases', 'selfie stick']
-market5 = ['redmi note 7', 'redmi note 8', 'redmi note 9',
+market4 = ['PC', 'charger smartphone', 'headphones', 'cases', 'selfie stick',
+            'Redmi Note 7', 'Redmi Note 8','Redmie Note 9s' ]
+market5 = ['redmi note 7', 'redmi note 8', 'redmi note 9', 'Charger SmartPhone',
            'redmie note 9s', 'redmi 7', 'redmi 8', 'redmi 9']
 
 cities = {
